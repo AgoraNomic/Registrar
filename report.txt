@@ -5,13 +5,11 @@
 (all times UTC)
 
 Date of last report: 18 Apr 2017
-Date of this report: 18May 2017
+Date of this report: 
 
 Recent events:
 
-G. deregistered
-grok registered
-Gaelan registered
+
 
 Players (17) (Rule 869, self-ratifying)
 
@@ -83,12 +81,12 @@ Watchers (4)
 
     Nickname          Contact
     --------          -------
-    ÃƒËœrjan             oerjan at nvg.ntnu.no
+    Ørjan             oerjan at nvg.ntnu.no
 
     Watchers confirmed as of May 2013:
 
-    Nickname          Contact Requested
-    --------          ------- ---------
-    Dave              davidnicol at gmail.com                6 Jan 03
-    Phlogistique      noe.rubinstein at gmail.com           28 Feb 14
-    Steve             zardoz37 at gmail.com                 20 Dec 07
+    Nickname          Contact 
+    --------          -------                               
+    Dave              davidnicol at gmail.com                
+    Phlogistique      noe.rubinstein at gmail.com           
+    Steve             zardoz37 at gmail.com                 
