@@ -88,17 +88,6 @@ Watchers (4)
     Dave              davidnicol at gmail.com                
     Phlogistique      noe.rubinstein at gmail.com           
     Steve             zardoz37 at gmail.com
-      Public       agora at listserver.tue.nl            backup
-
-      Subscribe or unsubscribe from main lists:
-        http://www.agoranomic.org/cgi-bin/mailman/listinfo
-
-      Subscribe or unsubscribe from tue.nl backup list:
-        http://listserver.tue.nl/mailman/listinfo/agora
-
-      The IRC channel does not require subscription; set your IRC client to
-      server irc.freenode.net, port 6667, channel ##nomic, and whatever
-      nickname you like.
 
 Registration history (imperfect, corrections welcomed)
 
@@ -159,21 +148,28 @@ w     Kelly                                                         7 Nov 95
 
 Left in 1996:
 
-      KoJen               cogen at ll.mit.edu                           1 Jan 96
-a?    Vlad                c647100 at showme.missouri.edu   14 Nov 95    1 Jan 96
-a     Ian Cabell          ian at yak.net                                2 Jan 96
-      Oerjan                                                            3 Jan 96
+      KoJen               cogen at ll.mit.edu                            1 Jan 96
+a?    Vlad                c647100 at showme.missouri.edu   14 Nov 95     1 Jan 96
+a     Ian Cabell          ian at yak.net                                 2 Jan 96
+      Oerjan                                                             3 Jan 96
       Pascal              jreed at waun.tdsnet.com         15 Nov 95    21 Jan 96
 v     Wes                 wesc at antitribu.com          <= 8 Nov 95    21 Feb 96
-
-96<=
-Dave Bowen david.bowen at cray.com <=10 Jan 95 21 Feb 96 Vlad c647100 at showme.missouri.edu Jan 96 21 Feb 96 Swann saswann at gwis.com 14 Nov 95 23 Feb
-
-96<=
-      Coren               coren at teleport.com         <=21 Feb 96 Mar 96
-      Wes                 gecko at magika.com <unknown>    6 Mar 96
-Greycell dshannon at ga.com.au Mar 96 21 Mar 96 Ghost labrown at dg-rtp.dg.com <=21 Feb 96 25 Mar 96 Blob malcolmr at cse.unsw.edu.au 6 Jan 96 31 Mar 96 Doug dchatham at utk.edu <= 2 Feb 96 13 Apr 96 dcuman shodan at indirect.com <=31 Jan 96 23 Apr 96 Narcisse hap at iglou.com Apr 96 21 May 96 Jtael mhough at leland.stanford.edu <=21 Feb 96 24 Jul 96 Kelly 17 Nov 95 29 Jul 96 else...if htowsner at stanford.edu [1] 30 Jul 96 21 Aug 96 Kelly Oct 96 7 Nov 96
-a Coren               coren at teleport.com              Sep 96   20 Dec 96
+      Dave Bowen          david.bowen at cray.com        <=10 Jan 95    21 Feb 96 
+      Vlad                c647100 at showme.missouri.edu      Jan 96    21 Feb 96 
+      Swann               saswann at gwis.com              14 Nov 95    23 Feb 96
+      Coren               coren at teleport.com          <=21 Feb 96       Mar 96
+      Wes                 gecko at magika.com                            6 Mar 96
+      Greycell            dshannon at ga.com.au               Mar 96    21 Mar 96 
+      Ghost               labrown at dg-rtp.dg.com       <=21 Feb 96    25 Mar 96 
+      Blob                malcolmr at cse.unsw.edu.au       6 Jan 96    31 Mar 96 
+      Doug                dchatham at utk.edu            <= 2 Feb 96    13 Apr 96 
+      dcuman              shodan at indirect.com         <=31 Jan 96    23 Apr 96 
+      Narcisse            hap at iglou.com                    Apr 96    21 May 96 
+      Jtael               mhough at leland.stanford.edu  <=21 Feb 96    24 Jul 96 
+      Kelly                                                17 Nov 95    29 Jul 96 
+      else...if           htowsner at stanford.edu [1]     30 Jul 96    21 Aug 96
+      Kelly                                                   Oct 96     7 Nov 96
+a     Coren               coren at teleport.com               Sep 96    20 Dec 96
 
 [1] (aka Henry)
 
