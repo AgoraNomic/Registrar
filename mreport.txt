@@ -100,26 +100,6 @@ Watchers (4)
       server irc.freenode.net, port 6667, channel ##nomic, and whatever
       nickname you like.
 
-Other rules pertaining to this office
--------------------------------------
-Rule 2139 (The Registrar)
-Rule 1789 (Cantus Cygneus)
-
-Watchers (3)
-
-      The list of Watchers is not governed by the rules, but is
-      traditionally maintained in the Registrar's Report.  If you'd like to
-      be listed as a Watcher or removed from the list, feel free to email
-      the fora or the Registrar directly.
-
-      Watchers confirmed still watching as of May 2013:
-
-      Nickname          Contact Requested
-      --------          ------- ---------
-      Dave              davidnicol at gmail.com                6 Jan 03
-      Phlogistique      noe.rubinstein at gmail.com           28 Feb 14
-      Steve             zardoz37 at gmail.com                 20 Dec 07
-
 Registration history (imperfect, corrections welcomed)
 
       (a)bandoned       (l)awless
@@ -128,54 +108,63 @@ Registration history (imperfect, corrections welcomed)
       (p)roposal        d(e)stroyed
       (r)atification
 
-Year of Deregistration Reg.        Dereg.
+Year of Deregistration                                              
 
 Left in 1994:
 
-      Alexx               alexx at world.std.com <unknown>    5 Apr
-      Andy Latto          andyl at harlequin.com <unknown>    5 Apr
-      Douglas Jahnke      chaotic at ksuvm.ksu.edu <unknown>    5 Apr
-      Jim                 jcs at zycor.lgc.com <unknown>    5 Apr
-      Karl Anderson       karl at reed.edu <unknown>    5 Apr
-      Kirt                dankmyer at ac.grin.edu <unknown>    5 Apr
-      Matt                pardo at gibbs.oit.unc.edu <unknown>    5 Apr
-v     Waggie              dgwagner at math.uwaterloo.ca <unknown>    5 Apr
-      Wes                 wesc at ichips.intel.com <unknown>    5 Apr
-      Timothy             timothy.ferguson at jcu.edu.au <unknown>   12 Sep
+      Alexx               alexx at world.std.com <unknown>          5 Apr
+      Andy Latto          andyl at harlequin.com <unknown>          5 Apr
+      Douglas Jahnke      chaotic at ksuvm.ksu.edu <unknown>        5 Apr
+      Jim                 jcs at zycor.lgc.com <unknown>            5 Apr
+      Karl Anderson       karl at reed.edu <unknown>                5 Apr
+      Kirt                dankmyer at ac.grin.edu <unknown>         5 Apr
+      Matt                pardo at gibbs.oit.unc.edu <unknown>      5 Apr
+v     Waggie              dgwagner at math.uwaterloo.ca <unknown>   5 Apr
+      Wes                 wesc at ichips.intel.com <unknown>        5 Apr
+      Timothy             timothy.ferguson at jcu.edu.au <unknown>  12 Sep
 
 Left in 1995:
 
-Chuck ccarroll at students.wisc.edu 5 Apr 94<= <unknown> Dave Bowen david.bowen at cray.com 5 Apr 94<= <unknown> Nicol dnicol at primus.cstp.umkc.edu 5 Apr 94<= <unknown> Lance lab at biostat.mc.duke.edu 5 Apr 94<= <unknown> Stella? kunne at cernvm.cern.ch 5 Apr 94<= <unknown> Alice cat at orion.mrc.unm.edu 5 Apr 94<= <unknown> Duane duanew at atlas.com 5 Apr 94<= <unknown> Eric Scheirer escheire at cim470.mitre.org 5 Apr 94<= <unknown> Gustalff Zibrowski clarkc at cpsc.ucalgary.ca 5 Apr 94<= <unknown> Larry Smithmier smithmierjr at uamont.edu 5 Apr 94<= <unknown>
-      Jason2 <unknown>    95
-      Susan <unknown>    95
-      Brian Greer <unknown> Aug 95
-      TAL                 kunne at ipno.in2p3.fr <unknown> Aug 95
-      Pascal              jreed at waun.tdsnet.com 95 Aug 95
-      JonRock <unknown> Oct 95
+      Chuck ccarroll at students.wisc.edu 5 Apr 94
+      Dave Bowen david.bowen at cray.com 5 Apr 94
+      Nicol dnicol at primus.cstp.umkc.edu 5 Apr 94
+      Lance lab at biostat.mc.duke.edu 5 Apr 94
+      Stella? kunne at cernvm.cern.ch 5 Apr 94
+      Alice cat at orion.mrc.unm.edu                       5 Apr 94
+      Duane duanew at atlas.com                            5 Apr 94
+      Eric Scheirer escheire at cim470.mitre.org           5 Apr 94
+      Gustalff Zibrowski clarkc at cpsc.ucalgary.ca        5 Apr 94
+      Larry Smithmier smithmierjr at uamont.edu            5 Apr 94
+      Jason2                                                     95
+      Susan                                                      95
+      Brian Greer                                                   Aug 95
+      TAL                 kunne at ipno.in2p3.fr                    Aug 95
+      Pascal              jreed at waun.tdsnet.com               95 Aug 95
+      JonRock                                                       Oct 95
       Garth                                                  Sep 95 Oct 95
       wutold                                                 Oct 95 Oct 95
-      Einstein <unknown> Oct 95
-      Jeffrey S. <unknown>   25 Oct 95
-Xanadu A.Bishop at student.anu.edu.au <unknown> 26 Oct 95
+      Einstein                                                      Oct 95
+      Jeffrey S.                                                    25 Oct 95
+      Xanadu               A.Bishop at student.anu.edu.au           26 Oct 95
       CoCo                                                   Oct 95 Nov 95
-w     Kelly <unknown>    7 Nov 95
-      elJefe              eljefe at eastpac.com <unknown>   22 Nov 95
+w     Kelly                                                         7 Nov 95
+      elJefe              eljefe at eastpac.com                     22 Nov 95
       Oerjan                                                 Sep 95 Dec 95
-Zefram zefram at tao.co.uk 16 Jun 95<= Dec 95
+      Zefram              zefram at tao.co.uk           16 Jun 95<= Dec 95
       Marc Slager                                         22 Nov 95 Dec 95
-      CoCo <unknown>    3 Dec 95
-SaltWater gorgonne at becker.u.was...[1] <unknown> 11 Dec 95
+      CoCo                                                          3 Dec 95
+      SaltWater gorgonne at becker.u.was...[1]                      11 Dec 95
 
 [1] gorgonne at becker.u.washington.edu
 
 Left in 1996:
 
-      KoJen               cogen at ll.mit.edu <unknown>    1 Jan 96
-a?Vlad                c647100 at showme.missouri.edu  14 Nov 95    1 Jan 96
-a Ian Cabell          ian at yak.net <unknown>    2 Jan 96
-      Oerjan <unknown>    3 Jan 96
-Pascal jreed at waun.tdsnet.com 15 Nov 95 21 Jan 96
-v Wes                 wesc at antitribu.com         <= 8 Nov 95   21 Feb
+      KoJen               cogen at ll.mit.edu                           1 Jan 96
+a?    Vlad                c647100 at showme.missouri.edu   14 Nov 95    1 Jan 96
+a     Ian Cabell          ian at yak.net                                2 Jan 96
+      Oerjan                                                            3 Jan 96
+      Pascal              jreed at waun.tdsnet.com         15 Nov 95    21 Jan 96
+v     Wes                 wesc at antitribu.com          <= 8 Nov 95    21 Feb 96
 
 96<=
 Dave Bowen david.bowen at cray.com <=10 Jan 95 21 Feb 96 Vlad c647100 at showme.missouri.edu Jan 96 21 Feb 96 Swann saswann at gwis.com 14 Nov 95 23 Feb
@@ -192,12 +181,12 @@ Left in 1997:
 
 v KoJen               cogen at ll.mit.edu              2 Jan 96   12 Jun 97
 v favor               chess at watson.ibm.com       <= 7 Nov 95   12 Jun 97
-Elde elde at hurricane.net <=16 Apr 97 4 Oct 97
+  Elde                elde at hurricane.net         <=16 Apr 97 4 Oct 97
 v Zefram              zefram at tao.co.uk              4 Jan 96   29 Oct 97
-Morendil laurent at netdive.com <=11 Oct 95 <= 3 Nov 97
+  Morendil            laurent at netdive.com        <=11 Oct 95 <= 3 Nov 97
 v ChrisM              cmonsour at Princeton.EDU     <=23 Oct 95   11 Nov 97
-Blob malcolmr at cse.unsw.edu.au Nov 96 <=20 Nov 97
-a Calabresi           mcdaniel at law.harvard.edu <unknown>    5 Dec 97
+  Blob                malcolmr at cse.unsw.edu.au        Nov 96 <=20 Nov 97
+a Calabresi           mcdaniel at law.harvard.edu                  5 Dec 97
 a Vanyel              dpb at cs.brown.edu           <=21 Feb 96    5 Dec 97
 
 Left in 1998:
@@ -209,7 +198,7 @@ v Jester              KJarvis at interworx.com.au      2 Jan 98    1 May 98
 v Sherlock            jfry77 at yahoo.com             16 Jan 98   14 May 98
 a Swann               saswann at gwis.com             29 Oct 97   15 Sep 98
 v Antimatter          rmorganl at fred.fhcrc.org       5 Mar 98   31 Oct 98
-Harlequin charlequin at yahoo.com Jan 97 27 Nov 98
+  Harlequin           charlequin at yahoo.com            Jan 97   27 Nov 98
 
 Left in 1999:
 
@@ -217,7 +206,7 @@ a Proglet             proglet at usa.net               9 Nov 98   15 Jan 99
 v lee                 lee at pyrzqxgl.org             18 Jul 98    8 Feb 99
 w Andre               engels at win.tue.nl            28 Nov 98   13 Feb 99
 v Macross             macross at bellatlantic.net     21 May 98   22 Mar 99
-Kelly Mar 97 12 Apr 99
+  Kelly                                                  Mar 97   12 Apr 99
 v Vlad                c647100 at showme.missouri.edu  28 Jan 99   20 Jun 99
 l Morendil            laurent at netdive.com           3 Nov 97   28 Jun 99
 v The Colonel         blafard at uclink4.berkeley.edu  7 Aug 99    8 Aug 99
@@ -233,7 +222,7 @@ Oerjan (Zombie 20 Sep 99 - 25 Dec 99) Apr 96 22 Mar 00
 v elJefe              eljefe at eastpac.com              Jan 96   16 Apr 00
 v else...if           htowsner at stanford.edu [1]    15 Apr 00   21 May 00
 v Sherlock            jfry77 at yahoo.com             31 Jan 00   25 Jul 00
-lee lee at pyrzqxgl.org 4 Jun 99 2 Sep 00
+  lee                 lee at pyrzqxgl.org              4 Jun 99    2 Sep 00
 v Andre               engels at win.tue.nl            18 Aug 00    6 Dec 00
 
 [1] aka Henry
@@ -245,11 +234,26 @@ v Stuart              stuart.presnell at bristo...[1] 24 Feb 01   26 Apr 01
 v loh                 loh at lohnet.org               19 Jan 01   23 May 01
 v Annabel             lenore at sdf.lonestar.org      16 May 01   31 May 01
 a Chuck               games_na at chuckcarroll.org     1 Sep 93    8 Jun 01
-lee lee at pyrzqxgl.org 13 Dec 00 8 Jul 01
+  lee                 lee at pyrzqxgl.org             13 Dec 00    8 Jul 01
 v Ziggy               me at davidglasser.net          14 Jan 01    9 Jul 01
-Kelly kmartin at pyrzqxgl.org 1 May 00 10 Jul 01
+  Kelly               kmartin at pyrzqxgl.org          1 May 00   10 Jul 01
 v Yoz420              tlifschitz at empirix.com        8 Mar 01   26 Jun 01
-Harlequin charlequin at yahoo.com 10 Jan 00 20 Aug 01 Wes wesc at antitribu.com 18 May 99 7 Sep 01 Anthony abriggs at iinet.net.au 11 Feb 00 10 Sep 01 David David.Dickens at pepperdine.edu 18 Dec 00 10 Sep 01 Grech xe5j0y4halv3ev001 at snea...[2] 5 Feb 01 10 Sep 01 Novalis turnerd at reed.edu 14 Feb 00 10 Sep 01 Schneidster Et3schneid at aol.com 12 Jun 99 10 Sep 01 Blob malcolmr at cse.unsw.edu.au 20 Nov 97 10 Sep 01 Peekee pkpeekee at hotmail.com 25 Dec 98 7 Oct 01 Ian oneiros at ferret.lmh.ox.ac.uk 2 Apr 01 8 Oct 01 Hooloovoo mhui421 at hotmail.com 22 Feb 01 8 Oct 01 Elysion elysion at mindspring.com 23 Feb 99 1 Nov 01 Evantine gordonhogenson at hotmail.com 9 Feb 01 1 Nov 01 Lindrum lindrum at panix.com 9 Feb 01 1 Nov 01 solublefish WGarner at Empirix.com 31 Mar 01 12 Nov 01 S. bookfool2001 at hotmail.com 30 May 01 17 Nov 01
+  Harlequin           charlequin at yahoo.com         10 Jan 00   20 Aug 01 
+  Wes                 wesc at antitribu.com           18 May 99    7 Sep 01 
+  Anthony             abriggs at iinet.net.au         11 Feb 00   10 Sep 01 
+  David               David.Dickens at pepperdine.edu 18 Dec 00   10 Sep 01 
+  Grech               xe5j0y4halv3ev001 at snea...[2]  5 Feb 01   10 Sep 01 
+  Novalis             turnerd at reed.edu             14 Feb 00   10 Sep 01 
+  Schneidster         Et3schneid at aol.com           12 Jun 99   10 Sep 01 
+  Blob                malcolmr at cse.unsw.edu.au     20 Nov 97   10 Sep 01 
+  Peekee              pkpeekee at hotmail.com         25 Dec 98    7 Oct 01 
+  Ian                 oneiros at ferret.lmh.ox.ac.uk   2 Apr 01    8 Oct 01 
+  Hooloovoo           mhui421 at hotmail.com          22 Feb 01    8 Oct 01 
+  Elysion             elysion at mindspring.com       23 Feb 99    1 Nov 01 
+  Evantine            gordonhogenson at hotmail.com    9 Feb 01    1 Nov 01 
+  Lindrum             lindrum at panix.com             9 Feb 01    1 Nov 01 
+  solublefish         WGarner at Empirix.com          31 Mar 01   12 Nov 01 
+  S.                  bookfool2001 at hotmail.com     30 May 01   17 Nov 01
 
 [1] stuart.presnell at bristol.ac.uk
 [2] xe5j0y4halv3ev001 at sneakemail.com
@@ -329,9 +333,9 @@ p Peter               civilianjones at gmail.com      24 Dec 06   31 May 07
 p sproingie           cja987 at gmail.com             20 Dec 06   31 May 07
 p Yang Corp           <none>                          21 May 07   31 May 07
 p Yin Corp            <none>                          21 May 07   31 May 07
-The Hanging Judge c/o Zefram and comex 22 May 07 9 Jun 07
+  The Hanging Judge   c/o Zefram and comex            22 May 07    9 Jun 07
 v Peekee              agora at peekee.co.uk            3 Aug 07   12 Aug 07
-The Host c/o Levi and Murphy 21 Aug 07 30 Aug 07
+  The Host            c/o Levi and Murphy             21 Aug 07   30 Aug 07
 v Murphy              emurphy42 at socal.rr.com     < 23 Jan 96   24 Sep 07
 v Wooble              geoffspear at gmail.com          3 Jul 07   30 Sep 07
 v BobTHJ              pidgepot at gmail.com           30 Apr 07    1 Oct 07
@@ -398,7 +402,7 @@ a Zefram              zefram at fysh.org              10 Jan 07   16 Feb 09
 a Pineapple P         pineapple at fysh.org           26 Feb 07   16 Feb 09
 p Protection Racket   c/o BobTHJ                      23 Jun 08   22 Feb 09
 p Reformed Ban...[4]  c/o BobTHJ                      23 Jun 08   22 Feb 09
-AFO c/o Murphy 17 Sep 07 11 Feb 09
+  AFO                 c/o Murphy                      17 Sep 07   11 Feb 09
 v Goethe              kerim at u.washington.edu       19 Jun 08    1 Apr 09
 a Elysion             boehmejo at msu.edu             20 Oct 08    7 Apr 09
 a Craig               teucer at pobox.com              3 Jan 09   19 Apr 09
@@ -436,25 +440,18 @@ d Tiger Jr.           c/o Tiger                       18 Jun 09   18 Jun 09
 d PNP                 perlnomic at nomictools.com     21 Jan 08   28 Jun 09
 v Warrigal            ihope127+w at gmail.com         16 Mar 09    6 Jul 09
 d Tiger Jr.           c/o Tiger?                      18 Jun 09   10 Jul 09
-
 [1]
 d Caste8a             c/o C-walker?                   18 Jun 09   10 Jul 09
-
 [1]
 d Caste8b             c/o C-walker?                   18 Jun 09   10 Jul 09
-
 [1]
 d Caste8c             c/o C-walker?                   18 Jun 09   10 Jul 09
-
 [1]
 d Caste8d             c/o C-walker?                   18 Jun 09   10 Jul 09
-
 [1]
 d Caste8e             c/o C-walker?                   18 Jun 09   10 Jul 09
-
 [1]
 d Caste8f             c/o C-walker?                   18 Jun 09   10 Jul 09
-
 [1]
 v Darth Cliche        kennercat at gmail.com          24 Jul 09   31 Jul 09
 v Warrigal            ihope127+ at gmail.com           6 Aug 09    6 Aug 09
@@ -689,34 +686,3 @@ a Bayushi            thelas.staloras at gmail.com     19 Oct 13   16 Jul 15
 a Khoyo              khoyobegenn at gmail.com         13 Nov 13   16 Jul 15
 v ironiridis         ironiridis at gmail.com           1 May 15   29 Jul 15
 
-END OF THE REGISTRAR'S REPORT
-
---nichdel
-
-Previous messageView by threadView by dateNext message
-OFF: [Registrar] Weekly Report woggle
-OFF: [Registrar] Weekly Report nichdel
-OFF: [Registrar] Weekly Report Nicholas Evans
-OFF: [Registrar] Weekly Report Nicholas Evans
-OFF: [Registrar] Weekly Report Nicholas Evans
-OFF: [Registrar] Weekly Report Nicholas Evans
-OFF: [Registrar] Weekly Report nichdel
-OFF: [Registrar] Weekly Report nichdel
-OFF: [Registrar] Weekly Report nichdel
-OFF: [Registrar] Weekly Report Publius Scribonius Scholasticus
-OFF: [Registrar] Weekly Report Publius Scribonius Scholasticus
-OFF: [Registrar] Weekly Report Publius Scribonius Scholasticus
-Reply via email to
- nichdel 
-The Mail Archive
-
-Search agora-official
-Submit
-The Mail Archive home
-agora-official - all messages
-agora-official - about the list
-Expand
-Previous message
-Next message
-agora-official
-The Mail Archive home Add your mailing list FAQ Support Privacy 8dcd9329-4aa6-51a5-bf5b-a2589a58441d@gmail.com
