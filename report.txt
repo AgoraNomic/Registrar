@@ -4,14 +4,14 @@
 
 (all times UTC)
 
-Date of last report: 18 May 2017
-Date of this report: 28 May 2017
+Date of last report: 28 May 2017
+Date of this report: 31 May 2017
 
 Recent events:
 
 
 
-Players (24) (Rule 869, self-ratifying)
+Players (22) (Rule 869, self-ratifying)
 
     Player               Contact                                 Registered
     ------               -------                                 ----------
@@ -21,7 +21,6 @@ Players (24) (Rule 869, self-ratifying)
     Charles              charles.w.walker at gmail.com           11 Jul 16
     Henri                henrib736 at gmail.com                  07 May 13
     Murphy               emurphy42 at zoho.com                   27 Oct 07
-    nichdel              nichdel at gmail.com                    01 Dec 15
     o                    owen at grimoire.ca                     12 Jul 16
     omd                  comexk at gmail.com [2]                 03 Feb 11
     Sci_Guy12            jwc.science at gmail.com                14 Jul 16
@@ -35,10 +34,9 @@ Players (24) (Rule 869, self-ratifying)
     P. Scholasticus [5]  pscriboniusscholasticus at gmail.com[6] 16 Apr 17
     tmanthe2nd           trstnbrdwg0 at gmail.com                13 May 17
     Gaelan               gbs at canishe.com                      15 May 17
-    grok                 grokagora at gmail.com                  18 May 17
     Cuddlebeam           cuddlebeam at googlemail.com            20 May 17
     Ienpw III            james.m.beirne at gmail.com             21 May 17
-    Veggiekeks           martinjroensch at gmail.com                25 May 17
+    Veggiekeks           martinjroensch at gmail.com             25 May 17
 
 
 [1] also ais523 at alumni.bham.ac.uk
@@ -80,7 +78,7 @@ Watchers (4)
     be listed as a Watcher or removed from the list, feel free to email
     the fora or the Registrar directly.
 
-    Watchers confirmed as of Sep 2016:
+    Watchers confirmed as of May 2017:
 
     Nickname          Contact
     --------          -------
