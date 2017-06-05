@@ -1,9 +1,10 @@
 ------------------------------------------------------------------------
-                      Registrar's Monthly Report
+                       Registrar's Monthly Report
 ------------------------------------------------------------------------
+
 (all times UTC)
 
-Date of last report: 31 May 17
+Date of last report: 31 May 2017
 Date of this report: 
 
 Recent events:
@@ -28,12 +29,14 @@ Players (14) (Rule 869, self-ratifying)
     Cuddlebeam           cuddlebeam at googlemail.com            20 May 17
     Ienpw III            james.m.beirne at gmail.com             21 May 17
     Veggiekeks           martinjroensch at gmail.com             25 May 17
+    omd                  comexk at gmail.com [5]                 03 Feb 11
 
 
 [1] also ais523 at alumni.bham.ac.uk
 [2] also known as Gumball
 [3] In full, Publius Scribonius Scholasticus
 [4] officially, but technically equivalent p.scribonius.scholasticus at googlemail.com
+[5] officially, but technically equivalent c.ome.xk at gmail.com
 
 Fora (Rule 478, self-ratifying)
 
@@ -79,7 +82,8 @@ Watchers (4)
     --------          -------                               
     Dave              davidnicol at gmail.com                
     Phlogistique      noe.rubinstein at gmail.com           
-    Steve             zardoz37 at gmail.com  
+    Steve             zardoz37 at gmail.com                 
+
 
 Registration history (imperfect, corrections welcomed)
 
@@ -691,11 +695,9 @@ v nichdel            nichdel at gmail.com             01 Dec 15   29 May 17
 d aranea             aranea at aixea.de               31 Aug 14   31 May 17
 d Charles            charles.w.walker at gmail.com    11 Jul 16   31 May 17
 d Henri              henrib736 at gmail.com           07 May 13   31 May 17
-d omd                comexk at gmail.com [1]          03 Feb 11   31 May 17
 d Sci_Guy12          jwc.science at gmail.com         14 Jul 16   31 May 17
 d Tekneek            tekgora at theglycerintekneek.com12 Jun 15   31 May 17
-d Warrigal, the [2]  tannerswett at gmail.com         25 Apr 15   31 May 17
+d Warrigal, the [1]  tannerswett at gmail.com         25 Apr 15   31 May 17
 d Yally              aarongoldfein at gmail.com       11 Jul 16   31 May 17
 
-[1] officially, but technically equivalent c.ome.xk at gmail.com
-[2] previously Alfonso Machiavelli, the Warrigal
+[1] previously Alfonso Machiavelli, the Warrigal
