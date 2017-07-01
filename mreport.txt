@@ -5,7 +5,7 @@
 (all times UTC)
 
 Date of last report: 31 May 2017
-Date of this report: 
+Date of this report: 31 Jun 2017
 
 Recent events:
 Mass deregistration event - May 31, 2017
@@ -700,5 +700,6 @@ d Sci_Guy12          jwc.science at gmail.com         14 Jul 16   31 May 17
 d Tekneek            tekgora at theglycerintekneek.com12 Jun 15   31 May 17
 d Warrigal, the [1]  tannerswett at gmail.com         25 Apr 15   31 May 17
 d Yally              aarongoldfein at gmail.com       11 Jul 16   31 May 17
+w G.                 kerim at u.washington.edu        29 Jun 17   29 Jun 17
 
 [1] previously Alfonso Machiavelli, the Warrigal
