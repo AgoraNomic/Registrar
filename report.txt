@@ -5,7 +5,7 @@
 (all times UTC)
 
 Date of last report: 30 Jul 2017
-Date of this report: 
+Date of this report: 06 Aug 2017
 
 Recent events:
 
@@ -31,6 +31,7 @@ Players (17) (Rule 869, self-ratifying)
     V.J. Rada            vijarada at gmail.com                   07 Jun 17
     Bayushi              thelas.staloras at gmail.com            29 Jun 17
     nichdel              nichdel at gmail.com                    29 Jun 17
+    babelian             kumarraja.ajay at gmail.com             29 Jul 17
 
 [1] also ais523 at alumni.bham.ac.uk
 [2] also known as Gumball
