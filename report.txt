@@ -10,7 +10,7 @@ Date of this report:
 Recent events:
 
 
-Players (16) (Rule 869, self-ratifying)
+Players (18) (Rule 869, self-ratifying)
 
     Player               Contact                                 Registered
     ------               -------                                 ----------
@@ -20,14 +20,12 @@ Players (16) (Rule 869, self-ratifying)
     o                    owen at grimoire.ca                     12 Jul 16
     Sprocklem            sprocklem at gmail.com                  19 Oct 13
     天火狐                draconicdarkness at gmail.com           06 Nov 16
-    Zachary Watterson [2]tannerswett at gmail.com                26 Mar 17
     Quazie               quazienomic at gmail.com                15 Apr 17
-    P. Scholasticus [3]  pscriboniusscholasticus at gmail.com[4] 16 Apr 17
-    tmanthe2nd           trstnbrdwg0 at gmail.com                13 May 17
+    P. Scholasticus [2]  pscriboniusscholasticus at gmail.com[3] 16 Apr 17
     Gaelan               gbs at canishe.com                      15 May 17
     Ienpw III            james.m.beirne at gmail.com             21 May 17
     Veggiekeks           martinjroensch at gmail.com             25 May 17
-    omd                  comexk at gmail.com [5]                 03 Feb 11
+    omd                  comexk at gmail.com [4]                 03 Feb 11
     grok                 grokagora at gmail.com                  24 Jul 17
     Bayushi              thelas.staloras at gmail.com            29 Jun 17
     nichdel              nichdel at gmail.com                    29 Jun 17
@@ -36,10 +34,9 @@ Players (16) (Rule 869, self-ratifying)
     Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
 
 [1] also ais523 at alumni.bham.ac.uk
-[2] also known as Gumball
-[3] In full, Publius Scribonius Scholasticus
-[4] officially, but technically equivalent p.scribonius.scholasticus at googlemail.com
-[5] officially, but technically equivalent c.ome.xk at gmail.com
+[2] In full, Publius Scribonius Scholasticus
+[3] officially, but technically equivalent p.scribonius.scholasticus at googlemail.com
+[4] officially, but technically equivalent c.ome.xk at gmail.com
 
 Fora (Rule 478, self-ratifying)
 
