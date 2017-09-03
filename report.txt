@@ -86,3 +86,14 @@ Watchers (4)
     Dave              davidnicol at gmail.com                
     Phlogistique      noe.rubinstein at gmail.com           
     Steve             zardoz37 at gmail.com                 
+------------------------------------------------------------------------
+                  Registrar's Weekly Addenda on Switches
+------------------------------------------------------------------------
+Date of this Addenda: 
+Date of the last Addenda: 03 Sep 2017
+--------|-----|
+Variable|Value|
+--------|-----|
+Floating|85   |
+Value   |     |
+--------|-----|
