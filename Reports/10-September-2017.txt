@@ -1,0 +1,98 @@
+------------------------------------------------------------------------
+                       Registrar's Weekly Report
+------------------------------------------------------------------------
+
+(all times UTC)
+
+Date of last report: 03 Sep 2017
+Date of this report: 10 Sep 2017
+
+Recent events:
+
+
+Players (18) (Rule 869, self-ratifying)
+
+    Player               Contact                                 Registered
+    ------               -------                                 ----------
+    ais523               callforjudgement at yahoo.co.uk [1]     20 Mar 11
+    Aris                 thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+    Murphy               emurphy42 at zoho.com                   27 Oct 07
+    o                    owen at grimoire.ca                     12 Jul 16
+    Sprocklem            sprocklem at gmail.com                  19 Oct 13
+    天火狐                draconicdarkness at gmail.com           06 Nov 16
+    Quazie               quazienomic at gmail.com                15 Apr 17
+    P. Scholasticus [2]  pscriboniusscholasticus at gmail.com[3] 16 Apr 17
+    Gaelan               gbs at canishe.com                      15 May 17
+    Ienpw III            james.m.beirne at gmail.com             21 May 17
+    Veggiekeks           martinjroensch at gmail.com             25 May 17
+    omd                  comexk at gmail.com [4]                 03 Feb 11
+    grok                 grokagora at gmail.com                  24 Jul 17
+    Bayushi              thelas.staloras at gmail.com            29 Jun 17
+    nichdel              nichdel at gmail.com                    29 Jun 17
+    babelian             kumarraja.ajay at gmail.com             29 Jul 17
+    G.                   kerim at u.washington.edu               25 Aug 17
+    Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
+    V.J. Rada            vijarada at gmail.com                   05 Sep 17
+    
+
+[1] also ais523 at alumni.bham.ac.uk
+[2] In full, Publius Scribonius Scholasticus
+[3] officially, but technically equivalent p.scribonius.scholasticus at googlemail.com
+[4] officially, but technically equivalent c.ome.xk at gmail.com
+
+Fora (Rule 478, self-ratifying)
+
+    Type         Location                              Typical use
+    ----         -------- -----------
+    Public       agora-official at agoranomic.org      official reports
+    Public       agora-business at agoranomic.org      other business
+    Discussion   agora-discussion at agoranomic.org    discussion
+    Discussion   irc://irc.freenode.net:6667/##nomic   discussion
+    Public       agora at listserver.tue.nl            backup
+
+    Subscribe or unsubscribe from main lists:
+http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+    Subscribe or unsubscribe from tue.nl backup list:
+http://listserver.tue.nl/mailman/listinfo/agora
+
+    The IRC channel does not require subscription; set your IRC client to
+    server irc.freenode.net, port 6667, channel ##nomic, and whatever
+    nickname you like.
+
+Other rules pertaining to this office
+-------------------------------------
+Rule 2139 (The Registrar)
+Rule 1789 (Cantus Cygneus)
+
+Watchers (4)
+
+    The list of Watchers is not governed by the rules, but is
+    traditionally maintained in the Registrar's Report.  If you'd like to
+    be listed as a Watcher or removed from the list, feel free to email
+    the fora or the Registrar directly.
+
+    Watchers confirmed as of May 2017:
+
+    Nickname          Contact
+    --------          -------
+    Ørjan             oerjan at nvg.ntnu.no
+
+    Watchers confirmed as of May 2013:
+
+    Nickname          Contact 
+    --------          -------                               
+    Dave              davidnicol at gmail.com                
+    Phlogistique      noe.rubinstein at gmail.com           
+    Steve             zardoz37 at gmail.com                 
+------------------------------------------------------------------------
+                  Registrar's Weekly Addenda on Switches
+------------------------------------------------------------------------
+Date of this Addenda: 10 Sep 2017
+Date of the last Addenda: 03 Sep 2017
+--------|-----|
+Switch  |Value|
+--------|-----|
+Floating|16   |
+Value   |     |
+--------|-----|
