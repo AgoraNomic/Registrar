@@ -86,8 +86,6 @@ Watchers (4)
 ------------------------------------------------------------------------
                   Registrar's Weekly Addenda on Switches
 ------------------------------------------------------------------------
-Date of this Addenda:
-Date of the last Addenda: 10 Sep 2017
 --------|-----|
 Switch  |Value|
 --------|-----|
