@@ -10,7 +10,7 @@ Date of this report:
 Recent events:
 
 
-Players (18) (Rule 869, self-ratifying)
+Players (17) (Rule 869, self-ratifying)
 
     Player               Contact                                 Registered
     ------               -------                                 ----------
@@ -18,7 +18,6 @@ Players (18) (Rule 869, self-ratifying)
     Aris                 thoughtsoflifeandlight17 at gmail.com   13 Sep 16
     Murphy               emurphy42 at zoho.com                   27 Oct 07
     o                    owen at grimoire.ca                     12 Jul 16
-    Sprocklem            sprocklem at gmail.com                  19 Oct 13
     天火狐                draconicdarkness at gmail.com           06 Nov 16
     Quazie               quazienomic at gmail.com                15 Apr 17
     P. Scholasticus [2]  pscriboniusscholasticus at gmail.com[3] 16 Apr 17
@@ -33,7 +32,7 @@ Players (18) (Rule 869, self-ratifying)
     G.                   kerim at u.washington.edu               25 Aug 17
     Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
     V.J. Rada            vijarada at gmail.com                   05 Sep 17
-    
+
 
 [1] also ais523 at alumni.bham.ac.uk
 [2] In full, Publius Scribonius Scholasticus
@@ -80,11 +79,11 @@ Watchers (4)
 
     Watchers confirmed as of May 2013:
 
-    Nickname          Contact 
-    --------          -------                               
-    Dave              davidnicol at gmail.com                
-    Phlogistique      noe.rubinstein at gmail.com           
-    Steve             zardoz37 at gmail.com                 
+    Nickname          Contact
+    --------          -------
+    Dave              davidnicol at gmail.com
+    Phlogistique      noe.rubinstein at gmail.com
+    Steve             zardoz37 at gmail.com
 ------------------------------------------------------------------------
                   Registrar's Weekly Addenda on Switches
 ------------------------------------------------------------------------
