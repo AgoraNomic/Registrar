@@ -10,7 +10,7 @@ Date of this report:
 Recent events:
 
 
-Players (15) (Rule 869, self-ratifying)
+Players (16) (Rule 869, self-ratifying)
 
     Player               Contact                                 Registered
     ------               -------                                 ----------
@@ -30,6 +30,7 @@ Players (15) (Rule 869, self-ratifying)
     G.                   kerim at u.washington.edu               25 Aug 17
     Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
     V.J. Rada            vijarada at gmail.com                   05 Sep 17
+    ATMunn               iamingodsarmy at gmail.com              21 Sep 17
 
 
 [1] also ais523 at alumni.bham.ac.uk
