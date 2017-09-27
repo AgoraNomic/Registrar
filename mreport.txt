@@ -7,7 +7,7 @@
 Date of last report: 31 Aug 2017
 Date of this report:
 
-Players (19) (Rule 869, self-ratifying)
+Players (18) (Rule 869, self-ratifying)
 
     Player               Contact                                 Registered
     ------               -------                                 ----------
@@ -21,7 +21,6 @@ Players (19) (Rule 869, self-ratifying)
     Gaelan               gbs at canishe.com                      15 May 17
     Ienpw III            james.m.beirne at gmail.com             21 May 17
     omd                  comexk at gmail.com [4]                 03 Feb 11
-    grok                 grokagora at gmail.com                  24 Jul 17
     Bayushi              thelas.staloras at gmail.com            29 Jun 17
     nichdel              nichdel at gmail.com                    29 Jun 17
     G.                   kerim at u.washington.edu               25 Aug 17
@@ -682,6 +681,7 @@ v Kyle Anderson      kyescott513c at gmail.com        23 Aug 17   24 Aug 17
 d Sprocklem          sprocklem at gmail.com           19 Oct 13   10 Sep 17
 d Veggiekeks         martinjroensch at gmail.com      25 May 17   15 Sep 17
 d babelian           kumarraja.ajay at gmail.com      29 Jul 17   15 Sep 17
+v grok               grokagora at gmail.com           24 Jul 17   27 Sep 17
 
 
 [1] previously Alfonso Machiavelli, the Warrigal
