@@ -103,6 +103,6 @@ Watchers (4)
 --------|-----|
 Switch  |Value|
 --------|-----|
-Floating|20   |
+Floating|27   |
 Value   |     |
 --------|-----|
