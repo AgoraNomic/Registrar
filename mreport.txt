@@ -700,6 +700,10 @@ d Veggiekeks         martinjroensch at gmail.com      25 May 17   15 Sep 17
 d babelian           kumarraja.ajay at gmail.com      29 Jul 17   15 Sep 17
 v ais523             ais523 at alumni.bham.ac.uk [3]  20 Mar 11   23 Sep 17
 v grok               grokagora at gmail.com           24 Jul 17   27 Sep 17
+d Ienpw III          james.m.beirne at gmail.com      21 May 17   16 Nov 17
+d Bayushi            thelas.staloras at gmail.com     29 Jun 17   16 Nov 17
+d ProofTechnique     jhenahan at me.com               23 Sep 17   16 Nov 17
+d Murphy             emurphy42 at zoho.com            27 Oct 07   17 Nov 17
 
 
 [1] previously Alfonso Machiavelli, the Warrigal

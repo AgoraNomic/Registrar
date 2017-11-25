@@ -4,32 +4,35 @@
 
 (all times UTC)
 
-Date of last report: 19 Nov 2017
-Date of this report: 
+Date of last report: 05 Nov 2017
+Date of this report: 12 Nov 2017
 
 Recent events:
 
 
-Players (16) (Rule 869, self-ratifying)
+Players (19) (Rule 869, self-ratifying)
 
     Player               Contact                                 Registered
     ------               -------                                 ----------
     Aris                 thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+    Murphy               emurphy42 at zoho.com                   27 Oct 07
     o                    owen at grimoire.ca                     12 Jul 16
     天火狐                draconicdarkness at gmail.com           06 Nov 16
     Quazie               quazienomic at gmail.com                15 Apr 17
     P. Scholasticus [2]  pscriboniusscholasticus at gmail.com[3] 16 Apr 17
     Gaelan               gbs at canishe.com                      15 May 17
+    Ienpw III            james.m.beirne at gmail.com             21 May 17
     omd                  comexk at gmail.com [4]                 03 Feb 11
+    Bayushi              thelas.staloras at gmail.com            29 Jun 17
     nichdel              nichdel at gmail.com                    29 Jun 17
     G.                   kerim at u.washington.edu               25 Aug 17
     Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
     V.J. Rada            vijarada at gmail.com                   05 Sep 17
     ATMunn               iamingodsarmy at gmail.com              21 Sep 17
+    ProofTechnique       jhenahan at me.com                      23 Sep 17
     Trigon               reuben.staley at gmail.com              24 Sep 17
     Alexis               alercah at gmail.com                    27 Sep 17
     Telnaior             jdga at iinet.net.au                    20 Oct 17
-    Corona               liliumalbum.agora at gmail.com          17 Nov 17
 
 
 [1] also ais523 at alumni.bham.ac.uk
@@ -96,14 +99,17 @@ Watchers (4)
 ------------------------------------------------------------------------
                   Registrar's Weekly Addenda on Switches and Emotions
 ------------------------------------------------------------------------
-
+--------|-----|
+Switch  |Value|
+--------|-----|
+Floating|27   |
+Value   |     |
+--------|-----|
 
 Emotions:
 
 nichdel - Joyous
 Alexis  - Melancholy
-ATMunn  - Joyous (November 14, 2017)
+ATMunn  - Melancholy
 PSS     - Melancholy
-G.      - Melancholy (November 17, 2017)
-Trigon  - Melancholy
-VJ Rada - Melancholy (November 17, 2017)
+G.      - Joyous
