@@ -6,4 +6,6 @@ Registrar's Report Archive:
 
 [Latest monthly report](monthly/2019-02-12.txt)
 
+[Unofficial fresher monthly report](monthly/fresh.txt)
+
 [Older reports](Reports)
