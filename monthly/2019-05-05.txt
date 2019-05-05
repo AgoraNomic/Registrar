@@ -1,13 +1,15 @@
-This is an unofficial version of the Registrar's monthly report that may be
-fresher than the latest official version. The latest official monthly report is
-available at https://agoranomic.org/Registrar/monthly/2019-02-12.txt
-
 ------------------------------------------------------------------------
                          Registrar's Monthly Report
 ------------------------------------------------------------------------
 
-Date of last official monthly report:     08 Dec 2018
-Date this unofficial report last updated: 05 May 2019
+Date of last report: 12 Feb 2019
+Date of this report: 05 Feb 2019
+
+This report on the web:
+    https://agoranomic.org/Registrar/monthly/2019-05-05.txt
+
+Unofficial version that may be fresher:
+    https://agoranomic.org/Registrar/monthly/fresh.txt
 
 Recent Changes:
 15-Jan-19 20:28  D. Margaux deregisters Telnaior with notice.
@@ -644,4 +646,4 @@ Left in 2019:
 a Telnaior           jdga at iinet.net.au                         15 Jan 19
 w Telnaior           jdga at iinet.net.au             29 Jan 19   29 Jan 19
 a 天火狐              draconicdarkness at gmail.com    06 Nov 16  03 Jan 19
-a pokes              pokes at botnoise.org            11 Dec 17   03 Jan 19 
+a pokes              pokes at botnoise.org            11 Dec 17   03 Jan 19
