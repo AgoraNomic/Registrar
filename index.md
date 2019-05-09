@@ -8,4 +8,16 @@ Registrar's Report Archive:
 
 [Unofficial fresher monthly report](monthly/fresh.txt)
 
-[Older reports](Reports)
+List of weekly reports:
+
+* [2019-05-04B.txt](weekly/2019-05-04B.txt)
+* [2019-05-04A.txt](weekly/2019-05-04A.txt)
+* [2019-05-04.txt](weekly/2019-05-04.txt)
+* [2019-02-20.txt](weekly/2019-02-20.txt)
+
+List of monthly reports:
+
+* [2019-05-05.txt](monthly/2019-05-05.txt)
+* [2019-02-12.txt](monthly/2019-02-12.txt)
+
+[Some older reports](Reports)

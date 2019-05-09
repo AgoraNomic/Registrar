@@ -1,6 +1,5 @@
 This is an unofficial version of the Registrar's weekly report that may be
-fresher than the latest official version. The latest official weekly report is
-available at https://agoranomic.org/Registrar/weekly/2019-05-04.txt
+fresher than the latest official version.
 
 ----------------------------------------------------------------------------
                            The Agoran Directory
@@ -9,6 +8,8 @@ available at https://agoranomic.org/Registrar/weekly/2019-05-04.txt
 Date of last report: 2019-05-04 (Sat)
 Date of this report: 2019-05-09 (Thu)
 (all times UTC)
+
+Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 

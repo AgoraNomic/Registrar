@@ -1,6 +1,5 @@
 This is an unofficial version of the Registrar's monthly report that may be
-fresher than the latest official version. The latest official monthly report is
-available at https://agoranomic.org/Registrar/monthly/2019-02-12.txt
+fresher than the latest official version.
 
 ------------------------------------------------------------------------
                          Registrar's Monthly Report
@@ -8,6 +7,8 @@ available at https://agoranomic.org/Registrar/monthly/2019-02-12.txt
 
 Date of last official monthly report:     08 Dec 2018
 Date this unofficial report last updated: 05 May 2019
+
+Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Changes:
 15-Jan-19 20:28  D. Margaux deregisters Telnaior with notice.
