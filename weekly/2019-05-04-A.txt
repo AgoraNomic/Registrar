@@ -1,14 +1,22 @@
-This is an unofficial version of the Registrar's weekly report that may be
-fresher than the latest official version. The latest official weekly report is
-available at https://agoranomic.org/Registrar/weekly/2019-05-04.txt
-
 ----------------------------------------------------------------------------
                            The Agoran Directory
 ----------------------------------------------------------------------------
 
-Date of last report: 2019-05-04 (Sat)
+This is a revision of the 2019-05-04 Registrar weekly report.  It describes the
+state of the game at the time the original report was published, which is
+2019-05-05 at 15:13 UTC.
+
+Welcome Bernie and Rance!
+
+Date of last report: 2019-02-20 (Wed)
 Date of this report: 2019-05-04 (Sat)
 (all times UTC)
+
+This report on the web:
+    https://agoranomic.org/Registrar/weekly/2019-05-04-A.txt
+
+Unofficial version that may be fresher:
+    https://agoranomic.org/Registrar/weekly/fresh.txt
 
 Recent Events (recent events section not ratifying)
 
@@ -18,10 +26,10 @@ Recent Events (recent events section not ratifying)
 07-Feb-19 22:26  twg flips Corona's master switch to twg.
 09-Feb-19 00:38  Trigon flips PSS's master switch to Trigon.
 10-Feb-19 13:16  J. Arduino flips nichdel's master switch to J. Arduino.
+(time of last report)
 13-Feb-19 00:52  Falsifian registers.
 06-Apr-19 12:34  Bernie registers.
 09-Apr-19 02:58  Rance registers.
-(time of last report)
 
 Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
 *=no public messages in the previous month, 2019-04)
