@@ -7,7 +7,7 @@ available at https://agoranomic.org/Registrar/weekly/2019-05-04.txt
 ----------------------------------------------------------------------------
 
 Date of last report: 2019-05-04 (Sat)
-Date of this report: 2019-05-04 (Sat)
+Date of this report: 2019-05-09 (Thu)
 (all times UTC)
 
 Recent Events (recent events section not ratifying)
@@ -22,6 +22,10 @@ Recent Events (recent events section not ratifying)
 06-Apr-19 12:34  Bernie registers.
 09-Apr-19 02:58  Rance registers.
 (time of last report)
+09-May-19 03:12  Falsifian flips Baron von Vaderham's master switch to Agora.
+09-May-19 03:12  Falsifian flips L's master switch to Agora.
+09-May-19 03:12  Falsifian flips Telnaior's master switch to Agora.
+09-May-19 03:12  Falsifian flips V. J. Rada's master switch to Agora.
 
 Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
 *=no public messages in the previous month, 2019-04)
@@ -35,22 +39,22 @@ Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
  * Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
    Trigon               reuben.staley at gmail.com              24 Sep 17
    Murphy               emurphy42 at zoho.com                   17 Dec 17
- * V.J. Rada            edwardostrange at gmail.com[5]          29 Dec 17
  * ATMunn               iamingodsarmy at gmail.com              11 Mar 18
  * twg                  me at timon.red                         24 May 18
    D. Margaux           dmargaux000 at gmail.com[4]             25 Aug 18
  * Jacob Arduino        jacobarduino at gmail.com               12 Nov 18
- * Telnaior             jdga at iinet.net.au                    29 Jan 19
- * Baron von Vaderham   davidseeber at outlook.com              04 Feb 19
    Falsifian            jcook at cs.berkeley.edu                13 Feb 19
    Bernie               hidreigon@gmail.com                     06 Apr 19
    Rance                rance_28@yahoo.com                      09 Apr 19
-z* Tarhalindur          ahzin23 at icstudents.org               31 Oct 18
-z* Corona               liliumalbum.agora at gmail.com          17 Nov 17
+z* PSS [1]              pscriboniusscholasticus at gmail.com[2] 16 Apr 17
 z* nichdel              nichdel at gmail.com                    29 Jun 17
+z* Corona               liliumalbum.agora at gmail.com          17 Nov 17
+z* V.J. Rada            edwardostrange at gmail.com[5]          29 Dec 17
 z* L                    prmcd16 at yahoo.com                    20 Sep 18
 z* Halian               halian at safiria.net                   20 Oct 18
-z* PSS [1]              pscriboniusscholasticus at gmail.com[2] 16 Apr 17
+z* Tarhalindur          ahzin23 at icstudents.org               31 Oct 18
+z* Telnaior             jdga at iinet.net.au                    29 Jan 19
+z* Baron von Vaderham   davidseeber at outlook.com              04 Feb 19
 
 
 [1] also known as Publius Scribonius Scholasticus
@@ -63,14 +67,17 @@ equivalentp.scribonius.scholasticusatgooglemail.com
 
 Zombie Master and Resale switches (self-ratifying)
 
-Zombie      Master      Resale   Last Owned by Agora   Due to Flip to Agora
-------      ------      ------   -------------------   --------------------
-Tarhalindur Agora       2        04-Feb-19 14:17
-Corona      twg         1        07-Feb-19 22:26       08-May-19 22:26
-PSS[1]      Trigon      1        09-Feb-19 00:38       10-May-19 00:38
-L           D. Margaux  1        15-Jan-19 16:41       15-Apr-19 08:49
-Halian      G.          1        07-Feb-19 15:20       08-May-19 15:20
-nichdel     J. Arduino  0        10-Feb-19 13:16       11-May-19 13:16
+Zombie              Master      Resale   Last Owned by Agora   Due to Flip to Agora
+------              ------      ------   -------------------   --------------------
+Tarhalindur         Agora       2        04-Feb-19 14:17
+Corona              twg         1        07-Feb-19 22:26       08-May-19 22:26
+PSS[1]              Trigon      1        09-Feb-19 00:38       10-May-19 00:38
+Halian              G.          1        07-Feb-19 15:20       08-May-19 15:20
+nichdel             J. Arduino  0        10-Feb-19 13:16       11-May-19 13:16
+Baron von Vaderham  Agora       2        09-May-19 03:12
+L                   Agora       1        09-May-19 03:12
+Telnaior            Agora       2        09-May-19 03:12
+V.J. Rada           Agora       2        09-May-19 03:12
 
 Fora (Rule 478, self-ratifying)
 
