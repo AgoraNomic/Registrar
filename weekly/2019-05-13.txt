@@ -1,0 +1,136 @@
+----------------------------------------------------------------------------
+                           The Agoran Directory
+----------------------------------------------------------------------------
+
+Date of last report: 2019-05-09 (Thu)
+Date of this report: 2019-05-13 (Mon)
+(all times UTC)
+
+Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
+
+Recent Events (recent events section not ratifying)
+
+04-Feb-19 14:17  D. Margaux flips Tarhalindur's master switch to Agora.
+04-Feb-19        Baron von Vaderham registers.
+07-Feb-19 15:20  G. flips Hālian's master switch to G.
+07-Feb-19 22:26  twg flips Corona's master switch to twg.
+09-Feb-19 00:38  Trigon flips PSS's master switch to Trigon.
+10-Feb-19 13:16  J. Arduino flips nichdel's master switch to J. Arduino.
+13-Feb-19 00:52  Falsifian registers.
+06-Apr-19 12:34  Bernie registers.
+09-Apr-19 02:58  Rance registers.
+09-May-19 03:12  Falsifian flips Baron von Vaderham's master switch to Agora.
+09-May-19 03:12  Falsifian flips L's master switch to Agora.
+09-May-19 03:12  Falsifian flips Telnaior's master switch to Agora.
+09-May-19 03:12  Falsifian flips V. J. Rada's master switch to Agora.
+(time of last report)
+10-May-19 04:46  Agora flips Tarhalindur's master switch to Falsifian.
+
+Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
+*=no public messages since the start of the previous month, 2019-04)
+
+ Player                 Contact                                 Registered
+ ------                 -------                                 ----------
+ * omd                  comexk at gmail.com [3]                 03 Feb 11
+   Aris                 thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+   Gaelan               gbs at canishe.com                      15 May 17
+   G.                   kerim at uw.edu                         25 Aug 17
+ * Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
+   Trigon               reuben.staley at gmail.com              24 Sep 17
+   Murphy               emurphy42 at zoho.com                   17 Dec 17
+ * ATMunn               iamingodsarmy at gmail.com              11 Mar 18
+ * twg                  me at timon.red                         24 May 18
+   D. Margaux           dmargaux000 at gmail.com[4]             25 Aug 18
+ * Jacob Arduino        jacobarduino at gmail.com               12 Nov 18
+   Falsifian            jcook at cs.berkeley.edu                13 Feb 19
+   Bernie               hidreigon@gmail.com                     06 Apr 19
+   Rance                rance_28@yahoo.com                      09 Apr 19
+z* PSS [1]              pscriboniusscholasticus at gmail.com[2] 16 Apr 17
+z* nichdel              nichdel at gmail.com                    29 Jun 17
+z* Corona               liliumalbum.agora at gmail.com          17 Nov 17
+z* V.J. Rada            edwardostrange at gmail.com[5]          29 Dec 17
+z* L                    prmcd16 at yahoo.com                    20 Sep 18
+z* Hālian               halian at safiria.net                   20 Oct 18
+z* Tarhalindur          ahzin23 at icstudents.org               31 Oct 18
+z* Telnaior             jdga at iinet.net.au                    29 Jan 19
+z* Baron von Vaderham   davidseeber at outlook.com              04 Feb 19
+
+
+[1] also known as Publius Scribonius Scholasticus
+[2] officially, but technically
+equivalentp.scribonius.scholasticusatgooglemail.com
+[3] officially, but technically equivalent c.ome.xk at gmail.com
+[4] also known as D Margaux
+[5] aka VJ Rada
+
+
+Zombie Master and Resale switches (self-ratifying)
+
+Zombie              Master      Resale   Last Owned by Agora   Due to Flip to Agora
+------              ------      ------   -------------------   --------------------
+Tarhalindur         Falsifian   1        10-May-19 04:46       08-Aug-19 04:46
+Corona              twg         1        07-Feb-19 22:26       08-May-19 22:26
+PSS[1]              Trigon      1        09-Feb-19 00:38       10-May-19 00:38
+Hālian              G.          1        07-Feb-19 15:20       08-May-19 15:20
+nichdel             J. Arduino  0        10-Feb-19 13:16       11-May-19 13:16
+Baron von Vaderham  Agora       2        now
+L                   Agora       1        now
+Telnaior            Agora       2        now
+V.J. Rada           Agora       2        now
+
+Fora (Rule 478, self-ratifying)
+
+Type         Location                                Typical use
+----         --------                                -----------
+Public       agora-official at agoranomic.org        official reports
+Public       agora-business at agoranomic.org        other business
+Discussion   agora-discussion at agoranomic.org      discussion
+Discussion   irc://irc.freenode.net:6667/##nomic
+<https://webchat.freenode.net/?channels=%23%23nomic> discussion
+Public       agora at listserver.tue.nl              backup
+
+Subscribe or unsubscribe from main
+lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup
+list:http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.freenode.net, port 6667, channel ##nomic, and whatever
+nickname you like.
+
+
+Writs of FAGE (Rule 1789)
+Player            Date
+------            ----
+Kelly             17 Sep 95
+Andre             13 Feb 99
+BobTHJ            16 Jan 08
+P1                 5 Nov 08
+P2                 5 Nov 08
+P3 to P100[1]      6 Nov 08
+G.                29 Jun 17
+Telnaior          29 Jan 19
+
+[1] P3 to P100 inclusive each deregistered in writs of FAGE on this date.
+
+Watchers (4)
+
+The list of Watchers is not governed by the rules, but is
+traditionally maintained in the Registrar's Report.  If you'd like to
+be listed as a Watcher or removed from the list, feel free to email
+the fora or the Registrar directly.
+
+Watchers confirmed as of May 2017:
+
+Nickname          Contact
+--------          -------
+Ørjan             oerjan at nvg.ntnu.no
+
+Watchers confirmed as of May 2013:
+
+Nickname          Contact
+--------          -------
+Dave              davidnicol at gmail.com
+Phlogistique      noe.rubinstein at gmail.com
+Steve             zardoz37 at gmail.com
