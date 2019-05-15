@@ -28,6 +28,7 @@ Recent Events (recent events section not ratifying)
 09-May-19 03:12  Falsifian flips V. J. Rada's master switch to Agora.
 (time of last report)
 10-May-19 04:46  Agora flips Tarhalindur's master switch to Falsifian.
+15-May-19 04:16  Falsifian flips Tarhalindur's master switch to Agora.
 
 Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
 *=no public messages since the start of the previous month, 2019-04)
@@ -71,15 +72,15 @@ Zombie Master and Resale switches (self-ratifying)
 
 Zombie              Master      Resale   Last Owned by Agora   Due to Flip to Agora
 ------              ------      ------   -------------------   --------------------
-Tarhalindur         Falsifian   1        10-May-19 04:46       08-Aug-19 04:46
 Corona              twg         1        07-Feb-19 22:26       08-May-19 22:26
 PSS[1]              Trigon      1        09-Feb-19 00:38       10-May-19 00:38
 Hālian              G.          1        07-Feb-19 15:20       08-May-19 15:20
 nichdel             J. Arduino  0        10-Feb-19 13:16       11-May-19 13:16
 Baron von Vaderham  Agora       2        now
-L                   Agora       1        now
 Telnaior            Agora       2        now
 V.J. Rada           Agora       2        now
+L                   Agora       1        now
+Tarhalindur         Agora       1        now
 
 Fora (Rule 478, self-ratifying)
 
