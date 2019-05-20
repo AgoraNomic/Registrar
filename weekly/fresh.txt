@@ -5,8 +5,8 @@ fresher than the latest official version.
                            The Agoran Directory
 ----------------------------------------------------------------------------
 
-Date of last report: 2019-05-09 (Thu)
-Date of this report: 2019-05-19 (Sun)
+Date of last report: 2019-05-13 (Mon)
+Date of this report: 2019-05-20 (Mon)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
