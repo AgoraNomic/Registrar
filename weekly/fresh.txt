@@ -29,6 +29,7 @@ Recent Events (recent events section not ratifying)
 19-May-19 21:03  Falsifian flips PSS's [1] master switch to Agora.
 19-May-19 21:03  Falsifian flips nichdel's master switch to Agora.
 (time of last report)
+20-May-19 01:06  Agora flips Baron von Vaderham's master switch to Rance.
 
 Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
 *=no public messages since the start of the previous month, 2019-04)
@@ -77,7 +78,7 @@ Corona              Agora       1        now
 Hālian              Agora       1        now
 PSS[1]              Agora       1        now
 Tarhalindur         Agora       1        now
-Baron von Vaderham  Agora       2        now
+Baron von Vaderham  Rance       1        20-May-19 01:06       18-Aug-19 01:06
 V.J. Rada           Falsifian   1        17-May-19 02:42       15-Aug-19 02:42
 L                   D. Margaux  0        17-May-19 02:42       15-Aug-19 02:42
 Telnaior            G.          1        17-May-19 12:40       15-Aug-19 12:40
