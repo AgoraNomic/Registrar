@@ -5,7 +5,7 @@ fresher than the latest official version.
                            The Agoran Directory
 ----------------------------------------------------------------------------
 
-Date of last report: 2019-05-13 (Mon)
+Date of last report: 2019-05-20 (Mon)
 Date of this report: 2019-05-20 (Mon)
 (all times UTC)
 
@@ -19,7 +19,6 @@ Recent Events (recent events section not ratifying)
 09-May-19 03:12  Falsifian flips L's master switch to Agora.
 09-May-19 03:12  Falsifian flips Telnaior's master switch to Agora.
 09-May-19 03:12  Falsifian flips V. J. Rada's master switch to Agora.
-(time of last report)
 10-May-19 04:46  Agora flips Tarhalindur's master switch to Falsifian.
 15-May-19 04:16  Falsifian flips Tarhalindur's master switch to Agora.
 17-May-19 02:42  Agora flips L's master switch to D. Margaux.
@@ -29,6 +28,7 @@ Recent Events (recent events section not ratifying)
 19-May-19 21:03  Falsifian flips Hālian's master switch to Agora.
 19-May-19 21:03  Falsifian flips PSS's [1] master switch to Agora.
 19-May-19 21:03  Falsifian flips nichdel's master switch to Agora.
+(time of last report)
 
 Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
 *=no public messages since the start of the previous month, 2019-04)
