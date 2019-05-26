@@ -6,7 +6,7 @@ fresher than the latest official version.
 ----------------------------------------------------------------------------
 
 Date of last report: 2019-05-20 (Mon)
-Date of this report: 2019-05-25 (Sat)
+Date of this report: 2019-05-26 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -46,7 +46,7 @@ Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
    Trigon               reuben.staley at gmail.com              24 Sep 17
    Murphy               emurphy42 at zoho.com                   17 Dec 17
    ATMunn               iamingodsarmy at gmail.com              11 Mar 18
- * twg                  me at timon.red                         24 May 18
+   twg                  me at timon.red                         24 May 18
    D. Margaux           dmargaux000 at gmail.com[4]             25 Aug 18
  * Jacob Arduino        jacobarduino at gmail.com               12 Nov 18
    Falsifian            jcook at cs.berkeley.edu                13 Feb 19
