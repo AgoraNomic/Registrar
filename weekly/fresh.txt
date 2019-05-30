@@ -5,7 +5,7 @@ fresher than the latest official version.
                            The Agoran Directory
 ----------------------------------------------------------------------------
 
-Date of last report: 2019-05-20 (Mon)
+Date of last report: 2019-05-30 (Thu)
 Date of this report: 2019-05-30 (Thu)
 (all times UTC)
 
@@ -28,10 +28,10 @@ Recent Events (recent events section not ratifying)
 19-May-19 21:03  Falsifian flips Hālian's master switch to Agora.
 19-May-19 21:03  Falsifian flips PSS's [1] master switch to Agora.
 19-May-19 21:03  Falsifian flips nichdel's master switch to Agora.
-(time of last report)
 20-May-19 01:06  Agora flips Baron von Vaderham's master switch to Rance.
 23-May-19 02:16  o registers.
 24-May-19 01:39  Falsifian deregisters nichdel with notice.
+(time of last report)
 
 Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
 *=no public messages since the start of the previous month, 2019-04)
