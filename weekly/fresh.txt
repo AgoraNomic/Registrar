@@ -6,7 +6,7 @@ fresher than the latest official version.
 ----------------------------------------------------------------------------
 
 Date of last report: 2019-05-30 (Thu)
-Date of this report: 2019-05-30 (Thu)
+Date of this report: 2019-06-01 (Sat)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -33,8 +33,9 @@ Recent Events (recent events section not ratifying)
 24-May-19 01:39  Falsifian deregisters nichdel with notice.
 (time of last report)
 
-Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
-*=no public messages since the start of the previous month, 2019-04)
+Players (by Rule 869, Persons with 'Registered' Citizenship):
+
+There are 23 Players.
 
  Player                 Contact                                 Registered
  ------                 -------                                 ----------
@@ -42,27 +43,29 @@ Players (20) (by Rule 869, Persons with 'Registered' Citizenship, z=zombie,
    Aris                 thoughtsoflifeandlight17 at gmail.com   13 Sep 16
    Gaelan               gbs at canishe.com                      15 May 17
    G.                   kerim at uw.edu                         25 Aug 17
- * Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
+ **Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
    Trigon               reuben.staley at gmail.com              24 Sep 17
    Murphy               emurphy42 at zoho.com                   17 Dec 17
    ATMunn               iamingodsarmy at gmail.com              11 Mar 18
    twg                  me at timon.red                         24 May 18
    D. Margaux           dmargaux000 at gmail.com[4]             25 Aug 18
- * Jacob Arduino        jacobarduino at gmail.com               12 Nov 18
+ **Jacob Arduino        jacobarduino at gmail.com               12 Nov 18
    Falsifian            jcook at cs.berkeley.edu                13 Feb 19
-   Bernie               hidreigon at gmail.com                     06 Apr 19
-   Rance                rance_28 at yahoo.com                      09 Apr 19
-   o                    owen at grimoire.ca                        23 May 19
-z* PSS [1]              pscriboniusscholasticus at gmail.com[2] 16 Apr 17
-z* Corona               liliumalbum.agora at gmail.com          17 Nov 17
-z* V.J. Rada            edwardostrange at gmail.com[5]          29 Dec 17
-z* L                    prmcd16 at yahoo.com                    20 Sep 18
-z* Hālian               halian at safiria.net                   20 Oct 18
-z* Tarhalindur          ahzin23 at icstudents.org               31 Oct 18
-z* Telnaior             jdga at iinet.net.au                    29 Jan 19
+   Bernie               hidreigon at gmail.com                  06 Apr 19
+   Rance                rance_28 at yahoo.com                   09 Apr 19
+   o                    owen at grimoire.ca                     23 May 19
+z**PSS [1]              pscriboniusscholasticus at gmail.com[2] 16 Apr 17
+z**Corona               liliumalbum.agora at gmail.com          17 Nov 17
+z**V.J. Rada            edwardostrange at gmail.com[5]          29 Dec 17
+z**L                    prmcd16 at yahoo.com                    20 Sep 18
+z**Hālian               halian at safiria.net                   20 Oct 18
+z**Tarhalindur          ahzin23 at icstudents.org               31 Oct 18
+z**Telnaior             jdga at iinet.net.au                    29 Jan 19
 z  Baron von Vaderham   davidseeber at outlook.com              04 Feb 19
 
-
+z=zombie
+*=no public messages since the start of 2019-05
+**=no public messages since the start of 2019-04
 [1] also known as Publius Scribonius Scholasticus
 [2] officially, but technically equivalent
 p.scribonius.scholasticusatgooglemail.com
