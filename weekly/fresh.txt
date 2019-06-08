@@ -6,7 +6,7 @@ fresher than the latest official version.
 ----------------------------------------------------------------------------
 
 Date of last report: 2019-06-06 (Thu)
-Date of this report: 2019-06-06 (Thu)
+Date of this report: 2019-06-08 (Sat)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -35,6 +35,7 @@ Recent Events (recent events section not ratifying)
 02-Jun-19 20:26  Walker registers.
 04-Jun-19 01:47  V.J. Rada flips V.J. Rada's master switch to V.J. Rada.
 (time of last report)
+07-Jun-19 17:01  Rance flips Baron von Vaderham's master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -87,7 +88,7 @@ Corona              Agora       1        now
 Hālian              Agora       1        now
 PSS[1]              Agora       1        now
 Tarhalindur         Agora       1        now
-Baron von Vaderham  Rance       1        20-May-19 01:06       18-Aug-19 01:06
+Baron von Vaderham  Agora       1        now
 L                   D. Margaux  0        17-May-19 02:42       15-Aug-19 02:42
 Telnaior            G.          1        17-May-19 12:40       15-Aug-19 12:40
 
