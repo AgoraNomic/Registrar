@@ -5,7 +5,7 @@ fresher than the latest official version.
                            The Agoran Directory
 ----------------------------------------------------------------------------
 
-Date of last report: 2019-06-06 (Thu)
+Date of last report: 2019-06-10 (Thu)
 Date of this report: 2019-06-10 (Mon)
 (all times UTC)
 
@@ -34,8 +34,8 @@ Recent Events (recent events section not ratifying)
 02-Jun-19 02:03  Jason Cobb registers.
 02-Jun-19 20:26  Walker registers.
 04-Jun-19 01:47  V.J. Rada flips V.J. Rada's master switch to V.J. Rada.
-(time of last report)
 07-Jun-19 17:01  Rance flips Baron von Vaderham's master switch to Agora.
+(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
