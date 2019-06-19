@@ -18,11 +18,11 @@ Recent Events (recent events section not ratifying)
 09-May-19 03:12  Falsifian flips Baron von Vaderham's master switch to Agora.
 09-May-19 03:12  Falsifian flips L's master switch to Agora.
 09-May-19 03:12  Falsifian flips Telnaior's master switch to Agora.
-09-May-19 03:12  Falsifian flips V. J. Rada's master switch to Agora.
+09-May-19 03:12  Falsifian flips R. Lee's master switch to Agora.
 10-May-19 04:46  Agora flips Tarhalindur's master switch to Falsifian.
 15-May-19 04:16  Falsifian flips Tarhalindur's master switch to Agora.
 17-May-19 02:42  Agora flips L's master switch to D. Margaux.
-17-May-19 02:42  Agora flips V.J. Rada's master switch to Falsifian.
+17-May-19 02:42  Agora flips R. Lee's master switch to Falsifian.
 17-May-19 12:40  Agora flips Telnaior's master switch to G..
 19-May-19 21:03  Falsifian flips Corona's master switch to Agora.
 19-May-19 21:03  Falsifian flips Hālian's master switch to Agora.
@@ -33,9 +33,10 @@ Recent Events (recent events section not ratifying)
 24-May-19 01:39  Falsifian deregisters nichdel with notice.
 02-Jun-19 02:03  Jason Cobb registers.
 02-Jun-19 20:26  Walker registers.
-04-Jun-19 01:47  V.J. Rada flips V.J. Rada's master switch to V.J. Rada.
+04-Jun-19 01:47  R. Lee flips R. Lee's master switch to R. Lee.
 07-Jun-19 17:01  Rance flips Baron von Vaderham's master switch to Agora.
 (time of last report)
+08-Jun-19 00:17  Name change: V.J. Rada -> R. Lee
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -50,7 +51,7 @@ There are 25 Players.
    Cuddle Beam          cuddlebeam at gmail.com                 25 Aug 17
    Trigon               reuben.staley at gmail.com              24 Sep 17
    Murphy               emurphy42 at zoho.com                   17 Dec 17
-   V.J. Rada            edwardostrange at gmail.com[5]          29 Dec 17
+   R. Lee               edwardostrange at gmail.com             29 Dec 17
    ATMunn               iamingodsarmy at gmail.com              11 Mar 18
    twg                  me at timon.red                         24 May 18
    D. Margaux           dmargaux000 at gmail.com[4]             25 Aug 18
@@ -77,7 +78,6 @@ z=zombie
 p.scribonius.scholasticusatgooglemail.com
 [3] officially, but technically equivalent c.ome.xk at gmail.com
 [4] also known as D Margaux
-[5] aka VJ Rada
 
 
 Zombie Master and Resale switches (self-ratifying)
