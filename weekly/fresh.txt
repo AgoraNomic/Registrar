@@ -5,7 +5,7 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-06-17 (Mon)
+Date of last report: 2019-06-21 (Fri)
 Date of this report: 2019-06-17 (Mon)
 (all times UTC)
 
@@ -37,6 +37,7 @@ Recent Events (recent events section not ratifying)
 07-Jun-19 17:01  Rance flips Baron v V [5]'s master switch to Agora.
 (time of last report)
 08-Jun-19 00:17  Name change: V.J. Rada -> R. Lee
+20-Jun-19 16:55  Baron v V [5] flips eir own master switch to emself.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -56,6 +57,7 @@ There are 25 Players.
    twg                me at timon.red                         24 May 18
    D. Margaux [4]     dmargaux000 at gmail.com                25 Aug 18
  **Jacob Arduino      jacobarduino at gmail.com               12 Nov 18
+   Baron von Vaderham davidseeber at outlook.com              04 Feb 19
    Falsifian          jcook at cs.berkeley.edu                13 Feb 19
    Bernie             hidreigon at gmail.com                  06 Apr 19
    Rance              rance_28 at yahoo.com                   09 Apr 19
@@ -68,7 +70,6 @@ z**L                  prmcd16 at yahoo.com                    20 Sep 18
 z**Hālian             halian at safiria.net                   20 Oct 18
 z**Tarhalindur        ahzin23 at icstudents.org               31 Oct 18
 z**Telnaior           jdga at iinet.net.au                    29 Jan 19
-z  Baron von Vaderham davidseeber at outlook.com              04 Feb 19
 
 z=zombie
 *=no public messages since the start of 2019-05
@@ -84,7 +85,6 @@ Corona        Agora       1        now
 Hālian        Agora       1        now
 PSS [1]       Agora       1        now
 Tarhalindur   Agora       1        now
-Baron v V [5] Agora       1        now
 L             D. Margaux  0        17-May-19 02:42   15-Aug-19 02:42
 Telnaior      G.          1        17-May-19 12:40   15-Aug-19 12:40
 
