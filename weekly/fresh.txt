@@ -54,7 +54,7 @@ There are 25 Players.
    R. Lee               edwardostrange at gmail.com             29 Dec 17
    ATMunn               iamingodsarmy at gmail.com              11 Mar 18
    twg                  me at timon.red                         24 May 18
-   D. Margaux           dmargaux000 at gmail.com[4]             25 Aug 18
+   D. Margaux [4]       dmargaux000 at gmail.com                25 Aug 18
  **Jacob Arduino        jacobarduino at gmail.com               12 Nov 18
    Falsifian            jcook at cs.berkeley.edu                13 Feb 19
    Bernie               hidreigon at gmail.com                  06 Apr 19
@@ -73,11 +73,6 @@ z  Baron von Vaderham   davidseeber at outlook.com              04 Feb 19
 z=zombie
 *=no public messages since the start of 2019-05
 **=no public messages since the start of 2019-04
-[1] also known as Publius Scribonius Scholasticus
-[2] officially, but technically equivalent
-p.scribonius.scholasticusatgooglemail.com
-[3] officially, but technically equivalent c.ome.xk at gmail.com
-[4] also known as D Margaux
 
 
 Zombie Master and Resale switches (self-ratifying)
@@ -86,13 +81,11 @@ Zombie        Master      Resale   Last Owned by Agora   Due to Flip to Agora
 ------        ------      ------   -------------------   --------------------
 Corona        Agora       1        now
 Hālian        Agora       1        now
-PSS[1]        Agora       1        now
+PSS [1]       Agora       1        now
 Tarhalindur   Agora       1        now
-Baron v V[2]  Agora       1        now
+Baron v V [5] Agora       1        now
 L             D. Margaux  0        17-May-19 02:42       15-Aug-19 02:42
 Telnaior      G.          1        17-May-19 12:40       15-Aug-19 12:40
-[1] also known as Publius Scribonius Scholasticus
-[2] Baron von Vaderham, abbreviated to save space
 
 Fora (Rule 478, self-ratifying)
 
@@ -124,11 +117,10 @@ Andre             13 Feb 99
 BobTHJ            16 Jan 08
 P1                 5 Nov 08
 P2                 5 Nov 08
-P3 to P100[1]      6 Nov 08
+P3 to P100 [6]     6 Nov 08
 G.                29 Jun 17
 Telnaior          29 Jan 19
 
-[1] P3 to P100 inclusive each deregistered in writs of FAGE on this date.
 
 Watchers (4)
 
@@ -150,3 +142,11 @@ Nickname          Contact
 Dave              davidnicol at gmail.com
 Phlogistique      noe.rubinstein at gmail.com
 Steve             zardoz37 at gmail.com
+
+[1] also known as Publius Scribonius Scholasticus
+[2] officially, but technically equivalent:
+    p.scribonius.scholasticusatgooglemail.com
+[3] officially, but technically equivalent c.ome.xk at gmail.com
+[4] also known as D Margaux
+[5] Baron von Vaderham, abbreviated to save space
+[6] P3 to P100 inclusive each deregistered in writs of FAGE on this date.
