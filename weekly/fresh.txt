@@ -5,7 +5,7 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-06-17 (Mon)
+Date of last report: 2019-06-26 (Wed)
 Date of this report: 2019-06-26 (Wed)
 (all times UTC)
 
@@ -35,12 +35,12 @@ Recent Events (recent events section not ratifying)
 02-Jun-19 20:26  Walker registers.
 04-Jun-19 01:47  R. Lee flips R. Lee's master switch to R. Lee.
 07-Jun-19 17:01  Rance flips Baron v V [5]'s master switch to Agora.
-(time of last report)
 08-Jun-19 00:17  Name change: V.J. Rada -> R. Lee
 19-Jun-19 12:31  Agora flips Tarhalindur's master switch to R. Lee.
 20-Jun-19 04:58  Agora flips Corona's master switch to omd.
 20-Jun-19 16:55  Baron v V [5] flips eir own master switch to emself.
 20-Jun-19 16:55  Agora flips PSS[1]'s master switch to Baron v V [5].
+(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
