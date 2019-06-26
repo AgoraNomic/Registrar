@@ -81,7 +81,7 @@ z=zombie
 
 Zombie Master and Resale switches (self-ratifying)
 
-                                   Last owned        Due to flip
+                                    Last owned        Due to flip
 Zombie        Master       Resale   by Agora          to Agora
 ------        ------       ------   ---------------   ---------------
 Hālian        Agora        1        now
