@@ -1,0 +1,156 @@
+------------------------------------------------------------------------
+                         The Agoran Directory
+------------------------------------------------------------------------
+
+Date of last report: 2019-06-17 (Mon)
+Date of this report: 2019-06-26 (Wed)
+(all times UTC)
+
+Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
+
+Recent Events (recent events section not ratifying)
+
+06-Apr-19 12:34  Bernie registers.
+09-Apr-19 02:58  Rance registers.
+09-May-19 03:12  Falsifian flips Baron v V [5]'s master switch to Agora.
+09-May-19 03:12  Falsifian flips L's master switch to Agora.
+09-May-19 03:12  Falsifian flips Telnaior's master switch to Agora.
+09-May-19 03:12  Falsifian flips R. Lee's master switch to Agora.
+10-May-19 04:46  Agora flips Tarhalindur's master switch to Falsifian.
+15-May-19 04:16  Falsifian flips Tarhalindur's master switch to Agora.
+17-May-19 02:42  Agora flips L's master switch to D. Margaux.
+17-May-19 02:42  Agora flips R. Lee's master switch to Falsifian.
+17-May-19 12:40  Agora flips Telnaior's master switch to G..
+19-May-19 21:03  Falsifian flips Corona's master switch to Agora.
+19-May-19 21:03  Falsifian flips Hālian's master switch to Agora.
+19-May-19 21:03  Falsifian flips PSS[1]'s master switch to Agora.
+19-May-19 21:03  Falsifian flips nichdel's master switch to Agora.
+20-May-19 01:06  Agora flips Baron v V [5]'s master switch to Rance.
+23-May-19 02:16  o registers.
+24-May-19 01:39  Falsifian deregisters nichdel with notice.
+02-Jun-19 02:03  Jason Cobb registers.
+02-Jun-19 20:26  Walker registers.
+04-Jun-19 01:47  R. Lee flips R. Lee's master switch to R. Lee.
+07-Jun-19 17:01  Rance flips Baron v V [5]'s master switch to Agora.
+(time of last report)
+08-Jun-19 00:17  Name change: V.J. Rada -> R. Lee
+19-Jun-19 12:31  Agora flips Tarhalindur's master switch to R. Lee.
+20-Jun-19 04:58  Agora flips Corona's master switch to omd.
+20-Jun-19 16:55  Baron v V [5] flips eir own master switch to emself.
+20-Jun-19 16:55  Agora flips PSS[1]'s master switch to Baron v V [5].
+
+Players (by Rule 869, Persons with 'Registered' Citizenship):
+
+There are 25 Players.
+
+ Player               Contact                                 Registered
+ ------               -------                                 ----------
+   omd                comexk at gmail.com [3]                 03 Feb 11
+   Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+   Gaelan             gbs at canishe.com                      15 May 17
+   G.                 kerim at uw.edu                         25 Aug 17
+   Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
+   Trigon             reuben.staley at gmail.com              24 Sep 17
+   Murphy             emurphy42 at zoho.com                   17 Dec 17
+   R. Lee             edwardostrange at gmail.com             29 Dec 17
+   ATMunn             iamingodsarmy at gmail.com              11 Mar 18
+   twg                me at timon.red                         24 May 18
+   D. Margaux [4]     dmargaux000 at gmail.com                25 Aug 18
+ **Jacob Arduino      jacobarduino at gmail.com               12 Nov 18
+   Baron von Vaderham davidseeber at outlook.com              04 Feb 19
+   Falsifian          jcook at cs.berkeley.edu                13 Feb 19
+   Bernie             hidreigon at gmail.com                  06 Apr 19
+   Rance              rance_28 at yahoo.com                   09 Apr 19
+   o                  owen at grimoire.ca                     23 May 19
+   Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
+   Walker             charles.w.walker at gmail.com           02 Jun 19
+z**PSS [1]            pscriboniusscholasticus at gmail.com[2] 16 Apr 17
+z  Corona             liliumalbum.agora at gmail.com          17 Nov 17
+z**L                  prmcd16 at yahoo.com                    20 Sep 18
+z**Hālian             halian at safiria.net                   20 Oct 18
+z**Tarhalindur        ahzin23 at icstudents.org               31 Oct 18
+z**Telnaior           jdga at iinet.net.au                    29 Jan 19
+
+z=zombie
+*=no public messages since the start of 2019-05
+**=no public messages since the start of 2019-04
+
+
+Zombie Master and Resale switches (self-ratifying)
+
+                                     Last owned        Due to flip
+Zombie        Master        Resale*  by Agora          to Agora
+------        ------        -------  ---------------   ---------------
+Hālian        Agora         1        now
+L             D. Margaux    0        17-May-19 02:42   15-Aug-19 02:42
+Telnaior      G.            1        17-May-19 12:40   15-Aug-19 12:40
+Tarhalindur   R. Lee        0        19-Jun-19 21:31   17-Sep-19 21:31
+Corona        omd           0        20-Jun-19 04:58   18-Sep-19 04:58
+PSS [1]       Baron v V[5]  0        20-Jun-19 16:55   18-Sep-19 16:55
+
+*Resale might officially be called "Resale value".
+
+Fora (Rule 478, self-ratifying)
+
+Type         Location                                Typical use
+----         --------                                -----------
+Public       agora-official at agoranomic.org        official reports
+Public       agora-business at agoranomic.org        other business
+Discussion   agora-discussion at agoranomic.org      discussion
+Discussion   irc://irc.freenode.net:6667/##nomic
+<https://webchat.freenode.net/?channels=%23%23nomic> discussion
+Public       agora at listserver.tue.nl              backup
+
+Subscribe or unsubscribe from main
+lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup
+list:http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.freenode.net, port 6667, channel ##nomic, and whatever
+nickname you like.
+
+
+Writs of FAGE (Rule 1789)
+Player            Date
+------            ----
+Kelly             17 Sep 95
+Andre             13 Feb 99
+BobTHJ            16 Jan 08
+P1                 5 Nov 08
+P2                 5 Nov 08
+P3 to P100 [6]     6 Nov 08
+G.                29 Jun 17
+Telnaior          29 Jan 19
+
+
+Watchers (4)
+
+The list of Watchers is not governed by the rules, but is
+traditionally maintained in the Registrar's Report.  If you'd like to
+be listed as a Watcher or removed from the list, feel free to email
+the fora or the Registrar directly.
+
+Watchers confirmed as of May 2017:
+
+Nickname          Contact
+--------          -------
+Ørjan             oerjan at nvg.ntnu.no
+
+Watchers confirmed as of May 2013:
+
+Nickname          Contact
+--------          -------
+Dave              davidnicol at gmail.com
+Phlogistique      noe.rubinstein at gmail.com
+Steve             zardoz37 at gmail.com
+
+[1] also known as Publius Scribonius Scholasticus
+[2] officially, but technically equivalent:
+    p.scribonius.scholasticusatgooglemail.com
+[3] officially, but technically equivalent c.ome.xk at gmail.com
+[4] also known as D Margaux
+[5] Baron von Vaderham, abbreviated to save space
+[6] P3 to P100 inclusive each deregistered in writs of FAGE on this
+    date.
