@@ -51,7 +51,7 @@ There are 25 Players.
  ------               -------                                 ----------
    omd                comexk at gmail.com [3]                 03 Feb 11
    Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
-   Gaelan             gbs at canishe.com                      15 May 17
+ * Gaelan             gbs at canishe.com                      15 May 17
    G.                 kerim at uw.edu                         25 Aug 17
    Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
    Trigon             reuben.staley at gmail.com              24 Sep 17
@@ -76,8 +76,8 @@ z**Jacob Arduino      jacobarduino at gmail.com               12 Nov 18
 z**Telnaior           jdga at iinet.net.au                    29 Jan 19
 
 z=zombie
-*=no public messages since the start of 2019-05
-**=no public messages since the start of 2019-04
+*=no public messages since the start of 2019-06
+**=no public messages since the start of 2019-05
 
 
 Zombie Master and Resale switches (self-ratifying)
