@@ -1,6 +1,6 @@
 Registrar's Report Archive:
 
-[Latest weekly report](weekly/2019-06-26.txt)
+[Latest weekly report](weekly/2019-07-04.txt)
 
 [Unofficial fresher weekly report](weekly/fresh.txt)
 
@@ -10,6 +10,7 @@ Registrar's Report Archive:
 
 List of weekly reports:
 
+* [2019-07-04.txt](weekly/2019-07-04.txt)
 * [2019-06-26.txt](weekly/2019-06-26.txt)
 * [2019-06-17.txt](weekly/2019-06-17.txt)
 * [2019-06-10.txt](weekly/2019-06-10.txt)
