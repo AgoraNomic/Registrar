@@ -82,8 +82,8 @@ z=zombie
 
 Zombie Master and Resale switches (self-ratifying)
 
-                                     Last owned        Due to flip
-Zombie         Master        Resale*  by Agora          to Agora
+                                      Last owned        Due to flip
+Zombie         Master        Resale   by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
 Hālian         Agora         1        now
 Jacob Arduino  Agora         2        now
@@ -92,8 +92,6 @@ Telnaior       G.            1        17-May-19 12:40   15-Aug-19 12:40
 Tarhalindur    R. Lee        0        19-Jun-19 21:31   17-Sep-19 21:31
 Corona         omd           0        20-Jun-19 04:58   18-Sep-19 04:58
 PSS [1]        Baron v V[5]  0        20-Jun-19 16:55   18-Sep-19 16:55
-
-*Resale might officially be called "Resale value".
 
 Fora (Rule 478, self-ratifying)
 
