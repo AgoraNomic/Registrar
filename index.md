@@ -10,7 +10,7 @@ Registrar's Report Archive:
 
 List of weekly reports:
 
-* [2019-06-17.txt](weekly/2019-06-26.txt)
+* [2019-06-26.txt](weekly/2019-06-26.txt)
 * [2019-06-17.txt](weekly/2019-06-17.txt)
 * [2019-06-10.txt](weekly/2019-06-10.txt)
 * [2019-06-06.txt](weekly/2019-06-06.txt)
