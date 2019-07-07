@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's monthly report that may be
-fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          Registrar's Monthly Report
 ------------------------------------------------------------------------
 
-Date of last official monthly report:     01 Jun 2019
-Date this unofficial report last updated: 07 Jul 2019
+Date of last report: 01 Jun 2019
+Date of this report: 07 Jul 2019
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
