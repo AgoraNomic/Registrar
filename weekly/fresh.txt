@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-07-04 (Thu)
-Date of this report: 2019-07-04 (Thu)
+Date of this report: 2019-07-09 (Tue)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -42,6 +42,7 @@ Recent Events (recent events section not ratifying)
 20-Jun-19 16:55  Agora flips PSS[1]'s master switch to Baron v V [5].
 04-Jul-19 03:22  Falsifian flips Jacob Arduino's master switch to Agora.
 (time of last report)
+07-Jul-19 21:40  R. Lee flips Tarhalindur's master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -87,9 +88,9 @@ Zombie         Master        Resale   by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
 Hālian         Agora         1        now
 Jacob Arduino  Agora         2        now
+Tarhalindur    Agora         0        now
 L              D. Margaux    0        17-May-19 02:42   15-Aug-19 02:42
 Telnaior       G.            1        17-May-19 12:40   15-Aug-19 12:40
-Tarhalindur    R. Lee        0        19-Jun-19 21:31   17-Sep-19 21:31
 Corona         omd           0        20-Jun-19 04:58   18-Sep-19 04:58
 PSS [1]        Baron v V[5]  0        20-Jun-19 16:55   18-Sep-19 16:55
 
