@@ -81,10 +81,10 @@ z=zombie
 **=no public messages since the start of 2019-05
 
 
-Zombie Master and Resale switches (self-ratifying)
+Zombie master and resale value switches (self-ratifying)
 
-                                      Last owned        Due to flip
-Zombie         Master        Resale   by Agora          to Agora
+                             Resale   Last owned        Due to flip
+Zombie         Master        value    by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
 Hālian         Agora         1        now
 Jacob Arduino  Agora         2        now
