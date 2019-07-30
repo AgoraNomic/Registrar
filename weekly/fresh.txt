@@ -5,7 +5,7 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-07-24 (Wed)
+Date of last report: 2019-07-30 (Tue)
 Date of this report: 2019-07-30 (Tue)
 (all times UTC)
 
@@ -28,10 +28,10 @@ Recent Events (recent events section not ratifying)
 13-Jul-19 20:35  Agora flips Jacob Arduino's master switch to twg.
 13-Jul-19 21:53  Agora flips Hālian's master switch to R. Lee.
 14-Jul-19 21:24  nch registers.
-(time of last report)
 25-Jul-19 01:25  nch deregisters.
 29-Jul-19 03:00  R. Lee deregisters.
 29-Jul-19 03:00  Hālian's master switch reverts to Hālian (the default).
+(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
