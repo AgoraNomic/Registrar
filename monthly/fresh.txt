@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 07 Jul 2019
-Date of this report: 25 Jul 2019
+Date of this report: 29 Jul 2019
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
@@ -18,6 +18,7 @@ Recent Changes:
 24-May-19 01:39  Falsifian deregisters nichdel with notice.
 13-Jul-19 16:48  Falsifian deregisters Tarhalindur with notice.
 25-Jul-19 01:25  nch deregisters.
+29-Jul-19 03:00  R. Lee deregisters.
 
 
 
@@ -652,5 +653,7 @@ a pokes              pokes at botnoise.org            11 Dec 17   03 Jan 19
 a nichdel [1]        nichdel at gmail.com             29 Jun 17   24 May 19
 a Tarhalindur        ahzin23 at icstudents.org        31 Oct 18   13 Jul 19
 v nch                nichdel at gmail.com             14 Jul 19   25 Jul 19
+v R. Lee [2]         edwardostrange at gmail.com      29 Dec 17   29 Jul 19
 
 [1] also known as nch
+[2] also known as V.J. Rada
