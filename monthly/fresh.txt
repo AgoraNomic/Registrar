@@ -5,12 +5,8 @@ fresher than the latest official version.
                          Registrar's Monthly Report
 ------------------------------------------------------------------------
 
-Date of last report: 07 Jul 2019
+Date of last report: 01 Aug 2019
 Date of this report: 01 Aug 2019
-
-Note: The previous monthly report incorrectly listed the deregistration
-dates of 天火狐 and pokes as January 2019. The correct month is February
-2019, as listed in this report.
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
