@@ -8,13 +8,17 @@ fresher than the latest official version.
 Date of last report: 07 Jul 2019
 Date of this report: 29 Jul 2019
 
+Note: The previous monthly report incorrectly listed the deregistration
+dates of 天火狐 and pokes as January 2019. The correct month is February
+2019, as listed in this report.
+
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Changes:
 15-Jan-19 20:28  D. Margaux deregisters Telnaior with notice.
 29-Jan-19 15:37  Telnaior is deregistered in a writ of FAGE.
-03-Jan-19 21:25  D. Margaux deregisters 天火狐 with notice.
-03-Jan-19 21:25  D. Margaux deregisters pokes with notice.
+03-Feb-19 21:25  D. Margaux deregisters 天火狐 with notice.
+03-Feb-19 21:25  D. Margaux deregisters pokes with notice.
 24-May-19 01:39  Falsifian deregisters nichdel with notice.
 13-Jul-19 16:48  Falsifian deregisters Tarhalindur with notice.
 25-Jul-19 01:25  nch deregisters.
@@ -648,8 +652,8 @@ Left in 2019:
 
 a Telnaior           jdga at iinet.net.au                         15 Jan 19
 w Telnaior           jdga at iinet.net.au             29 Jan 19   29 Jan 19
-a 天火狐              draconicdarkness at gmail.com    06 Nov 16  03 Jan 19
-a pokes              pokes at botnoise.org            11 Dec 17   03 Jan 19
+a 天火狐              draconicdarkness at gmail.com    06 Nov 16  03 Feb 19
+a pokes              pokes at botnoise.org            11 Dec 17   03 Feb 19
 a nichdel [1]        nichdel at gmail.com             29 Jun 17   24 May 19
 a Tarhalindur        ahzin23 at icstudents.org        31 Oct 18   13 Jul 19
 v nch                nichdel at gmail.com             14 Jul 19   25 Jul 19
