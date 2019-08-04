@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-07-30 (Tue)
-Date of this report: 2019-08-01 (Thu)
+Date of this report: 2019-08-04 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -32,6 +32,7 @@ Recent Events (recent events section not ratifying)
 29-Jul-19 03:00  R. Lee deregisters.
 29-Jul-19 03:00  Hālian's master switch reverts to Hālian (the default).
 (time of last report)
+03-Aug-19 15:23  Falsifian flips Hālian's master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -49,7 +50,6 @@ There are 23 Players.
  * ATMunn             iamingodsarmy at gmail.com              11 Mar 18
    twg                me at timon.red                         24 May 18
    D. Margaux [4]     dmargaux000 at gmail.com                25 Aug 18
- **Hālian             halian at safiria.net                   20 Oct 18
    Baron von Vaderham davidseeber at outlook.com              04 Feb 19
    Falsifian          jcook at cs.berkeley.edu                13 Feb 19
  * Bernie             hidreigon at gmail.com                  06 Apr 19
@@ -60,6 +60,7 @@ There are 23 Players.
 z**PSS [1]            pscriboniusscholasticus at gmail.com[2] 16 Apr 17
 z* Corona             liliumalbum.agora at gmail.com          17 Nov 17
 z**L                  prmcd16 at yahoo.com                    20 Sep 18
+z**Hālian             halian at safiria.net                   20 Oct 18
 z**Jacob Arduino      jacobarduino at gmail.com               12 Nov 18
 z**Telnaior           jdga at iinet.net.au                    29 Jan 19
 
@@ -73,6 +74,7 @@ Zombie master and resale value switches (self-ratifying)
                              Resale   Last owned        Due to flip
 Zombie         Master        value    by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
+Hālian         Agora         2        now
 L              D. Margaux    0        17-May-19 02:42   15-Aug-19 02:42
 Telnaior       G.            1        17-May-19 12:40   15-Aug-19 12:40
 Corona         omd           0        20-Jun-19 04:58   18-Sep-19 04:58
