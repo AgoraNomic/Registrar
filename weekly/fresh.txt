@@ -5,7 +5,7 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-07-30 (Tue)
+Date of last report: 2019-08-05 (Mon)
 Date of this report: 2019-08-05 (Mon)
 (all times UTC)
 
@@ -29,8 +29,8 @@ Recent Events (recent events section not ratifying)
 25-Jul-19 01:25  nch deregisters.
 29-Jul-19 03:00  R. Lee deregisters.
 29-Jul-19 03:00  Hālian's master switch reverts to Hālian (the default).
-(time of last report)
 03-Aug-19 15:23  Falsifian flips Hālian's master switch to Agora.
+(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
