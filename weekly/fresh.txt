@@ -6,17 +6,13 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-08-19 (Mon)
-Date of this report: 2019-08-24 (Sat)
+Date of this report: 2019-08-27 (Tue)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-19-Jun-19 12:31  Agora flips Tarhalindur's master switch to R. Lee.
-20-Jun-19 04:58  Agora flips Corona's master switch to omd.
-20-Jun-19 16:55  Baron v V [5] flips eir own master switch to emself.
-20-Jun-19 16:55  Agora flips PSS[1]'s master switch to Baron v V [5].
 04-Jul-19 03:22  Falsifian flips Jacob Arduino's master switch to Agora.
 07-Jul-19 21:40  R. Lee flips Tarhalindur's master switch to Agora.
 13-Jul-19 16:48  Falsifian deregisters Tarhalindur with notice.
