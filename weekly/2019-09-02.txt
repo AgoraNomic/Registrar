@@ -1,0 +1,146 @@
+------------------------------------------------------------------------
+                         The Agoran Directory
+------------------------------------------------------------------------
+
+Date of last report: 2019-08-19 (Mon)
+Date of this report: 2019-09-02 (Mon)
+(all times UTC)
+
+Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
+
+Recent Events (recent events section not ratifying)
+
+04-Jul-19 03:22  Falsifian flips Jacob Arduino's master switch to Agora.
+07-Jul-19 21:40  R. Lee flips Tarhalindur's master switch to Agora.
+13-Jul-19 16:48  Falsifian deregisters Tarhalindur with notice.
+13-Jul-19 20:35  Agora flips Jacob Arduino's master switch to twg.
+13-Jul-19 21:53  Agora flips Hālian's master switch to R. Lee.
+14-Jul-19 21:24  nch registers.
+25-Jul-19 01:25  nch deregisters.
+29-Jul-19 03:00  R. Lee deregisters.
+29-Jul-19 03:00  Hālian's master switch reverts to Hālian (the default).
+03-Aug-19 15:23  Falsifian flips Hālian's master switch to Agora.
+08-Aug-19 21:20  Falsifian flips Gaelan's master switch to Agora.
+18-Aug-19 23:48  omd flips Corona's master switch to Agora.
+(time of last report)
+24-Aug-19 16:02  Falsifian flips ATMunn's master switch to Agora.
+24-Aug-19 16:02  Falsifian flips Rance's master switch to Agora.
+24-Aug-19 16:02  Falsifian flips o's master switch to Agora.
+24-Aug-19 16:02  Falsifian flips Telnaior's master switch to Agora.
+24-Aug-19 16:02  Falsifian flips L's master switch to Agora.
+24-Aug-19 16:02  Falsifian deregisters L with notice.
+24-Aug-19 16:03  Falsifian deregisters Corona with notice.
+02-Sep-19 04:14  Falsifian flips Bernie's master switch to Agora.
+
+Players (by Rule 869, Persons with 'Registered' Citizenship):
+
+There are 21 Players.
+
+ Player               Contact                                 Registered
+ ------               -------                                 ----------
+   omd                comexk at gmail.com [3]                 03 Feb 11
+   Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+   G.                 kerim at uw.edu                         25 Aug 17
+   Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
+   Trigon             reuben.staley at gmail.com              24 Sep 17
+   Murphy             emurphy42 at zoho.com                   17 Dec 17
+   twg                me at timon.red                         24 May 18
+   D. Margaux [4]     dmargaux000 at gmail.com                25 Aug 18
+   Baron von Vaderham davidseeber at outlook.com              04 Feb 19
+   Falsifian          jcook at cs.berkeley.edu                13 Feb 19
+   Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
+   Walker             charles.w.walker at gmail.com           02 Jun 19
+z**PSS [1]            pscriboniusscholasticus at gmail.com[2] 16 Apr 17
+z**Gaelan             gbs at canishe.com                      15 May 17
+z* ATMunn             iamingodsarmy at gmail.com              11 Mar 18
+z**Hālian             halian at safiria.net                   20 Oct 18
+z**Jacob Arduino      jacobarduino at gmail.com               12 Nov 18
+z**Telnaior           jdga at iinet.net.au                    29 Jan 19
+z* Bernie             hidreigon at gmail.com                  06 Apr 19
+z* Rance              rance_28 at yahoo.com                   09 Apr 19
+z* o                  owen at grimoire.ca                     23 May 19
+
+z=zombie
+*=no public messages since the start of 2019-07
+**=no public messages since the start of 2019-06
+
+
+Zombie master and resale value switches (self-ratifying)
+
+                             Resale   Last owned        Due to flip
+Zombie         Master        value    by Agora          to Agora
+------         ------        -------  ---------------   ---------------
+ATMunn         Agora         2        now
+Bernie         Agora         2        now
+Gaelan         Agora         2        now
+Hālian         Agora         2        now
+o              Agora         2        now
+Rance          Agora         2        now
+Telnaior       Agora         1        now
+PSS [1]        Baron v V[5]  0        20-Jun-19 16:55   18-Sep-19 16:55
+Jacob Arduino  twg           1        13-Jul-19 20:35   11-Oct-19 20:35
+
+Fora (Rule 478, self-ratifying)
+
+Type         Location                                Typical use
+----         --------                                -----------
+Public       agora-official at agoranomic.org        official reports
+Public       agora-business at agoranomic.org        other business
+Discussion   agora-discussion at agoranomic.org      discussion
+Discussion   irc://irc.freenode.net:6667/##nomic
+<https://webchat.freenode.net/?channels=%23%23nomic> discussion
+Public       agora at listserver.tue.nl              backup
+
+Subscribe or unsubscribe from main
+lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup
+list:http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.freenode.net, port 6667, channel ##nomic, and whatever
+nickname you like.
+
+
+Writs of FAGE (Rule 1789)
+Player            Date
+------            ----
+Kelly             17 Sep 95
+Andre             13 Feb 99
+BobTHJ            16 Jan 08
+P1                 5 Nov 08
+P2                 5 Nov 08
+P3 to P100 [6]     6 Nov 08
+G.                29 Jun 17
+Telnaior          29 Jan 19
+
+
+Watchers (4)
+
+The list of Watchers is not governed by the rules, but is
+traditionally maintained in the Registrar's Report.  If you'd like to
+be listed as a Watcher or removed from the list, feel free to email
+the fora or the Registrar directly.
+
+Watchers confirmed as of May 2017:
+
+Nickname          Contact
+--------          -------
+Ørjan             oerjan at nvg.ntnu.no
+
+Watchers confirmed as of May 2013:
+
+Nickname          Contact
+--------          -------
+Dave              davidnicol at gmail.com
+Phlogistique      noe.rubinstein at gmail.com
+Steve             zardoz37 at gmail.com
+
+[1] also known as Publius Scribonius Scholasticus
+[2] officially, but technically equivalent:
+    p.scribonius.scholasticusatgooglemail.com
+[3] officially, but technically equivalent c.ome.xk at gmail.com
+[4] also known as D Margaux
+[5] Baron von Vaderham, abbreviated to save space
+[6] P3 to P100 inclusive each deregistered in writs of FAGE on this
+    date.
