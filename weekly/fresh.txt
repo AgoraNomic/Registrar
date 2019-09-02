@@ -5,7 +5,7 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-08-19 (Mon)
+Date of last report: 2019-09-02 (Mon)
 Date of this report: 2019-09-02 (Mon)
 (all times UTC)
 
@@ -25,7 +25,6 @@ Recent Events (recent events section not ratifying)
 03-Aug-19 15:23  Falsifian flips Hālian's master switch to Agora.
 08-Aug-19 21:20  Falsifian flips Gaelan's master switch to Agora.
 18-Aug-19 23:48  omd flips Corona's master switch to Agora.
-(time of last report)
 24-Aug-19 16:02  Falsifian flips ATMunn's master switch to Agora.
 24-Aug-19 16:02  Falsifian flips Rance's master switch to Agora.
 24-Aug-19 16:02  Falsifian flips o's master switch to Agora.
@@ -34,6 +33,7 @@ Recent Events (recent events section not ratifying)
 24-Aug-19 16:02  Falsifian deregisters L with notice.
 24-Aug-19 16:03  Falsifian deregisters Corona with notice.
 02-Sep-19 04:14  Falsifian flips Bernie's master switch to Agora.
+(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
