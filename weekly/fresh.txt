@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-08-19 (Mon)
-Date of this report: 2019-08-27 (Tue)
+Date of this report: 2019-09-02 (Mon)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -33,6 +33,7 @@ Recent Events (recent events section not ratifying)
 24-Aug-19 16:02  Falsifian flips L's master switch to Agora.
 24-Aug-19 16:02  Falsifian deregisters L with notice.
 24-Aug-19 16:03  Falsifian deregisters Corona with notice.
+02-Sep-19 04:14  Falsifian flips Bernie's master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -50,7 +51,6 @@ There are 21 Players.
    D. Margaux [4]     dmargaux000 at gmail.com                25 Aug 18
    Baron von Vaderham davidseeber at outlook.com              04 Feb 19
    Falsifian          jcook at cs.berkeley.edu                13 Feb 19
- * Bernie             hidreigon at gmail.com                  06 Apr 19
    Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
    Walker             charles.w.walker at gmail.com           02 Jun 19
 z**PSS [1]            pscriboniusscholasticus at gmail.com[2] 16 Apr 17
@@ -59,6 +59,7 @@ z* ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 z**Hālian             halian at safiria.net                   20 Oct 18
 z**Jacob Arduino      jacobarduino at gmail.com               12 Nov 18
 z**Telnaior           jdga at iinet.net.au                    29 Jan 19
+z* Bernie             hidreigon at gmail.com                  06 Apr 19
 z* Rance              rance_28 at yahoo.com                   09 Apr 19
 z* o                  owen at grimoire.ca                     23 May 19
 
@@ -73,6 +74,7 @@ Zombie master and resale value switches (self-ratifying)
 Zombie         Master        value    by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
 ATMunn         Agora         2        now
+Bernie         Agora         2        now
 Gaelan         Agora         2        now
 Hālian         Agora         2        now
 o              Agora         2        now
