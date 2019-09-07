@@ -4,7 +4,7 @@ Registrar's Report Archive:
 
 [Unofficial fresher weekly report](weekly/fresh.txt)
 
-[Latest monthly report](monthly/2019-08-01.txt)
+[Latest monthly report](monthly/2019-09-07.txt)
 
 [Unofficial fresher monthly report](monthly/fresh.txt)
 
