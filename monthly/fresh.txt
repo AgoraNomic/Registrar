@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 01 Aug 2019
-Date of this report: 24 Aug 2019
+Date of this report: 07 Sep 2019
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
