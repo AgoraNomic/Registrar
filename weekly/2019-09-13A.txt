@@ -1,11 +1,12 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-09-13 (Fri)
+This is a revision of the 2019-09-13 Registrar weekly report.  It describes the
+state of the game at the time the original report was published, which is
+2019-09-13 at 03:23 UTC.
+
+Date of last report: 2019-09-02 (Mon)
 Date of this report: 2019-09-13 (Fri)
 (all times UTC)
 
@@ -31,9 +32,9 @@ Recent Events (recent events section not ratifying)
 24-Aug-19 16:02  Falsifian deregisters L with notice.
 24-Aug-19 16:03  Falsifian deregisters Corona with notice.
 02-Sep-19 04:14  Falsifian flips Bernie's master switch to Agora.
+(time of last report)
 12-Sep-19 18:20  Hālian is an excess lot: resale value decreased
 12-Sep-19 18:20  Telnaior is an excess lot: resale value decreased
-(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
