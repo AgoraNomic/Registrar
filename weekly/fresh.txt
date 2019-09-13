@@ -13,8 +13,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-04-Jul-19 03:22  Falsifian flips Jacob Arduino's master switch to Agora.
-07-Jul-19 21:40  R. Lee flips Tarhalindur's master switch to Agora.
 13-Jul-19 16:48  Falsifian deregisters Tarhalindur with notice.
 13-Jul-19 20:35  Agora flips Jacob Arduino's master switch to twg.
 13-Jul-19 21:53  Agora flips Hālian's master switch to R. Lee.
