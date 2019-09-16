@@ -5,7 +5,7 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-09-13 (Fri)
+Date of last report: 2019-09-16 (Mon)
 Date of this report: 2019-09-16 (Mon)
 (all times UTC)
 
@@ -33,12 +33,12 @@ Recent Events (recent events section not ratifying)
 02-Sep-19 04:14  Falsifian flips Bernie's master switch to Agora.
 12-Sep-19 18:20  Hālian is an excess lot: resale value decreased
 12-Sep-19 18:20  Telnaior is an excess lot: resale value decreased
-(time of last report)
 13-Sep-19 03:41  Agora flips o's master switch to Trigon.
 13-Sep-19 03:42  Agora flips Bernie's master switch to Jason Cobb.
 13-Sep-19 03:44  Agora flips ATMunn's master switch to Falsifian.
 13-Sep-19 12:44  Agora flips Rance's master switch to G..
 15-Sep-19 17:48  Agora flips Gaelan's master switch to Murphy.
+(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
