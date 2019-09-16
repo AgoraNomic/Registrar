@@ -5,7 +5,7 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-09-13 (Fri)
+Date of last report: 2019-09-16 (Mon)
 Date of this report: 2019-09-13 (Fri)
 (all times UTC)
 
@@ -34,6 +34,11 @@ Recent Events (recent events section not ratifying)
 12-Sep-19 18:20  Hālian is an excess lot: resale value decreased
 12-Sep-19 18:20  Telnaior is an excess lot: resale value decreased
 (time of last report)
+13-Sep-19 03:41  Agora flips o's master switch to Trigon.
+13-Sep-19 03:42  Agora flips Bernie's master switch to Jason Cobb.
+13-Sep-19 03:44  Agora flips ATMunn's master switch to Falsifian.
+13-Sep-19 12:44  Agora flips Rance's master switch to G..
+15-Sep-19 17:48  Agora flips Gaelan's master switch to Murphy.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -73,15 +78,15 @@ Zombie master and resale value switches (self-ratifying)
                              Resale   Last owned        Due to flip
 Zombie         Master        value    by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
-ATMunn         Agora         2        now
-Bernie         Agora         2        now
-Gaelan         Agora         2        now
 Hālian         Agora         1        now
-o              Agora         2        now
-Rance          Agora         2        now
 Telnaior       Agora         0        now
 PSS [1]        Baron v V[5]  0        20-Jun-19 16:55   18-Sep-19 16:55
 Jacob Arduino  twg           1        13-Jul-19 20:35   11-Oct-19 20:35
+o              Trigon        1        13-Sep-19 03:41   12-Dec-19 03:41
+Bernie         Jason Cobb    1        13-Sep-19 03:42   12-Dec-19 03:42
+ATMunn         Falsifian     1        13-Sep-19 03:44   12-Dec-19 03:44
+Rance          G.            1        13-Sep-19 12:44   12-Dec-19 12:44
+Gaelan         Murphy        1        15-Sep-19 17:48   14-Dec-19 17:48
 
 Fora (Rule 478, self-ratifying)
 
