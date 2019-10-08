@@ -5,7 +5,7 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-10-01 (Tue)
+Date of last report: 2019-10-08 (Tue)
 Date of this report: 2019-10-08 (Tue)
 (all times UTC)
 
@@ -35,9 +35,9 @@ Recent Events (recent events section not ratifying)
 22-Sep-19 20:34  Falsifian deregisters Telnaior with notice.
 22-Sep-19 20:34  Falsifian flips Telnaior's master switch to Agora.
 22-Sep-19 20:34  Falsifian deregisters PSS [1] with notice.
-(time of last report)
 07-Oct-19 12:10  Falsifian flips Cuddle Beam's master switch to Agora.
 07-Oct-19 12:10  Falsifian flips Walker's master switch to Agora.
+(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
