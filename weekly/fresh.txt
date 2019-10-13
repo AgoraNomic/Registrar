@@ -38,6 +38,7 @@ Recent Events (recent events section not ratifying)
 07-Oct-19 12:10  Falsifian flips Cuddle Beam's master switch to Agora.
 07-Oct-19 12:10  Falsifian flips Walker's master switch to Agora.
 (time of last report)
+08-Oct-19 12:08  twg flips Jacob Arduino' master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -76,7 +77,7 @@ Zombie         Master        value    by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
 Cuddle Beam    Agora         2        now
 Walker         Agora         2        now
-Jacob Arduino  twg           1        13-Jul-19 20:35   11-Oct-19 20:35
+Jacob Arduino  Agora         1        now
 o              Trigon        1        13-Sep-19 03:41   12-Dec-19 03:41
 Bernie         Jason Cobb    1        13-Sep-19 03:42   12-Dec-19 03:42
 ATMunn         Falsifian     1        13-Sep-19 03:44   12-Dec-19 03:44
