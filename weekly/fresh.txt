@@ -5,9 +5,6 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Disclaimer: This report assumes twg did not flip Jacob Arduino's master switch
-to Agora on 2019-10-08.
-
 Date of last report: 2019-10-15 (Tue)
 Date of this report: 2019-10-15 (Tue)
 (all times UTC)
@@ -41,9 +38,8 @@ Recent Events (recent events section not ratifying)
 07-Oct-19 12:10  Falsifian flips Cuddle Beam's master switch to Agora.
 07-Oct-19 12:10  Falsifian flips Walker's master switch to Agora.
 08-Oct-19 12:08  twg flips Jacob Arduino' master switch to Agora.
-08-Oct-19 14:59  Gaelan flips Gaelan's master switch to Gaelan.
-(time of last report)
 08-Oct-19 15:02  Gaelan flips Gaelan's master switch to Gaelan.
+(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
