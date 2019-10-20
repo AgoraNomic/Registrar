@@ -41,6 +41,8 @@ Recent Events (recent events section not ratifying)
 08-Oct-19 15:02  Gaelan flips Gaelan's master switch to Gaelan.
 (time of last report)
 18-Oct-19 19:24  nch registers.
+20-Oct-19 11:58  Agora flips Cuddle Beam's master switch to D. Margaux.
+20-Oct-19 17:59  Agora flips Walker's master switch to Murphy.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -78,13 +80,13 @@ Zombie master and resale value switches (self-ratifying)
                              Resale   Last owned        Due to flip
 Zombie         Master        value    by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
-Cuddle Beam    Agora         2        now
-Walker         Agora         2        now
 Jacob Arduino  Agora         1        now
 o              Trigon        1        13-Sep-19 03:41   12-Dec-19 03:41
 Bernie         Jason Cobb    1        13-Sep-19 03:42   12-Dec-19 03:42
 ATMunn         Falsifian     1        13-Sep-19 03:44   12-Dec-19 03:44
 Rance          G.            1        13-Sep-19 12:44   12-Dec-19 12:44
+Cuddle Beam    D. Margaux    1        20-Oct-19 11:58   18-Jan-20 11:58
+Walker         Murphy        1        20-Oct-19 17:59   18-Jan-20 17:59
 
 Fora (Rule 478, self-ratifying)
 
