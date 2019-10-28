@@ -39,7 +39,7 @@ Recent Events (recent events section not ratifying)
 07-Oct-19 12:10  Falsifian flips Walker's master switch to Agora.
 08-Oct-19 12:08  twg flips Jacob Arduino' master switch to Agora.
 08-Oct-19 15:02  Gaelan flips Gaelan's master switch to Gaelan.
-18-Oct-19 19:24  nch registers.
+18-Oct-19 19:24  Nch registers.
 20-Oct-19 11:58  Agora flips Cuddle Beam's master switch to D. Margaux.
 20-Oct-19 17:59  Agora flips Walker's master switch to Murphy.
 20-Oct-19 21:16  pikhq registers.
@@ -64,7 +64,7 @@ There are 20 Players.
    Baron von Vaderham davidseeber at outlook.com              04 Feb 19
    Falsifian          jcook at cs.berkeley.edu                13 Feb 19
    Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
-   nch                nchagora at protonmail.com              18 Oct 19
+   Nch                nchagora at protonmail.com              18 Oct 19
    pikhq              agora at ada.pikhq.com                  20 Oct 19
 z**ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 z**Jacob Arduino      jacobarduino at gmail.com               12 Nov 18
