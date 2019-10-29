@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-10-22 (Tue)
-Date of this report: 2019-10-22 (Tue)
+Date of this report: 2019-10-29 (Tue)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -52,7 +52,7 @@ There are 20 Players.
 
  Player               Contact                                 Registered
  ------               -------                                 ----------
- * omd                comexk at gmail.com [2]                 03 Feb 11
+   omd                comexk at gmail.com [2]                 03 Feb 11
    Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
    Gaelan             gbs at canishe.com                      15 May 17
    G.                 kerim at uw.edu                         25 Aug 17
