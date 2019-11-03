@@ -15,8 +15,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-03-Aug-19 15:23  Falsifian flips Hālian's master switch to Agora.
-08-Aug-19 21:20  Falsifian flips Gaelan's master switch to Agora.
 18-Aug-19 23:48  omd flips Corona's master switch to Agora.
 24-Aug-19 16:02  Falsifian flips ATMunn's master switch to Agora.
 24-Aug-19 16:02  Falsifian flips Rance's master switch to Agora.
