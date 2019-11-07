@@ -5,10 +5,8 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Disclaimer: This report assumes ais523 is not a player. This is CFJ 3776.
-
-Date of last report: 2019-10-22 (Tue)
-Date of this report: 2019-11-03 (Sun)
+Date of last report: 2019-11-03 (Sun)
+Date of this report: 2019-11-07 (Thu)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
