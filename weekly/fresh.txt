@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-11-07 (Thu)
-Date of this report: 2019-11-07 (Thu)
+Date of this report: 2019-11-14 (Thu)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -43,6 +43,7 @@ Recent Events (recent events section not ratifying)
 20-Oct-19 21:16  pikhq registers.
 22-Oct-19 16:21  Cuddle Beam flips eir master switch to emself.
 (time of last report)
+11-Nov-19 00:52  Jacob Arduino is an excess lot: resale value decreased.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -81,7 +82,7 @@ Zombie master and resale value switches (self-ratifying)
                              Resale   Last owned        Due to flip
 Zombie         Master        value    by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
-Jacob Arduino  Agora         1        now
+Jacob Arduino  Agora         0        now
 o              Trigon        1        13-Sep-19 03:41   12-Dec-19 03:41
 Bernie         Jason Cobb    1        13-Sep-19 03:42   12-Dec-19 03:42
 ATMunn         Falsifian     1        13-Sep-19 03:44   12-Dec-19 03:44
