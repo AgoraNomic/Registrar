@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-11-14 (Thu)
-Date of this report: 2019-11-14 (Thu)
+Date of this report: 2019-11-23 (Sat)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -44,6 +44,7 @@ Recent Events (recent events section not ratifying)
 22-Oct-19 16:21  Cuddle Beam flips eir master switch to emself.
 11-Nov-19 00:52  Jacob Arduino is an excess lot: resale value decreased.
 (time of last report)
+19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 

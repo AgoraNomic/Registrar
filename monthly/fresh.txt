@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 16 Nov 2019
-Date of this report: 16 Nov 2019
+Date of this report: 23 Nov 2019
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
@@ -20,6 +20,7 @@ Recent Changes:
 18-Sep-19 00:28  Proposal 8242 deregisters Hālian.
 22-Sep-19 20:34  Falsifian deregisters Telnaior with notice.
 22-Sep-19 20:34  Falsifian deregisters PSS [4] with notice.
+19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
 
 
 
@@ -660,6 +661,7 @@ a Corona             liliumalbum.agora at gmail.com   17 Nov 17   24 Aug 19
 p Hālian             halian at safiria.net            20 Oct 18   18 Sep 19
 a Telnaior           jdga at iinet.net.au             29 Jan 19   22 Sep 19
 a PSS [4]     pscriboniusscholasticus at gmail.com[5] 16 Apr 17   22 Sep 19
+a Jacob Arduino      jacobarduino at gmail.com        12 Nov 18   19 Nov 19
 
 
 [1] Alternative/transliteration: Tenhigitsune
