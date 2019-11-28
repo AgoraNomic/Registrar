@@ -6,20 +6,13 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-11-23 (Sat)
-Date of this report: 2019-11-23 (Sat)
+Date of this report: 2019-11-28 (Thu)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-24-Aug-19 16:02  Falsifian flips ATMunn's master switch to Agora.
-24-Aug-19 16:02  Falsifian flips Rance's master switch to Agora.
-24-Aug-19 16:02  Falsifian flips o's master switch to Agora.
-24-Aug-19 16:02  Falsifian flips Telnaior's master switch to Agora.
-24-Aug-19 16:02  Falsifian flips L's master switch to Agora.
-24-Aug-19 16:02  Falsifian deregisters L with notice.
-24-Aug-19 16:03  Falsifian deregisters Corona with notice.
 02-Sep-19 04:14  Falsifian flips Bernie's master switch to Agora.
 12-Sep-19 18:20  Hālian is an excess lot: resale value decreased
 12-Sep-19 18:20  Telnaior is an excess lot: resale value decreased
