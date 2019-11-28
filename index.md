@@ -1,6 +1,6 @@
 Registrar's Report Archive:
 
-[Latest weekly report](weekly/2019-11-23.txt)
+[Latest weekly report](weekly/2019-11-28.txt)
 
 [Unofficial fresher weekly report](weekly/fresh.txt)
 
