@@ -6,12 +6,11 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 16 Nov 2019
-Date of this report: 23 Nov 2019
+Date of this report:  3 Dec 2019
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Changes:
-24-May-19 01:39  Falsifian deregisters nichdel with notice.
 13-Jul-19 16:48  Falsifian deregisters Tarhalindur with notice.
 25-Jul-19 01:25  nch deregisters.
 29-Jul-19 03:00  R. Lee deregisters.
