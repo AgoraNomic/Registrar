@@ -10,6 +10,7 @@ Registrar's Report Archive:
 
 List of weekly reports:
 
+* [2019-12-03.txt](weekly/2019-12-03.txt)
 * [2019-11-28.txt](weekly/2019-11-28.txt)
 * [2019-11-23.txt](weekly/2019-11-23.txt)
 * [2019-11-14.txt](weekly/2019-11-14.txt)
