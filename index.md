@@ -50,6 +50,7 @@ List of weekly reports:
 
 List of monthly reports:
 
+* [2019-12-03.txt](monthly/2019-12-03.txt)
 * [2019-11-16.txt](monthly/2019-11-16.txt)
 * [2019-10-27.txt](monthly/2019-10-27.txt)
 * [2019-09-07.txt](monthly/2019-09-07.txt)
