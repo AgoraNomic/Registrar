@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-11-28 (Thu)
-Date of this report: 2019-11-28 (Thu)
+Date of this report: 2019-12-03 (Tue)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -49,11 +49,11 @@ There are 19 Players.
    Gaelan             gbs at canishe.com                      15 May 17
    G.                 kerim at uw.edu                         25 Aug 17
    Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
-   Trigon             reuben.staley at gmail.com              24 Sep 17
+ * Trigon             reuben.staley at gmail.com              24 Sep 17
    Murphy             emurphy42 at zoho.com                   17 Dec 17
    twg                me at timon.red                         24 May 18
-   D. Margaux [3]     dmargaux000 at gmail.com                25 Aug 18
-   Baron von Vaderham davidseeber at outlook.com              04 Feb 19
+ * D. Margaux [3]     dmargaux000 at gmail.com                25 Aug 18
+ * Baron von Vaderham davidseeber at outlook.com              04 Feb 19
    Falsifian          jcook at cs.berkeley.edu                13 Feb 19
    Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
    Nch                nchagora at protonmail.com              18 Oct 19
@@ -65,8 +65,8 @@ z**o                  owen at grimoire.ca                     23 May 19
 z**Walker             charles.w.walker at gmail.com           02 Jun 19
 
 z=zombie
-*=no public messages since the start of 2019-10
-**=no public messages since the start of 2019-09
+*=no public messages since the start of 2019-11
+**=no public messages since the start of 2019-10
 
 
 Zombie master and resale value switches (self-ratifying)
