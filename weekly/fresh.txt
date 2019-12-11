@@ -5,7 +5,7 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-12-03 (Tue)
+Date of last report: 2019-12-11 (Wed)
 Date of this report: 2019-12-11 (Wed)
 (all times UTC)
 
@@ -35,8 +35,8 @@ Recent Events (recent events section not ratifying)
 22-Oct-19 16:21  Cuddle Beam flips eir master switch to emself.
 11-Nov-19 00:52  Jacob Arduino is an excess lot: resale value decreased.
 19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
-(time of last report)
 06-Dec-19 20:55  ATMunn flips eir master switch to emself.
+(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
