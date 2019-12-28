@@ -5,8 +5,15 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
+Note: this report assumes that Falsifian's attempt to flip o's,
+Bernie's and Rance's master switches to Agora on 20-Dec-19 failed (eir
+message may not have been delivered to enough players to count as a
+public message) but that e later successfully did those actions on
+27-Dec-19 instead. The relevant events are marked with "^" in the
+Recent Events section below.
+
 Date of last report: 2019-12-21 (Sat)
-Date of this report: 2019-12-21 (Sat)
+Date of this report: 2019-12-28 (Sat)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -28,9 +35,9 @@ Recent Events (recent events section not ratifying)
 11-Nov-19 00:52  Jacob Arduino is an excess lot: resale value decreased.
 19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
 06-Dec-19 20:55  ATMunn flips eir master switch to emself.
-20-Dec-19 15:41  Falsifian flips o's master switch to Agora.
-20-Dec-19 15:41  Falsifian flips Bernie's master switch to Agora.
-20-Dec-19 15:41  Falsifian flips Rance's master switch to Agora.
+^27-Dec-19 23:48 Falsifian flips o's master switch to Agora.
+^27-Dec-19 23:48 Falsifian flips Bernie's master switch to Agora.
+^27-Dec-19 23:48 Falsifian flips Rance's master switch to Agora.
 (time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
