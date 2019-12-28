@@ -12,7 +12,7 @@ public message) but that e later successfully did those actions on
 27-Dec-19 instead. The relevant events are marked with "^" in the
 Recent Events section below.
 
-Date of last report: 2019-12-21 (Sat)
+Date of last report: 2019-12-28 (Sat)
 Date of this report: 2019-12-28 (Sat)
 (all times UTC)
 
