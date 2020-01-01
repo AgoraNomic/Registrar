@@ -19,9 +19,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-22-Sep-19 20:34  Falsifian deregisters Telnaior with notice.
-22-Sep-19 20:34  Falsifian flips Telnaior's master switch to Agora.
-22-Sep-19 20:34  Falsifian deregisters PSS [1] with notice.
 07-Oct-19 12:10  Falsifian flips Cuddle Beam's master switch to Agora.
 07-Oct-19 12:10  Falsifian flips Walker's master switch to Agora.
 08-Oct-19 12:08  twg flips Jacob Arduino' master switch to Agora.
@@ -44,7 +41,7 @@ There are 21 Players.
 
  Player               Contact                                 Registered
  ------               -------                                 ----------
-   omd                comexk at gmail.com [2]                 03 Feb 11
+   omd                comexk at gmail.com [1]                 03 Feb 11
    Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
    Gaelan             gbs at canishe.com                      15 May 17
    G.                 kerim at uw.edu                         25 Aug 17
@@ -53,7 +50,7 @@ There are 21 Players.
    Murphy             emurphy42 at zoho.com                   17 Dec 17
    ATMunn             iamingodsarmy at gmail.com              11 Mar 18
    twg                me at timon.red                         24 May 18
- * D. Margaux [3]     dmargaux000 at gmail.com                25 Aug 18
+ * D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
  * Baron von Vaderham davidseeber at outlook.com              04 Feb 19
    Falsifian          jcook at cs.berkeley.edu                13 Feb 19
    Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
@@ -111,7 +108,7 @@ Andre             13 Feb 99
 BobTHJ            16 Jan 08
 P1                 5 Nov 08
 P2                 5 Nov 08
-P3 to P100 [4]     6 Nov 08
+P3 to P100 [3]     6 Nov 08
 G.                29 Jun 17
 Telnaior          29 Jan 19
 
@@ -143,8 +140,7 @@ Dave              davidnicol at gmail.com
 Phlogistique      noe.rubinstein at gmail.com
 Steve             zardoz37 at gmail.com
 
-[1] also known as Publius Scribonius Scholasticus
-[2] officially, but technically equivalent c.ome.xk at gmail.com
-[3] also known as D Margaux
-[4] P3 to P100 inclusive each deregistered in writs of FAGE on this
+[1] officially, but technically equivalent c.ome.xk at gmail.com
+[2] also known as D Margaux
+[3] P3 to P100 inclusive each deregistered in writs of FAGE on this
     date.
