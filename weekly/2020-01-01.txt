@@ -1,6 +1,3 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
@@ -11,7 +8,7 @@ Bernie's and Rance's master switches to Agora on 2019-12-20: eir
 message may not have been delivered to enough players to count as a
 public message).
 
-Date of last report: 2019-01-01 (Wed)
+Date of last report: 2019-12-28 (Sat)
 Date of this report: 2020-01-01 (Wed)
 (all times UTC)
 
