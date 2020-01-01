@@ -1,18 +1,18 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
+This is a revision of the 2019-12-28 Registrar weekly report. It
+describes the state of the game at the time the original report was
+published, which is 2019-12-28 at 00:03 UTC.
 
 Disclaimer: this report assumes that Falsifian's attempts to flip o's,
 Bernie's and Rance's master switches to Agora on 2019-12-20: eir
 message may not have been delivered to enough players to count as a
 public message).
 
-Date of last report: 2019-12-28 (Sat)
-Date of this report: 2019-12-29 (Sun)
+Date of last report: 2019-12-21 (Sat)
+Date of this report: 2019-12-28 (Sat)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -35,11 +35,10 @@ Recent Events (recent events section not ratifying)
 19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
 06-Dec-19 20:55  ATMunn flips eir master switch to emself.
 (time of last report)
-29-Dec-19 10:04  R. Lee registers.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 20 Players.
+There are 19 Players.
 
  Player               Contact                                 Registered
  ------               -------                                 ----------
@@ -58,7 +57,6 @@ There are 20 Players.
    Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
    Nch                nchagora at protonmail.com              18 Oct 19
    pikhq              agora at ada.pikhq.com                  20 Oct 19
-   R. Lee             edwardostrange at gmail.com             29 Dec 19
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
 z**Rance              rance_28 at yahoo.com                   09 Apr 19
 z**o                  owen at grimoire.ca                     23 May 19
