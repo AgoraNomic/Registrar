@@ -13,7 +13,7 @@ public message) but that e later successfully did those actions on
 Recent Events section below.
 
 Date of last report: 2019-12-28 (Sat)
-Date of this report: 2019-12-28 (Sat)
+Date of this report: 2019-12-29 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -39,10 +39,11 @@ Recent Events (recent events section not ratifying)
 ^27-Dec-19 23:48 Falsifian flips Bernie's master switch to Agora.
 ^27-Dec-19 23:48 Falsifian flips Rance's master switch to Agora.
 (time of last report)
+29-Dec-19 10:04  R. Lee registers.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 19 Players.
+There are 20 Players.
 
  Player               Contact                                 Registered
  ------               -------                                 ----------
@@ -61,6 +62,7 @@ There are 19 Players.
    Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
    Nch                nchagora at protonmail.com              18 Oct 19
    pikhq              agora at ada.pikhq.com                  20 Oct 19
+   R. Lee             edwardostrange at gmail.com             29 Dec 19
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
 z**Rance              rance_28 at yahoo.com                   09 Apr 19
 z**o                  owen at grimoire.ca                     23 May 19
