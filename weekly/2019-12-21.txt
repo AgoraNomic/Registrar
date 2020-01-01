@@ -1,8 +1,7 @@
 Post-publication note about the below report: the events on 20-Dec-19
 (flipping three master switches to Agora) might not have happened, and
 so the values of o's, Bernie's and Rance's master switches may be
-incorrectly reported. However, even if that's the case, the Registrar
-did later flip them to Agora on 27-Dec-19.
+incorrectly reported.
 
 ------------------------------------------------------------------------
                          The Agoran Directory
