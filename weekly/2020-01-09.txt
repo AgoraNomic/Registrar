@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2019-01-09 (Thu)
+Date of last report: 2019-01-01 (Wed)
 Date of this report: 2020-01-09 (Thu)
 (all times UTC)
 
@@ -22,11 +19,11 @@ January 7 rather than some time last month.
 19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
 06-Dec-19 20:55  ATMunn flips eir master switch to emself.
 29-Dec-19 10:04  R. Lee registers.
+(time of last report)
 06-Jan-20 19:13  Alexis registers.
 07-Jan-20 07:02  Falsifian flips o's master switch to Agora.
 07-Jan-20 07:02  Falsifian flips Bernie's master switch to Agora.
 07-Jan-20 07:02  Falsifian flips Rance master switch to Agora.
-(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
