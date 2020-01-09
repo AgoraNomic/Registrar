@@ -12,12 +12,16 @@ message may not have been delivered to enough players to count as a
 public message).
 
 Date of last report: 2019-01-01 (Wed)
-Date of this report: 2020-01-01 (Wed)
+Date of this report: 2020-01-09 (Thu)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
+
+Notes: this recent events section assumes Alexis registered on January 6 and
+not January 1, and that three master switches were flipped on January 7 rather
+than some time last month.
 
 07-Oct-19 12:10  Falsifian flips Cuddle Beam's master switch to Agora.
 07-Oct-19 12:10  Falsifian flips Walker's master switch to Agora.
@@ -33,7 +37,10 @@ Recent Events (recent events section not ratifying)
 06-Dec-19 20:55  ATMunn flips eir master switch to emself.
 (time of last report)
 29-Dec-19 10:04  R. Lee registers.
-01-Jan-20 08:54  Alexis registers.
+06-Jan-20 19:13  Alexis registers.
+07-Jan-20 07:02  Falsifian flips o's master switch to Agora.
+07-Jan-20 07:02  Falsifian flips Bernie's master switch to Agora.
+07-Jan-20 07:02  Falsifian flips Rance master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -57,7 +64,7 @@ There are 21 Players.
    Nch                nchagora at protonmail.com              18 Oct 19
    pikhq              agora at ada.pikhq.com                  20 Oct 19
    R. Lee             edwardostrange at gmail.com             29 Dec 19
-   Alexis             alercah at gmail.com                    01 Jan 20
+   Alexis             alercah at gmail.com                    06 Jan 20 [3]
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
 z**Rance              rance_28 at yahoo.com                   09 Apr 19
 z**o                  owen at grimoire.ca                     23 May 19
@@ -73,9 +80,9 @@ Zombie master and resale value switches (self-ratifying)
                              Resale   Last owned        Due to flip
 Zombie         Master        value    by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
-o              Trigon        1        13-Sep-19 03:41   12-Dec-19 03:41
-Bernie         Jason Cobb    1        13-Sep-19 03:42   12-Dec-19 03:42
-Rance          G.            1        13-Sep-19 12:44   12-Dec-19 12:44
+o              Agora         1        now
+Bernie         Agora         1        now
+Rance          Agora         1        now
 Walker         Murphy        1        20-Oct-19 17:59   18-Jan-20 17:59
 
 Fora (Rule 478, self-ratifying)
@@ -108,7 +115,7 @@ Andre             13 Feb 99
 BobTHJ            16 Jan 08
 P1                 5 Nov 08
 P2                 5 Nov 08
-P3 to P100 [3]     6 Nov 08
+P3 to P100 [4]     6 Nov 08
 G.                29 Jun 17
 Telnaior          29 Jan 19
 
@@ -142,5 +149,7 @@ Steve             zardoz37 at gmail.com
 
 [1] officially, but technically equivalent c.ome.xk at gmail.com
 [2] also known as D Margaux
-[3] P3 to P100 inclusive each deregistered in writs of FAGE on this
+[3] May have been 01 Jan 20. See twg's CFJ on January 1, 2020:
+    "Alexis is a player."
+[4] P3 to P100 inclusive each deregistered in writs of FAGE on this
     date.
