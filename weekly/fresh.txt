@@ -5,7 +5,6 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-
 Date of last report: 2019-01-09 (Thu)
 Date of this report: 2020-01-09 (Thu)
 (all times UTC)
