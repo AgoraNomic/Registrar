@@ -23,15 +23,6 @@ Notes: this recent events section assumes Alexis registered on January 6 and
 not January 1, and that three master switches were flipped on January 7 rather
 than some time last month.
 
-07-Oct-19 12:10  Falsifian flips Cuddle Beam's master switch to Agora.
-07-Oct-19 12:10  Falsifian flips Walker's master switch to Agora.
-08-Oct-19 12:08  twg flips Jacob Arduino' master switch to Agora.
-08-Oct-19 15:02  Gaelan flips Gaelan's master switch to Gaelan.
-18-Oct-19 19:24  Nch registers.
-20-Oct-19 11:58  Agora flips Cuddle Beam's master switch to D. Margaux.
-20-Oct-19 17:59  Agora flips Walker's master switch to Murphy.
-20-Oct-19 21:16  pikhq registers.
-22-Oct-19 16:21  Cuddle Beam flips eir master switch to emself.
 11-Nov-19 00:52  Jacob Arduino is an excess lot: resale value decreased.
 19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
 06-Dec-19 20:55  ATMunn flips eir master switch to emself.
