@@ -6,11 +6,6 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 
-Disclaimer: this report assumes that Falsifian's attempts to flip o's,
-Bernie's and Rance's master switches to Agora on 2019-12-20: eir
-message may not have been delivered to enough players to count as a
-public message).
-
 Date of last report: 2019-01-01 (Wed)
 Date of this report: 2020-01-09 (Thu)
 (all times UTC)
