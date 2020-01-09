@@ -19,9 +19,9 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-Notes: this recent events section assumes Alexis registered on January 6 and
-not January 1, and that three master switches were flipped on January 7 rather
-than some time last month.
+Notes: this recent events section assumes Alexis registered on January
+6 and not January 1, and that three master switches were flipped on
+January 7 rather than some time last month.
 
 11-Nov-19 00:52  Jacob Arduino is an excess lot: resale value decreased.
 19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
@@ -55,7 +55,7 @@ There are 21 Players.
    Nch                nchagora at protonmail.com              18 Oct 19
    pikhq              agora at ada.pikhq.com                  20 Oct 19
    R. Lee             edwardostrange at gmail.com             29 Dec 19
-   Alexis             alercah at gmail.com                    06 Jan 20 [3]
+   Alexis             alercah at gmail.com                    see [3]
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
 z**Rance              rance_28 at yahoo.com                   09 Apr 19
 z**o                  owen at grimoire.ca                     23 May 19
@@ -140,7 +140,7 @@ Steve             zardoz37 at gmail.com
 
 [1] officially, but technically equivalent c.ome.xk at gmail.com
 [2] also known as D Margaux
-[3] May have been 01 Jan 20. See twg's CFJ on January 1, 2020:
-    "Alexis is a player."
+[3] Alexis may registered on either January 1 or January 6, 2020. See
+    twg's CFJ on January 1, 2020: "Alexis is a player.".
 [4] P3 to P100 inclusive each deregistered in writs of FAGE on this
     date.
