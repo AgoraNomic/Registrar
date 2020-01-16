@@ -25,6 +25,9 @@ January 7 rather than some time last month.
 07-Jan-20 07:02  Falsifian flips Bernie's master switch to Agora.
 07-Jan-20 07:02  Falsifian flips Rance's master switch to Agora.
 (time of last report)
+16-Jan-20 05:51  Falsifian flips Cuddle Beam's master switch to Agora.
+16-Jan-20 05:51  Falsifian flips Nch's master switch to Agora.
+16-Jan-20 05:51  Falsifian flips Trigon's master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -36,8 +39,6 @@ There are 21 Players.
    Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
    Gaelan             gbs at canishe.com                      15 May 17
    G.                 kerim at uw.edu                         25 Aug 17
- * Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
- **Trigon             reuben.staley at gmail.com              24 Sep 17
    Murphy             emurphy42 at zoho.com                   17 Dec 17
    ATMunn             iamingodsarmy at gmail.com              11 Mar 18
    twg                me at timon.red                         24 May 18
@@ -45,14 +46,16 @@ There are 21 Players.
    Baron von Vaderham davidseeber at outlook.com              04 Feb 19
    Falsifian          jcook at cs.berkeley.edu                13 Feb 19
    Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
- * Nch                nchagora at protonmail.com              18 Oct 19
    pikhq              agora at ada.pikhq.com                  20 Oct 19
    R. Lee             edwardostrange at gmail.com             29 Dec 19
    Alexis             alercah at gmail.com                    see [3]
+z* Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
+z**Trigon             reuben.staley at gmail.com              24 Sep 17
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
 z**Rance              rance_28 at yahoo.com                   09 Apr 19
 z**o                  owen at grimoire.ca                     23 May 19
 z**Walker             charles.w.walker at gmail.com           02 Jun 19
+z* Nch                nchagora at protonmail.com              18 Oct 19
 
 z=zombie
 *=no public messages since the start of 2019-12
@@ -64,6 +67,9 @@ Zombie master and resale value switches (self-ratifying)
                              Resale   Last owned        Due to flip
 Zombie         Master        value    by Agora          to Agora
 ------         ------        -------  ---------------   ---------------
+Cuddle Beam    Agora         2        now
+Nch            Agora         2        now
+Trigon         Agora         2        now
 o              Agora         1        now
 Bernie         Agora         1        now
 Rance          Agora         1        now
