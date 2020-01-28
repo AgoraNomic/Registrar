@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report:  3 Dec 2019
-Date of this report: 11 Jan 2020
+Date of this report: 25 Jan 2020
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
@@ -661,6 +661,7 @@ p Hālian             halian at safiria.net            20 Oct 18   18 Sep 19
 a Telnaior           jdga at iinet.net.au             29 Jan 19   22 Sep 19
 a PSS [4]     pscriboniusscholasticus at gmail.com[5] 16 Apr 17   22 Sep 19
 a Jacob Arduino      jacobarduino at gmail.com        12 Nov 18   19 Nov 19
+v R. Lee [3]         edwardostrange at gmail.com      29 Dec 19   25 Jan 20
 
 
 [1] Alternative/transliteration: Tenhigitsune

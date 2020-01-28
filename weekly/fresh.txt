@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-01-23 (Thu)
-Date of this report: 2020-01-23 (Thu)
+Date of this report: 2020-01-25 (Sat)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -32,6 +32,8 @@ January 7 rather than some time last month.
 17-Jan-20 18:04  Agora flips o's master switch to G.
 23-Jan-20 04:17  Falsifian flips Walker's master switch to Agora.
 (time of last report)
+24-Jan-20 00:32  Warrigal registers.
+25-Jan-20 13:31  R. Lee deregisters.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -51,8 +53,8 @@ There are 21 Players.
    Falsifian          jcook at cs.berkeley.edu                13 Feb 19
    Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
    pikhq              agora at ada.pikhq.com                  20 Oct 19
-   R. Lee             edwardostrange at gmail.com             29 Dec 19
    Alexis             alercah at gmail.com                    06 Jan 20
+   Warrigal           tannerswett at gmail.com                24 Jan 20
 z* Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
 z**Trigon             reuben.staley at gmail.com              24 Sep 17
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
