@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-01-23 (Thu)
-Date of this report: 2020-01-25 (Sat)
+Date of this report: 2020-01-26 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -34,6 +34,7 @@ January 7 rather than some time last month.
 (time of last report)
 24-Jan-20 00:32  Warrigal registers.
 25-Jan-20 13:31  R. Lee deregisters.
+26-Jan-20 03:28  Name change: Jason Cobb -> Jason
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -51,7 +52,7 @@ There are 21 Players.
    D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
    Baron von Vaderham davidseeber at outlook.com              04 Feb 19
    Falsifian          jcook at cs.berkeley.edu                13 Feb 19
-   Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
+   Jason              jason.e.cobb at gmail.com               02 Jun 19
    pikhq              agora at ada.pikhq.com                  20 Oct 19
    Alexis             alercah at gmail.com                    06 Jan 20
    Warrigal           tannerswett at gmail.com                24 Jan 20
@@ -70,16 +71,16 @@ z=zombie
 
 Zombie master and resale value switches (self-ratifying)
 
-                             Resale   Last owned        Due to flip
-Zombie         Master        value    by Agora          to Agora
-------         ------        -------  ---------------   ---------------
-Cuddle Beam    Agora         2        now
-Nch            Agora         2        now
-Trigon         Agora         2        now
-Walker         Agora         1        now
-o              G.            0        17-Jan-20 18:04   16-Apr-20 18:04
-Bernie         twg           0        16-Jan-20 13:16   15-Apr-20 13:16
-Rance          Jason Cobb    0        16-Jan-20 17:21   15-Apr-20 17:21
+                       Resale   Last owned        Due to flip
+Zombie         Master  value    by Agora          to Agora
+------         ------  -------  ---------------   ---------------
+Cuddle Beam    Agora   2        now
+Nch            Agora   2        now
+Trigon         Agora   2        now
+Walker         Agora   1        now
+o              G.      0        17-Jan-20 18:04   16-Apr-20 18:04
+Bernie         twg     0        16-Jan-20 13:16   15-Apr-20 13:16
+Rance          Jason   0        16-Jan-20 17:21   15-Apr-20 17:21
 
 Fora (Rule 478, self-ratifying)
 
