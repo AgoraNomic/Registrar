@@ -52,7 +52,7 @@ There are 21 Players.
    Jason Cobb         jason.e.cobb at gmail.com               02 Jun 19
    pikhq              agora at ada.pikhq.com                  20 Oct 19
    R. Lee             edwardostrange at gmail.com             29 Dec 19
-   Alexis             alercah at gmail.com                    see [3]
+   Alexis             alercah at gmail.com                    06 Jan 20
 z* Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
 z**Trigon             reuben.staley at gmail.com              24 Sep 17
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
@@ -109,7 +109,7 @@ Andre             13 Feb 99
 BobTHJ            16 Jan 08
 P1                 5 Nov 08
 P2                 5 Nov 08
-P3 to P100 [4]     6 Nov 08
+P3 to P100 [3]     6 Nov 08
 G.                29 Jun 17
 Telnaior          29 Jan 19
 
@@ -143,7 +143,5 @@ Steve             zardoz37 at gmail.com
 
 [1] officially, but technically equivalent c.ome.xk at gmail.com
 [2] also known as D Margaux
-[3] Alexis may registered on either January 1 or January 6, 2020. See
-    twg's CFJ on January 1, 2020: "Alexis is a player.".
-[4] P3 to P100 inclusive each deregistered in writs of FAGE on this
+[3] P3 to P100 inclusive each deregistered in writs of FAGE on this
     date.
