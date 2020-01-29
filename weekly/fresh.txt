@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-01-23 (Thu)
-Date of this report: 2020-01-26 (Sun)
+Date of this report: 2020-01-29 (Wed)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -35,10 +35,11 @@ January 7 rather than some time last month.
 24-Jan-20 00:32  Warrigal registers.
 25-Jan-20 13:31  R. Lee deregisters.
 26-Jan-20 03:28  Name change: Jason Cobb -> Jason
+28-Jan-20 05:14  Tcbapo registers.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 21 Players.
+There are 22 Players.
 
  Player               Contact                                 Registered
  ------               -------                                 ----------
@@ -56,6 +57,7 @@ There are 21 Players.
    pikhq              agora at ada.pikhq.com                  20 Oct 19
    Alexis             alercah at gmail.com                    06 Jan 20
    Warrigal           tannerswett at gmail.com                24 Jan 20
+   Tcbapo             tcbapoagora at gmail.com                28 Jan 20
 z* Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
 z**Trigon             reuben.staley at gmail.com              24 Sep 17
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
