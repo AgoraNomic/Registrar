@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2019-01-29 (Wed)
+Date of last report: 2019-01-23 (Thu)
 Date of this report: 2020-01-29 (Wed)
 (all times UTC)
 
@@ -31,12 +28,12 @@ January 7 rather than some time last month.
 16-Jan-20 17:21  Agora flips Rance master switch to Jason Cobb.
 17-Jan-20 18:04  Agora flips o's master switch to G.
 23-Jan-20 04:17  Falsifian flips Walker's master switch to Agora.
+(time of last report)
 24-Jan-20 00:32  Warrigal registers.
 25-Jan-20 13:31  R. Lee deregisters.
 26-Jan-20 03:28  Name change: Jason Cobb -> Jason
 28-Jan-20 05:14  Tcbapo registers.
-(time of last report)
-!
+
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
 There are 22 Players.
