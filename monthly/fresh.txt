@@ -6,13 +6,11 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report:  3 Dec 2019
-Date of this report: 29 Jan 2020
+Date of this report:  2 Feb 2020
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Changes:
-13-Jul-19 16:48  Falsifian deregisters Tarhalindur with notice.
-25-Jul-19 01:25  nch deregisters.
 29-Jul-19 03:00  R. Lee deregisters.
 24-Aug-19 16:02  Falsifian deregisters L with notice.
 24-Aug-19 16:03  Falsifian deregisters Corona with notice.
