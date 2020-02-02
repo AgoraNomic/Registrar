@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2019-01-29 (Wed)
-Date of this report: 2020-01-29 (Wed)
+Date of this report: 2020-02-02 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
