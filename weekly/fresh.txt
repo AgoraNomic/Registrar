@@ -48,7 +48,7 @@ There are 22 Players.
    Gaelan             gbs at canishe.com                      15 May 17
    G.                 kerim at uw.edu                         25 Aug 17
    Murphy             emurphy42 at zoho.com                   17 Dec 17
-   ATMunn             iamingodsarmy at gmail.com              11 Mar 18
+ * ATMunn             iamingodsarmy at gmail.com              11 Mar 18
    twg                me at timon.red                         24 May 18
    D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
    Baron von Vaderham davidseeber at outlook.com              04 Feb 19
@@ -67,8 +67,8 @@ z**Walker             charles.w.walker at gmail.com           02 Jun 19
 z**Nch                nchagora at protonmail.com              18 Oct 19
 
 z=zombie
-*=no public messages since the start of 2019-12; see below for date
-**=no public messages since the start of 2019-11; see below for date
+*=no public messages since the start of 2020-01; see below for date
+**=no public messages since the start of 2019-12; see below for date
 
 
 Date of last public message, for players who have not sent one since the start
@@ -83,6 +83,7 @@ Bernie       2019-06-29
 Walker       2019-07-04
 Cuddle Beam  2019-11-04
 Nch          2019-11-13
+ATMunn       2019-12-08
 
 
 Zombie master and resale value switches (self-ratifying)
