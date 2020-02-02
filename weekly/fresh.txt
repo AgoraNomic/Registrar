@@ -58,17 +58,31 @@ There are 22 Players.
    Alexis             alercah at gmail.com                    06 Jan 20
    Warrigal           tannerswett at gmail.com                24 Jan 20
    Tcbapo             tcbapoagora at gmail.com                28 Jan 20
-z* Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
+z**Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
 z**Trigon             reuben.staley at gmail.com              24 Sep 17
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
 z**Rance              rance_28 at yahoo.com                   09 Apr 19
 z**o                  owen at grimoire.ca                     23 May 19
 z**Walker             charles.w.walker at gmail.com           02 Jun 19
-z* Nch                nchagora at protonmail.com              18 Oct 19
+z**Nch                nchagora at protonmail.com              18 Oct 19
 
 z=zombie
-*=no public messages since the start of 2019-12
-**=no public messages since the start of 2019-11
+*=no public messages since the start of 2019-12; see below for date
+**=no public messages since the start of 2019-11; see below for date
+
+
+Date of last public message, for players who have not sent one since the start
+of 2019-12 (not self-ratifying):
+
+Player       Date
+------       ----
+Trigon       2019-10-22
+Rance        2019-06-15
+o            2019-06-19
+Bernie       2019-06-29
+Walker       2019-07-04
+Cuddle Beam  2019-11-04
+Nch          2019-11-13
 
 
 Zombie master and resale value switches (self-ratifying)
