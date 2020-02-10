@@ -13,7 +13,7 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-Notes: this recent events section assumes that three master switches
+Note: this recent events section assumes that three master switches
 were flipped on January 7 rather than some time last month.
 
 19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
