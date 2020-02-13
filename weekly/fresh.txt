@@ -147,25 +147,14 @@ traditionally maintained in the Registrar's Report.  If you'd like to
 be listed as a Watcher or removed from the list, feel free to email
 the fora or the Registrar directly.
 
-Watcher added September 2019:
+Nickname          Contact                      Last confirmed
+--------          -------                      --------------
+Lykaina           mjbermanator at gmail.com    2019 September
+Ørjan             oerjan at nvg.ntnu.no        2017 May
+Dave              davidnicol at gmail.com      2013 May
+Phlogistique      noe.rubinstein at gmail.com  2013 May
+Steve             zardoz37 at gmail.com        2013 May
 
-Nickname          Contact
---------          -------
-Lykaina           mjbermanator at gmail.com
-
-Watchers confirmed as of May 2017:
-
-Nickname          Contact
---------          -------
-Ørjan             oerjan at nvg.ntnu.no
-
-Watchers confirmed as of May 2013:
-
-Nickname          Contact
---------          -------
-Dave              davidnicol at gmail.com
-Phlogistique      noe.rubinstein at gmail.com
-Steve             zardoz37 at gmail.com
 
 [1] officially, but technically equivalent c.ome.xk at gmail.com
 [2] also known as D Margaux
