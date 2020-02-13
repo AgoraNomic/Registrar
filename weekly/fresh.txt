@@ -6,15 +6,21 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-02-06 (Thu)
-Date of this report: 2020-02-08 (Sat)
+Date of this report: 2020-02-11 (Tue)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-Note: this recent events section assumes that three master switches
-were flipped on January 7 rather than some time last month.
+Notes:
+
+* This report assumes Jason did not flip Rance's master switch to Agora
+  on 2020-02-11. This is related to whether zombie auctions work. The
+  judgement of CFJ 3793 is expected to contain an opinion on this.
+
+* This recent events section assumes that three master switches were
+  flipped on January 7 rather than some time last month.
 
 19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
 06-Dec-19 20:55  ATMunn flips eir master switch to emself.
