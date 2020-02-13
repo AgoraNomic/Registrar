@@ -140,7 +140,7 @@ G.                29 Jun 17
 Telnaior          29 Jan 19
 
 
-Watchers (5)
+Watchers (6)
 
 The list of Watchers is not governed by the rules, but is
 traditionally maintained in the Registrar's Report.  If you'd like to
@@ -149,6 +149,7 @@ the fora or the Registrar directly.
 
 Nickname          Contact                      Last confirmed
 --------          -------                      --------------
+ais523            AIS523 at alumni.bham.ac.uk  2020 February
 Lykaina           mjbermanator at gmail.com    2019 September
 Ørjan             oerjan at nvg.ntnu.no        2017 May
 Dave              davidnicol at gmail.com      2013 May
