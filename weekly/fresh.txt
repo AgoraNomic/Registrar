@@ -142,24 +142,26 @@ G.                29 Jun 17
 Telnaior          29 Jan 19
 
 
-Watchers (6)
+Watchers (7)
 
 The list of Watchers is not governed by the rules, but is
 traditionally maintained in the Registrar's Report.  If you'd like to
 be listed as a Watcher or removed from the list, feel free to email
 the fora or the Registrar directly.
 
-Nickname          Contact                      Last confirmed
---------          -------                      --------------
-ais523            AIS523 at alumni.bham.ac.uk  2020 February
-Lykaina           mjbermanator at gmail.com    2019 September
-Ørjan             oerjan at nvg.ntnu.no        2017 May
-Dave              davidnicol at gmail.com      2013 May
-Phlogistique      noe.rubinstein at gmail.com  2013 May
-Steve             zardoz37 at gmail.com        2013 May
+Nickname          Contact                                 Last confirmed
+--------          -------                                 --------------
+PSS [4]           p.scribonius.scholasticus at gmail.com  2020 February
+ais523            AIS523 at alumni.bham.ac.uk             2020 February
+Lykaina           mjbermanator at gmail.com               2019 September
+Ørjan             oerjan at nvg.ntnu.no                   2017 May
+Dave              davidnicol at gmail.com                 2013 May
+Phlogistique      noe.rubinstein at gmail.com             2013 May
+Steve             zardoz37 at gmail.com                   2013 May
 
 
 [1] officially, but technically equivalent c.ome.xk at gmail.com
 [2] also known as D Margaux
 [3] P3 to P100 inclusive each deregistered in writs of FAGE on this
     date.
+[4] Abbreviated to save space: Publius Scribonius Scholasticus
