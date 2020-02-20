@@ -16,9 +16,9 @@ Notes:
 * This report assumes Jason did not flip Rance's master switch to Agora
   on 2020-02-11. Falsifian called a CFJ on this on 2020-02-20.
 
-* This report assumes a zombie auction was initiated on 2020-02-06. Events in
-  the Recent Events section that depend on this assumption are marked with "^"
-  at the start of the line..
+* This report assumes a zombie auction was initiated on 2020-02-06.
+  This is CFJ 3817. Events in the Recent Events section that depend on
+  this assumption are marked with "^" at the start of the line.
 
 * This recent events section assumes that three master switches were
   flipped on January 7 rather than some time last month.
