@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-02-21 (Fri)
-Date of this report: 2020-02-21 (Fri)
+Date of this report: 2020-03-01 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -16,11 +16,6 @@ accurate if the assumptions are incorrect.
 
 * Assumption: Jason did not flip Rance's master switch to Agora on
   2020-02-11. Falsifian called a CFJ on this on 2020-02-20.
-
-* Assumption: A zombie auction was initiated on 2020-02-06. This is CFJ
-  3817. This affects the resale values of two excess lots. The
-  corresponding events in the Recent Events section are marked with "^"
-  at the start of the line.
 
 * This recent events section assumes that three master switches were
   flipped on January 7 rather than some time last month.
@@ -47,8 +42,6 @@ Recent Events (recent events section not ratifying)
 06-Feb-20 18:14  Falsifian flips ATMunn's master switch to Agora.
 07-Feb-20 21:22  Cuddle Beam flips eir master switch to emself.
 12-Feb-20 18:46  sukil registers.
-^13-Feb-20 18:23 Walker is an excess lot: resale value decreased.
-^13-Feb-20 18:23 ATMunn is an excess lot: resale value decreased.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -104,10 +97,10 @@ Zombie master and resale value switches (self-ratifying)
                        Resale   Last owned        Due to flip
 Zombie         Master  value    by Agora          to Agora
 ------         ------  -------  ---------------   ---------------
+ATMunn         Agora   2        now
 Nch            Agora   2        now
 Trigon         Agora   2        now
-ATMunn         Agora   1        now
-Walker         Agora   0        now
+Walker         Agora   1        now
 o              G.      0        17-Jan-20 18:04   16-Apr-20 18:04
 Bernie         twg     0        16-Jan-20 13:16   15-Apr-20 13:16
 Rance          Jason   0        16-Jan-20 17:21   15-Apr-20 17:21
