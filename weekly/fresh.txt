@@ -52,7 +52,7 @@ There are 24 Players.
    Warrigal           tannerswett at gmail.com                24 Jan 20
    Tcbapo             tcbapoagora at gmail.com                28 Jan 20
    sukil              sukiletxe+agora at gmail.com            12 Feb 20
-   PSS [4]            p.scribonius.scholasticus at gmail.com  01 Mar 20
+   PSS [3]            p.scribonius.scholasticus at gmail.com  01 Mar 20
 z* ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 z**Trigon             reuben.staley at gmail.com              24 Sep 17
 z**Bernie             hidreigon at gmail.com                  06 Apr 19
@@ -123,7 +123,7 @@ Andre             13 Feb 99
 BobTHJ            16 Jan 08
 P1                 5 Nov 08
 P2                 5 Nov 08
-P3 to P100 [3]     6 Nov 08
+P3 to P100 [4]     6 Nov 08
 G.                29 Jun 17
 Telnaior          29 Jan 19
 
@@ -137,7 +137,7 @@ the fora or the Registrar directly.
 
 Nickname          Contact                                 Last confirmed
 --------          -------                                 --------------
-PSS [4]           p.scribonius.scholasticus at gmail.com  2020 February
+PSS [3]           p.scribonius.scholasticus at gmail.com  2020 February
 ais523            AIS523 at alumni.bham.ac.uk             2020 February
 Lykaina           mjbermanator at gmail.com               2019 September
 Ørjan             oerjan at nvg.ntnu.no                   2017 May
@@ -148,6 +148,6 @@ Steve             zardoz37 at gmail.com                   2013 May
 
 [1] officially, but technically equivalent c.ome.xk at gmail.com
 [2] also known as D Margaux
-[3] P3 to P100 inclusive each deregistered in writs of FAGE on this
+[3] Abbreviated to save space: Publius Scribonius Scholasticus
+[4] P3 to P100 inclusive each deregistered in writs of FAGE on this
     date.
-[4] Abbreviated to save space: Publius Scribonius Scholasticus
