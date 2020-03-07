@@ -11,22 +11,8 @@ Date of this report: 2020-03-07 (Sat)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
-Disclaimer: this report makes the following assumptions, and is not
-accurate if the assumptions are incorrect.
-
-* Assumption: Jason did not flip Rance's master switch to Agora on
-  2020-02-11. Falsifian called a CFJ on this on 2020-02-20.
-
-* This recent events section assumes that three master switches were
-  flipped on January 7 rather than some time last month.
-
 Recent Events (recent events section not ratifying)
 
-29-Dec-19 10:04  R. Lee registers.
-06-Jan-20 19:13  Alexis registers.
-07-Jan-20 07:02  Falsifian flips o's master switch to Agora.
-07-Jan-20 07:02  Falsifian flips Bernie's master switch to Agora.
-07-Jan-20 07:02  Falsifian flips Rance's master switch to Agora.
 16-Jan-20 05:51  Falsifian flips Cuddle Beam's master switch to Agora.
 16-Jan-20 05:51  Falsifian flips Nch's master switch to Agora.
 16-Jan-20 05:51  Falsifian flips Trigon's master switch to Agora.
