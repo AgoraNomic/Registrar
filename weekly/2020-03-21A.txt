@@ -1,11 +1,12 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-03-21 (Sat)
+This is a revision of the 2019-03-21 Registrar weekly report. It
+describes the state of the game at the time the original report was
+published, which is 2019-03-21 at 05:10 UTC.
+
+Date of last report: 2020-03-15 (Sun)
 Date of this report: 2020-03-21 (Sat)
 (all times UTC)
 
@@ -31,9 +32,9 @@ Recent Events (recent events section not ratifying)
 01-Mar-20 06:15  R. Lee deregistered (minimal gamestate modification due
                  to self-ratification of Registrar report)
 01-Mar-20 14:34  Publius Scribonius Scholasticus registers.
+(time of last report)
 16-Mar-20 04:55  R. Lee registers.
 21-Mar-20 01:44  Telnaior registers.
-(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
