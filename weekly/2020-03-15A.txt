@@ -1,11 +1,18 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-03-15 (Sun)
+This is a revision of the 2019-3-15 Registrar weekly report. It
+describes the state of the game at the time the original report was
+published, which is 2019-03-15 at 18:13 UTC.
+
+The only change is adding two recent events to the (non-self-ratifying)
+list of Recent Events: the registration of R. Lee, then the
+de-registration due to a mistake on the part of the Registrar. The
+Registrar apologizes for the disruption to the game and for
+disenfranchising R. Lee for a round of proposals.
+
+Date of last report: 2020-03-07 (Sat)
 Date of this report: 2020-03-15 (Sun)
 (all times UTC)
 
