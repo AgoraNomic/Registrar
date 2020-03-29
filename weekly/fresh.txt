@@ -6,23 +6,13 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-03-21 (Sat)
-Date of this report: 2020-03-21 (Sat)
+Date of this report: 2020-03-29 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-16-Jan-20 05:51  Falsifian flips Cuddle Beam's master switch to Agora.
-16-Jan-20 05:51  Falsifian flips Nch's master switch to Agora.
-16-Jan-20 05:51  Falsifian flips Trigon's master switch to Agora.
-16-Jan-20 13:16  Agora flips Bernie's master switch to twg.
-16-Jan-20 17:21  Agora flips Rance master switch to Jason Cobb.
-17-Jan-20 18:04  Agora flips o's master switch to G.
-23-Jan-20 04:17  Falsifian flips Walker's master switch to Agora.
-24-Jan-20 00:32  Warrigal registers.
-25-Jan-20 13:31  R. Lee deregisters.
-26-Jan-20 03:28  Name change: Jason Cobb -> Jason
 28-Jan-20 05:14  Tcbapo registers.
 06-Feb-20 18:14  Falsifian flips ATMunn's master switch to Agora.
 07-Feb-20 21:22  Cuddle Beam flips eir master switch to emself.
