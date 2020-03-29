@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-03-29 (Sun)
+Date of last report: 2020-03-21 (Sat)
 Date of this report: 2020-03-29 (Sun)
 (all times UTC)
 
@@ -23,10 +20,10 @@ Recent Events (recent events section not ratifying)
 01-Mar-20 14:34  Publius Scribonius Scholasticus registers.
 16-Mar-20 04:55  R. Lee registers.
 21-Mar-20 01:44  Telnaior registers.
+(time of last report)
 29-Mar-20 00:30  Falsifian flips D. Margaux's master switch to Agora.
 29-Mar-20 00:30  Falsifian flips Baron v V [0]'s master switch to Agora
 29-Mar-20 00:30  Falsifian flips pikhq's master switch to Agora.
-(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
