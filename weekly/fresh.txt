@@ -24,6 +24,9 @@ Recent Events (recent events section not ratifying)
 16-Mar-20 04:55  R. Lee registers.
 21-Mar-20 01:44  Telnaior registers.
 (time of last report)
+29-Mar-20 00:30  Falsifian flips D. Margaux's master switch to Agora.
+29-Mar-20 00:30  Falsifian flips Baron v V [0]'s master switch to Agora
+29-Mar-20 00:30  Falsifian flips pikhq's master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -38,11 +41,8 @@ There are 26 Players.
   Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
   Murphy             emurphy42 at zoho.com                   17 Dec 17
   twg                me at timon.red                         24 May 18
- *D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
- *Baron von Vaderham davidseeber at outlook.com              04 Feb 19
   Falsifian          jcook at cs.berkeley.edu                13 Feb 19
   Jason              jason.e.cobb at gmail.com               02 Jun 19
- *pikhq              agora at ada.pikhq.com                  20 Oct 19
   Alexis             alercah at gmail.com                    06 Jan 20
   Warrigal           tannerswett at gmail.com                24 Jan 20
   Tcbapo             tcbapoagora at gmail.com                28 Jan 20
@@ -51,12 +51,15 @@ There are 26 Players.
   R. Lee             edwardostrange at gmail.com             16 Mar 20
   Telnaior           JDGA at iinet.net.au                    21 Mar 20
 z*ATMunn             iamingodsarmy at gmail.com              11 Mar 18
+z*D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
 z*Trigon             reuben.staley at gmail.com              24 Sep 17
+z*Baron von Vaderham davidseeber at outlook.com              04 Feb 19
 z*Bernie             hidreigon at gmail.com                  06 Apr 19
 z*Rance              rance_28 at yahoo.com                   09 Apr 19
 z*o                  owen at grimoire.ca                     23 May 19
 z*Walker             charles.w.walker at gmail.com           02 Jun 19
 z*Nch                nchagora at protonmail.com              18 Oct 19
+z*pikhq              agora at ada.pikhq.com                  20 Oct 19
 
 z=zombie
 *=no public messages since the start of 2020-02; see below for date
@@ -85,9 +88,12 @@ Zombie master and resale value switches (self-ratifying)
 Zombie         Master  value    by Agora          to Agora
 ------         ------  -------  ---------------   ---------------
 ATMunn         Agora   2        now
+Baron v V [0]  Agora   2        now
+D. Margaux     Agora   2        now
 Nch            Agora   2        now
 Trigon         Agora   2        now
 Walker         Agora   1        now
+pikhq          Agora   2        now
 o              G.      0        17-Jan-20 18:04   16-Apr-20 18:04
 Bernie         twg     0        16-Jan-20 13:16   15-Apr-20 13:16
 Rance          Jason   0        16-Jan-20 17:21   15-Apr-20 17:21
@@ -146,6 +152,7 @@ Phlogistique      noe.rubinstein at gmail.com             2013 May
 Steve             zardoz37 at gmail.com                   2013 May
 
 
+[0] Short for Baron von Vaderham.
 [1] officially, but technically equivalent c.ome.xk at gmail.com
 [2] also known as D Margaux
 [3] Abbreviated to save space: Publius Scribonius Scholasticus
