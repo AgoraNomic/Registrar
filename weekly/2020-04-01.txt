@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-04-01 (Wed)
+Date of last report: 2020-03-29 (Sun)
 Date of this report: 2020-04-01 (Wed)
 (all times UTC)
 
@@ -26,8 +23,8 @@ Recent Events (recent events section not ratifying)
 29-Mar-20 00:30  Falsifian flips D. Margaux's master switch to Agora.
 29-Mar-20 00:30  Falsifian flips Baron v V [0]'s master switch to Agora
 29-Mar-20 00:30  Falsifian flips pikhq's master switch to Agora.
-01-Apr-20 21:12  G. flips o's master switch to Agora.
 (time of last report)
+01-Apr-20 21:12  G. flips o's master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
