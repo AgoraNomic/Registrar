@@ -35,7 +35,7 @@ There are 26 Players.
 
  Player              Contact                                 Registered
  ------              -------                                 ----------
-  omd                comexk at gmail.com [1]                 03 Feb 11
+ *omd                comexk at gmail.com [1]                 03 Feb 11
   Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
   Gaelan             gbs at canishe.com                      15 May 17
   G.                 kerim at uw.edu                         25 Aug 17
@@ -46,7 +46,7 @@ There are 26 Players.
   Jason              jason.e.cobb at gmail.com               02 Jun 19
   Alexis             alercah at gmail.com                    06 Jan 20
   Warrigal           tannerswett at gmail.com                24 Jan 20
-  Tcbapo             tcbapoagora at gmail.com                28 Jan 20
+ *Tcbapo             tcbapoagora at gmail.com                28 Jan 20
   sukil              sukiletxe+agora at gmail.com            12 Feb 20
   PSS [3]            p.scribonius.scholasticus at gmail.com  01 Mar 20
   R. Lee             edwardostrange at gmail.com             16 Mar 20
@@ -63,7 +63,7 @@ z*Nch                nchagora at protonmail.com              18 Oct 19
 z*pikhq              agora at ada.pikhq.com                  20 Oct 19
 
 z=zombie
-*=no public messages since the start of 2020-02; see below for date
+*=no public messages since the start of 2020-03; see below for date
 
 
 Date of last public message, for players who have not sent one since the start
@@ -81,6 +81,8 @@ ATMunn              2019-12-08
 Baron von Vaderham  2020-01-10
 pikhq               2020-01-10
 D. Margaux          2020-01-20
+omd                 2020-02-01
+Tcbapo              2020-02-07
 
 
 Zombie master and resale value switches (self-ratifying)
