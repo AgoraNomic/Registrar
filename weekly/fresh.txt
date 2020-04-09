@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-04-01 (Wed)
-Date of this report: 2020-04-01 (Wed)
+Date of this report: 2020-04-02 (Thu)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -28,6 +28,9 @@ Recent Events (recent events section not ratifying)
 29-Mar-20 00:30  Falsifian flips pikhq's master switch to Agora.
 01-Apr-20 21:12  G. flips o's master switch to Agora.
 (time of last report)
+01-Apr-20 22:27 D. Margaux flips eir master switch to emself.
+02-Apr-20 03:09 Trigon flips eir master switch to emself.
+02-Apr-20 23:01 Baron v V [0] flips eir master switch to emself.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -40,8 +43,11 @@ There are 26 Players.
   Gaelan             gbs at canishe.com                      15 May 17
   G.                 kerim at uw.edu                         25 Aug 17
   Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
+  Trigon             reuben.staley at gmail.com              24 Sep 17
   Murphy             emurphy42 at zoho.com                   17 Dec 17
   twg                me at timon.red                         24 May 18
+  D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
+  Baron von Vaderham davidseeber at outlook.com              04 Feb 19
   Falsifian          jcook at cs.berkeley.edu                13 Feb 19
   Jason              jason.e.cobb at gmail.com               02 Jun 19
   Alexis             alercah at gmail.com                    06 Jan 20
@@ -52,9 +58,6 @@ There are 26 Players.
   R. Lee             edwardostrange at gmail.com             16 Mar 20
   Telnaior           JDGA at iinet.net.au                    21 Mar 20
 z*ATMunn             iamingodsarmy at gmail.com              11 Mar 18
-z*D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
-z*Trigon             reuben.staley at gmail.com              24 Sep 17
-z*Baron von Vaderham davidseeber at outlook.com              04 Feb 19
 z*Bernie             hidreigon at gmail.com                  06 Apr 19
 z*Rance              rance_28 at yahoo.com                   09 Apr 19
 z*o                  owen at grimoire.ca                     23 May 19
@@ -71,16 +74,13 @@ of 2019-12 (not self-ratifying):
 
 Player              Date
 ------              ----
-Trigon              2019-10-22
 Rance               2019-06-15
 o                   2019-06-19
 Bernie              2019-06-29
 Walker              2019-07-04
 Nch                 2019-11-13
 ATMunn              2019-12-08
-Baron von Vaderham  2020-01-10
 pikhq               2020-01-10
-D. Margaux          2020-01-20
 omd                 2020-02-01
 Tcbapo              2020-02-07
 
@@ -91,10 +91,7 @@ Zombie master and resale value switches (self-ratifying)
 Zombie         Master  value    by Agora          to Agora
 ------         ------  -------  ---------------   ---------------
 ATMunn         Agora   2        now
-Baron v V [0]  Agora   2        now
-D. Margaux     Agora   2        now
 Nch            Agora   2        now
-Trigon         Agora   2        now
 pikhq          Agora   2        now
 Walker         Agora   1        now
 o              Agora   0        now
