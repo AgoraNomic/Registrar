@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-04-12 (Sun)
+Date of last report: 2020-04-01 (Wed)
 Date of this report: 2020-04-12 (Sun)
 (all times UTC)
 
@@ -24,6 +21,7 @@ Recent Events (recent events section not ratifying)
 29-Mar-20 00:30  Falsifian flips Baron v V [0]'s master switch to Agora
 29-Mar-20 00:30  Falsifian flips pikhq's master switch to Agora.
 01-Apr-20 21:12  G. flips o's master switch to Agora.
+(time of last report)
 01-Apr-20 22:27 D. Margaux flips eir master switch to emself.
 02-Apr-20 03:09 Trigon flips eir master switch to emself.
 02-Apr-20 23:01 Baron v V [0] flips eir master switch to emself.
@@ -32,7 +30,6 @@ Recent Events (recent events section not ratifying)
 09-Apr-20 07:54 Walker is an excess lot: resale value decreased.
 09-Apr-20 07:54 ATMunn is an excess lot: resale value decreased.
 09-Apr-20 07:58 Falsifian deregisters o with notice.
-(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
