@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-04-12 (Sun)
-Date of this report: 2020-04-12 (Sun)
+Date of this report: 2020-04-17 (Fri)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -33,10 +33,11 @@ Recent Events (recent events section not ratifying)
 09-Apr-20 07:54 ATMunn is an excess lot: resale value decreased.
 09-Apr-20 07:58 Falsifian deregisters o with notice.
 (time of last report)
+17-Apr-20 10:22  Falsifian deregisters Walker with notice.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 25 Players.
+There are 24 Players.
 
  Player              Contact                                 Registered
  ------              -------                                 ----------
@@ -62,7 +63,6 @@ There are 25 Players.
 z*ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 z*Bernie             hidreigon at gmail.com                  06 Apr 19
 z*Rance              rance_28 at yahoo.com                   09 Apr 19
-z*Walker             charles.w.walker at gmail.com           02 Jun 19
 z*Nch                nchagora at protonmail.com              18 Oct 19
 z*pikhq              agora at ada.pikhq.com                  20 Oct 19
 
@@ -77,7 +77,6 @@ Player              Date
 ------              ----
 Rance               2019-06-15
 Bernie              2019-06-29
-Walker              2019-07-04
 Nch                 2019-11-13
 ATMunn              2019-12-08
 pikhq               2020-01-10
@@ -93,7 +92,6 @@ Zombie         Master  value    by Agora          to Agora
 ATMunn         Agora   1        now
 Nch            Agora   1        now
 pikhq          Agora   1        now
-Walker         Agora   0        now
 Bernie         twg     0        16-Jan-20 13:16   15-Apr-20 13:16
 Rance          Jason   0        16-Jan-20 17:21   15-Apr-20 17:21
 
