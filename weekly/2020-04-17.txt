@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-04-17 (Fri)
+Date of last report: 2020-04-12 (Sun)
 Date of this report: 2020-04-17 (Fri)
 (all times UTC)
 
@@ -32,8 +29,8 @@ Recent Events (recent events section not ratifying)
 09-Apr-20 07:54 Walker is an excess lot: resale value decreased.
 09-Apr-20 07:54 ATMunn is an excess lot: resale value decreased.
 09-Apr-20 07:58 Falsifian deregisters o with notice.
-17-Apr-20 10:22  Falsifian deregisters Walker with notice.
 (time of last report)
+17-Apr-20 10:22  Falsifian deregisters Walker with notice.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
