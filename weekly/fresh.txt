@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-04-17 (Fri)
-Date of this report: 2020-04-17 (Fri)
+Date of this report: 2020-04-23 (Thu)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -34,10 +34,11 @@ Recent Events (recent events section not ratifying)
 09-Apr-20 07:58 Falsifian deregisters o with notice.
 17-Apr-20 10:22  Falsifian deregisters Walker with notice.
 (time of last report)
+23-Apr-20 02:04  Warrigal is deregistered in a Writ of FAGE.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 24 Players.
+There are 23 Players.
 
  Player              Contact                                 Registered
  ------              -------                                 ----------
@@ -54,7 +55,6 @@ There are 24 Players.
   Falsifian          jcook at cs.berkeley.edu                13 Feb 19
   Jason              jason.e.cobb at gmail.com               02 Jun 19
   Alexis             alercah at gmail.com                    06 Jan 20
-  Warrigal           tannerswett at gmail.com                24 Jan 20
  *Tcbapo             tcbapoagora at gmail.com                28 Jan 20
   sukil              sukiletxe+agora at gmail.com            12 Feb 20
   PSS [3]            p.scribonius.scholasticus at gmail.com  01 Mar 20
@@ -129,6 +129,7 @@ P3 to P100 [4]     6 Nov 08
 Wooble            01 Sep 11
 G.                29 Jun 17
 Telnaior          29 Jan 19
+Warrigal          23 Apr 20
 
 
 Watchers (7)
