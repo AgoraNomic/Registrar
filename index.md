@@ -4,7 +4,7 @@ Registrar's Report Archive:
 
 [Unofficial fresher weekly report](weekly/fresh.txt)
 
-[Latest monthly report](monthly/2020-03-07.txt)
+[Latest monthly report](monthly/2020-04-23.txt)
 
 [Unofficial fresher monthly report](monthly/fresh.txt)
 
@@ -73,6 +73,7 @@ List of weekly reports:
 
 List of monthly reports:
 
+* [2020-04-23.txt](monthly/2020-04-23.txt)
 * [2020-03-07.txt](monthly/2020-03-07.txt)
 * [2020-02-02.txt](monthly/2020-02-02.txt)
 * [2020-01-11.txt](monthly/2020-01-11.txt)
