@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-04-23 (Thu)
+Date of last report: 2020-04-17 (Fri)
 Date of this report: 2020-04-23 (Thu)
 (all times UTC)
 
@@ -32,12 +29,12 @@ Recent Events (recent events section not ratifying)
 09-Apr-20 07:54  ATMunn is an excess lot: resale value decreased.
 09-Apr-20 07:58  Falsifian deregisters o with notice.
 17-Apr-20 10:22  Falsifian deregisters Walker with notice.
+(time of last report)
 23-Apr-20 02:04  Warrigal is deregistered in a Writ of FAGE.
 23-Apr-20 02:13  Falsifian flips Bernie's master switch to Agora.
 23-Apr-20 02:13  Falsifian flips Rance's master switch to Agora.
 23-Apr-20 02:13  Falsifian deregisters Bernie with notice.
 23-Apr-20 02:13  Falsifian deregisters Rance with notice.
-(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
