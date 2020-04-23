@@ -34,10 +34,14 @@ Recent Events (recent events section not ratifying)
 17-Apr-20 10:22  Falsifian deregisters Walker with notice.
 (time of last report)
 23-Apr-20 02:04  Warrigal is deregistered in a Writ of FAGE.
+23-Apr-20 02:13  Falsifian flips Bernie's master switch to Agora.
+23-Apr-20 02:13  Falsifian flips Rance's master switch to Agora.
+23-Apr-20 02:13  Falsifian deregisters Bernie with notice.
+23-Apr-20 02:13  Falsifian deregisters Rance with notice.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 23 Players.
+There are 21 Players.
 
  Player              Contact                                 Registered
  ------              -------                                 ----------
@@ -60,8 +64,6 @@ There are 23 Players.
   R. Lee             edwardostrange at gmail.com             16 Mar 20
   Telnaior           JDGA at iinet.net.au                    21 Mar 20
 z*ATMunn             iamingodsarmy at gmail.com              11 Mar 18
-z*Bernie             hidreigon at gmail.com                  06 Apr 19
-z*Rance              rance_28 at yahoo.com                   09 Apr 19
 z*Nch                nchagora at protonmail.com              18 Oct 19
 z*pikhq              agora at ada.pikhq.com                  20 Oct 19
 
@@ -74,8 +76,6 @@ of 2019-12 (not self-ratifying):
 
 Player              Date
 ------              ----
-Rance               2019-06-15
-Bernie              2019-06-29
 Nch                 2019-11-13
 ATMunn              2019-12-08
 pikhq               2020-01-10
@@ -91,8 +91,6 @@ Zombie         Master  value    by Agora          to Agora
 ATMunn         Agora   1        now
 Nch            Agora   1        now
 pikhq          Agora   1        now
-Bernie         twg     0        16-Jan-20 13:16   15-Apr-20 13:16
-Rance          Jason   0        16-Jan-20 17:21   15-Apr-20 17:21
 
 Fora (Rule 478, self-ratifying)
 
