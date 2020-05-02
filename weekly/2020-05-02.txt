@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-05-02 (Sat)
+Date of last report: 2020-04-23 (Thu)
 Date of this report: 2020-05-02 (Sat)
 (all times UTC)
 
