@@ -1,9 +1,10 @@
 -- Tools for generating files based on templates.
 
-module Template (Piece(..), Template(..), fill) where
+module Template (Piece(..), Template(..), fill, parse) where
 
 import Control.Monad
 import Data.List (sort)
+import Data.Maybe (listToMaybe)
 import System.Directory (listDirectory)
 import System.FilePath.Posix ((</>))
 
@@ -17,8 +18,9 @@ data Piece =
     -- List the files from a directory with Markdown links. The files are
     -- listed in reverse lexicographic order.
   | MarkdownFileList FilePath
+  deriving (Eq, Read, Show)
 
-newtype Template = Template [Piece]
+newtype Template = Template [Piece] deriving (Eq, Show)
 
 -- Given a template and the parent directory where a generated file should
 -- live, fill in the template.
@@ -35,3 +37,26 @@ fill (Template pieces) outputParent =
              | fileName <- reverse (sort fileNames)
              ]
   in liftM concat $ sequence (map fillPiece pieces)
+
+-- Parse a template. Returns Left (error message) if there's a problem.
+parse :: String -> Either String Template
+parse =
+  let isNotBrace x = not (x == '{' || x == '}')
+      parseFrom acc "" = Right (Template (reverse acc))
+      parseFrom acc x@(_:_) =
+        case span isNotBrace x of
+          (v, "") -> Right (Template (reverse (Verbatim v : acc)))
+          (v, '{' : t) ->
+            case span (/= '}') t of
+              (_, "") -> Left "Unmatched '{'."
+              (k, '}' : t') ->
+                case readM k of
+                  Nothing -> Left ("Could not parse " ++ show k ++ ".")
+                  Just piece ->
+                    let acc' = if v == "" then acc else Verbatim v : acc in
+                      parseFrom (piece : acc') t'
+          (_, '}' : _) -> Left "Unmatched '}'."
+  in parseFrom []
+
+readM :: Read a => String -> Maybe a
+readM x = listToMaybe [y | (y, "") <- reads x]
