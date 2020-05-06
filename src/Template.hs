@@ -18,6 +18,9 @@ data Piece =
     -- List the files from a directory with Markdown links, excluding
     -- "fresh.txt". The files are listed in reverse lexicographic order.
   | MarkdownFileList FilePath
+    -- The name of the lexicographically last file in the directory, excluding
+    -- "fresh.txt".
+  | LastFile FilePath
   deriving (Eq, Read, Show)
 
 newtype Template = Template [Piece] deriving (Eq, Show)
@@ -37,6 +40,9 @@ fill (Template pieces) outputParent =
              | fileName <- reverse (sort fileNames)
              , fileName /= "fresh.txt"
              ]
+      fillPiece (LastFile path) =
+        do fileNames <- listDirectory (outputParent </> path)
+           return $ maximum $ filter (/= "fresh.txt") fileNames
   in liftM concat $ sequence (map fillPiece pieces)
 
 -- Parse a template. Returns Left (error message) if there's a problem.

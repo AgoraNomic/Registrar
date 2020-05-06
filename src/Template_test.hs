@@ -38,6 +38,15 @@ main =
     , HU.testCase "Does not list fresh.txt." $
       do result <- fill (Template [MarkdownFileList "test_data/directory_with_fresh"]) "."
          result @?= "* [y](test_data/directory_with_fresh/y)\n* [x](test_data/directory_with_fresh/x)\n"
+    , HU.testCase "Finds last file." $
+      do result <- fill (Template [LastFile "test_data/directory"]) "."
+         result @?= "A.txt"
+    , HU.testCase "Uses relative path when finding last file." $
+      do result <- fill (Template [LastFile "directory"]) "test_data"
+         result @?= "A.txt"
+    , HU.testCase "Ignores fresh.txt when finding last file." $
+      do result <- fill (Template [LastFile "test_data/directory_where_fresh_is_last"]) ""
+         result @?= "9"
     , HU.testCase "Concatenates different kinds of piece." $
       do result <- fill (Template [Verbatim "X\n", MarkdownFileList "test_data/directory", ReadFile "test_data/hello"]) "."
          result @?= "X\n* [A.txt](test_data/directory/A.txt)\n* [01](test_data/directory/01)\n* [00](test_data/directory/00)\nHello, world!\n"
