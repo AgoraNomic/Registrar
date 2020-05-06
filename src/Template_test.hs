@@ -35,6 +35,9 @@ main =
     , HU.testCase "Lists directory using relative paths." $
       do result <- fill (Template [MarkdownFileList "directory"]) "test_data"
          result @?= "* [A.txt](directory/A.txt)\n* [01](directory/01)\n* [00](directory/00)\n"
+    , HU.testCase "Does not list fresh.txt." $
+      do result <- fill (Template [MarkdownFileList "test_data/directory_with_fresh"]) "."
+         result @?= "* [y](test_data/directory_with_fresh/y)\n* [x](test_data/directory_with_fresh/x)\n"
     , HU.testCase "Concatenates different kinds of piece." $
       do result <- fill (Template [Verbatim "X\n", MarkdownFileList "test_data/directory", ReadFile "test_data/hello"]) "."
          result @?= "X\n* [A.txt](test_data/directory/A.txt)\n* [01](test_data/directory/01)\n* [00](test_data/directory/00)\nHello, world!\n"

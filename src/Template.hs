@@ -15,8 +15,8 @@ data Piece =
     Verbatim String
     -- Copy the contents of the file unchanged.
   | ReadFile FilePath
-    -- List the files from a directory with Markdown links. The files are
-    -- listed in reverse lexicographic order.
+    -- List the files from a directory with Markdown links, excluding
+    -- "fresh.txt". The files are listed in reverse lexicographic order.
   | MarkdownFileList FilePath
   deriving (Eq, Read, Show)
 
@@ -35,6 +35,7 @@ fill (Template pieces) outputParent =
              unlines
              [ "* [" ++ fileName ++ "](" ++ (path </> fileName) ++ ")"
              | fileName <- reverse (sort fileNames)
+             , fileName /= "fresh.txt"
              ]
   in liftM concat $ sequence (map fillPiece pieces)
 
