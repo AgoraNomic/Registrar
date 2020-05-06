@@ -1,0 +1,17 @@
+Registrar's Report Archive:
+
+[Latest weekly report](weekly/{LastFile "weekly"})
+
+[Unofficial fresher weekly report](weekly/fresh.txt)
+
+[Latest monthly report](monthly/{LastFile "monthly"})
+
+[Unofficial fresher monthly report](monthly/fresh.txt)
+
+List of weekly reports:
+
+{MarkdownFileList "weekly"}
+List of monthly reports:
+
+{MarkdownFileList "monthly"}
+[Some older reports](Reports)
