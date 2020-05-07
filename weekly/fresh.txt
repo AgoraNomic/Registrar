@@ -60,13 +60,13 @@ There are 20 Players.
   Falsifian          jcook at cs.berkeley.edu                13 Feb 19
   Jason              jason.e.cobb at gmail.com               02 Jun 19
   Nch                nchagora at protonmail.com              18 Oct 19
- *Tcbapo             tcbapoagora at gmail.com                28 Jan 20
  *sukil              sukiletxe+agora at gmail.com            12 Feb 20
   PSS [3]            p.scribonius.scholasticus at gmail.com  01 Mar 20
   R. Lee             edwardostrange at gmail.com             16 Mar 20
  *Telnaior           JDGA at iinet.net.au                    21 Mar 20
 z*ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 z*pikhq              agora at ada.pikhq.com                  20 Oct 19
+z*Tcbapo             tcbapoagora at gmail.com                28 Jan 20
 
 z=zombie
 *=no public messages since the start of 2020-04; see below for date
@@ -92,6 +92,7 @@ Zombie master and resale value switches (self-ratifying)
                        Resale   Last owned        Due to flip
 Zombie         Master  value    by Agora          to Agora
 ------         ------  -------  ---------------   ---------------
+Tcbapo         Agora   2        now
 ATMunn         Agora   1        now
 pikhq          Agora   1        now
 
