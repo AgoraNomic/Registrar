@@ -38,10 +38,11 @@ Recent Events (recent events section not ratifying)
 23-Apr-20 02:13  Falsifian deregisters Bernie with notice.
 23-Apr-20 02:13  Falsifian deregisters Rance with notice.
 (time of last report)
+03-May-20 20:23  Alexis deregisters.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 21 Players.
+There are 20 Players.
 
  Player              Contact                                 Registered
  ------              -------                                 ----------
@@ -57,7 +58,6 @@ There are 21 Players.
   Baron von Vaderham davidseeber at outlook.com              04 Feb 19
   Falsifian          jcook at cs.berkeley.edu                13 Feb 19
   Jason              jason.e.cobb at gmail.com               02 Jun 19
-  Alexis             alercah at gmail.com                    06 Jan 20
  *Tcbapo             tcbapoagora at gmail.com                28 Jan 20
  *sukil              sukiletxe+agora at gmail.com            12 Feb 20
   PSS [3]            p.scribonius.scholasticus at gmail.com  01 Mar 20
