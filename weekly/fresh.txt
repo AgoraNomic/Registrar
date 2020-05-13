@@ -26,7 +26,7 @@ Recent Events (recent events section not ratifying)
 01-Apr-20 22:27  D. Margaux flips eir master switch to emself.
 02-Apr-20 03:09  Trigon flips eir master switch to emself.
 02-Apr-20 23:01  Baron v V [0] flips eir master switch to emself.
-09-Apr-20 07:54  Nch is an excess lot: resale value decreased.
+09-Apr-20 07:54  nch is an excess lot: resale value decreased.
 09-Apr-20 07:54  pikhq is an excess lot: resale value decreased.
 09-Apr-20 07:54  Walker is an excess lot: resale value decreased.
 09-Apr-20 07:54  ATMunn is an excess lot: resale value decreased.
@@ -39,7 +39,7 @@ Recent Events (recent events section not ratifying)
 23-Apr-20 02:13  Falsifian deregisters Rance with notice.
 (time of last report)
 03-May-20 20:23  Alexis deregisters.
-04-May-20 01:44  Nch flips eir master switch to emself.
+04-May-20 01:44  nch flips eir master switch to emself.
 07-May-20 00:43  Falsifian flips Tcbapo's master switch to Agora.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
@@ -60,7 +60,7 @@ There are 20 Players.
   Baron von Vaderham davidseeber at outlook.com              04 Feb 19
   Falsifian          jcook at cs.berkeley.edu                13 Feb 19
   Jason              jason.e.cobb at gmail.com               02 Jun 19
-  Nch                nchagora at protonmail.com              18 Oct 19
+  nch                nchagora at protonmail.com              18 Oct 19
  *sukil              sukiletxe+agora at gmail.com            12 Feb 20
   PSS [3]            p.scribonius.scholasticus at gmail.com  01 Mar 20
   R. Lee             edwardostrange at gmail.com             16 Mar 20
