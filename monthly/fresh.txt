@@ -16,7 +16,7 @@ Recent Changes:
 24-Aug-19 16:03  Falsifian deregisters Corona with notice.
 18-Sep-19 00:28  Proposal 8242 deregisters Hālian.
 22-Sep-19 20:34  Falsifian deregisters Telnaior with notice.
-22-Sep-19 20:34  Falsifian deregisters PSS [4] with notice.
+22-Sep-19 20:34  Falsifian deregisters P.S.S. [4] with notice.
 19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
 25-Jan-20 13:31  R. Lee deregisters.
 09-Apr-20 07:58  Falsifian deregisters o with notice.
@@ -679,7 +679,7 @@ a L                  prmcd16 at yahoo.com             20 Sep 18   24 Aug 19
 a Corona             liliumalbum.agora at gmail.com   17 Nov 17   24 Aug 19
 p Hālian             halian at safiria.net            20 Oct 18   18 Sep 19
 a Telnaior           jdga at iinet.net.au             29 Jan 19   22 Sep 19
-a PSS [4]     pscriboniusscholasticus at gmail.com[5] 16 Apr 17   22 Sep 19
+a P.S.S. [4]  pscriboniusscholasticus at gmail.com[5] 16 Apr 17   22 Sep 19
 a Jacob Arduino      jacobarduino at gmail.com        12 Nov 18   19 Nov 19
 
 Left in 2020:

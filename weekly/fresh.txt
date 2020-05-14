@@ -62,7 +62,7 @@ There are 20 Players.
   Jason              jason.e.cobb at gmail.com               02 Jun 19
   nch                nchagora at protonmail.com              18 Oct 19
  *sukil              sukiletxe+agora at gmail.com            12 Feb 20
-  PSS [3]            p.scribonius.scholasticus at gmail.com  01 Mar 20
+  P.S.S. [3]         p.scribonius.scholasticus at gmail.com  01 Mar 20
   R. Lee             edwardostrange at gmail.com             16 Mar 20
  *Telnaior           JDGA at iinet.net.au                    21 Mar 20
 z*ATMunn             iamingodsarmy at gmail.com              11 Mar 18
@@ -130,7 +130,7 @@ the fora or the Registrar directly.
 
 Nickname          Contact                                 Last confirmed
 --------          -------                                 --------------
-PSS [3]           p.scribonius.scholasticus at gmail.com  2020 February
+P.S.S. [3]        p.scribonius.scholasticus at gmail.com  2020 February
 ais523            AIS523 at alumni.bham.ac.uk             2020 February
 Lykaina           mjbermanator at gmail.com               2019 September
 Ørjan             oerjan at nvg.ntnu.no                   2017 May
@@ -142,6 +142,6 @@ Steve             zardoz37 at gmail.com                   2013 May
 [0] Short for Baron von Vaderham.
 [1] officially, but technically equivalent c.ome.xk at gmail.com
 [2] also known as D Margaux
-[3] Abbreviated to save space: Publius Scribonius Scholasticus
+[3] Also known as Publius Scribonius Scholasticus
 [4] P3 to P100 inclusive each deregistered in writs of FAGE on this
     date.
