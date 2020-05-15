@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-05-07 (Thu)
-Date of this report: 2020-05-13 (Wed)
+Date of this report: 2020-05-15 (Fri)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -42,6 +42,7 @@ Recent Events (recent events section not ratifying)
 07-May-20 00:43  Falsifian flips Tcbapo's master switch to Agora.
 (time of last report)
 13-May-20 02:45  Falsifian flips twg's master switch to Agora.
+14-May-20 22:28  Agora flips pikhq's master switch to G..
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -97,7 +98,7 @@ Zombie         Master  value    by Agora          to Agora
 Tcbapo         Agora   2        now
 twg            Agora   2        now
 ATMunn         Agora   1        now
-pikhq          Agora   1        now
+pikhq          Agora   0        2020-05-14 22:28  2020-08-12 22:28
 
 Fora (Rule 478, self-ratifying)
 
