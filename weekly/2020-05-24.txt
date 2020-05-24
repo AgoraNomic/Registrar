@@ -1,11 +1,15 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-05-24 (Sun)
+Note: it was recently discovered that all auctions end immediately after they
+begin. The zombie ownership has been adjusted to reflect this. The history has
+been adjusted to include some ratifications of resale value switches that
+happened after the March zombie auction ended. The final values would have been
+the same if the intermediate reports hadn't self-ratified; the only thing wrong
+about the series of reports was the times at which the resale values decreased.
+
+Date of last report: 2020-05-17 (Sun)
 Date of this report: 2020-05-24 (Sun)
 (all times UTC)
 
@@ -59,9 +63,9 @@ Recent Events (recent events section not ratifying)
 07-May-20 00:52  Tcbapo is an excess lot: resale value decreased
 07-May-20 00:52  pikhq is an excess lot: resale value decreased
 13-May-20 02:45  Falsifian flips twg's master switch to Agora.
+(time of last report)
 20-May-20 03:25  grok registers.
 22-May-20 19:44  Bögtil registers.
-(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
