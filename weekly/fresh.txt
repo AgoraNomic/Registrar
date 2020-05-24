@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-05-17 (Sun)
-Date of this report: 2020-05-19 (Tue)
+Date of this report: 2020-05-24 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -45,10 +45,12 @@ Recent Events (recent events section not ratifying)
 (time of last report)
 17-May-20 02:51  Agora flips ATMunn's master switch to Jason.
 17-May-20 02:51  Agora flips Tcbapo's master switch to Falsifian.
+20-May-20 03:25  grok registers.
+22-May-20 19:44  Bögtil registers.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 20 Players.
+There are 22 Players.
 
  Player              Contact                                 Registered
  ------              -------                                 ----------
@@ -68,6 +70,8 @@ There are 20 Players.
   P.S.S. [3]         p.scribonius.scholasticus at gmail.com  01 Mar 20
   R. Lee             edwardostrange at gmail.com             16 Mar 20
  *Telnaior           JDGA at iinet.net.au                    21 Mar 20
+  grok               grokagora at gmail.com                  20 May 20
+  Bögtil             stefan.fjellander at gmail.com          22 May 20
 z*ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 z*twg                me at timon.red                         24 May 18
 z*pikhq              agora at ada.pikhq.com                  20 Oct 19
