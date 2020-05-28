@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-05-24 (Sun)
-Date of this report: 2020-05-24 (Sun)
+Date of this report: 2020-05-28 (Thu)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -62,6 +62,7 @@ Recent Events (recent events section not ratifying)
 20-May-20 03:25  grok registers.
 22-May-20 19:44  Bögtil registers.
 (time of last report)
+28-May-20 01:02  ATMunn flips eir Master switch to emself.
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
@@ -76,6 +77,7 @@ There are 22 Players.
   Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
   Trigon             reuben.staley at gmail.com              24 Sep 17
   Murphy             emurphy42 at zoho.com                   17 Dec 17
+  ATMunn             iamingodsarmy at gmail.com              11 Mar 18
   D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
   Baron von Vaderham davidseeber at outlook.com              04 Feb 19
   Falsifian          jcook at cs.berkeley.edu                13 Feb 19
@@ -87,7 +89,6 @@ There are 22 Players.
  *Telnaior           JDGA at iinet.net.au                    21 Mar 20
   grok               grokagora at gmail.com                  20 May 20
   Bögtil             stefan.fjellander at gmail.com          22 May 20
-z*ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 z*twg                me at timon.red                         24 May 18
 z*pikhq              agora at ada.pikhq.com                  20 Oct 19
 z*Tcbapo             tcbapoagora at gmail.com                28 Jan 20
@@ -101,7 +102,6 @@ of 2019-12 (not self-ratifying):
 
 Player              Date
 ------              ----
-ATMunn              2019-12-08
 pikhq               2020-01-10
 omd                 2020-02-01
 Tcbapo              2020-02-07
@@ -117,7 +117,6 @@ Zombie master and resale value switches (self-ratifying)
 Zombie         Master     value    by Agora          to Agora
 ------         ------     -------  ---------------   ---------------
 twg            Agora      2        now
-ATMunn         Jason      1        now
 Tcbapo         Falsifian  1        now
 pikhq          G.         0        now
 
