@@ -117,8 +117,8 @@ Zombie master and resale value switches (self-ratifying)
 Zombie         Master     value    by Agora          to Agora
 ------         ------     -------  ---------------   ---------------
 twg            Agora      2        now
-Tcbapo         Falsifian  1        now
-pikhq          G.         0        now
+Tcbapo         Agora      1        now
+pikhq          Agora      0        now
 
 Fora (Rule 478, self-ratifying)
 
