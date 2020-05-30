@@ -12,6 +12,8 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Changes:
 29-Jul-19 03:00  R. Lee deregisters.
+01-Mar-20 06:15  R. Lee deregistered (minimal gamestate modification due
+                 to self-ratification of Registrar report)
 24-Aug-19 16:02  Falsifian deregisters L with notice.
 24-Aug-19 16:03  Falsifian deregisters Corona with notice.
 18-Sep-19 00:28  Proposal 8242 deregisters Hālian.
@@ -699,6 +701,7 @@ a Jacob Arduino      jacobarduino at gmail.com        12 Nov 18   19 Nov 19
 Left in 2020:
 
 v R. Lee             edwardostrange at gmail.com      29 Dec 19   25 Jan 20
+r R. Lee             edwardostrange at gmail.com      28 Feb 20   01 Mar 20
 a o                  owen at grimoire.ca              23 May 19   09 Apr 20
 a Walker             charles.w.walker at gmail.com    02 Jun 19   17 Apr 20
 w Warrigal           tannerswett at gmail.com         24 Jan 20   23 Apr 20
