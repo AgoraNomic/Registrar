@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 23 Apr 2020
-Date of this report: 03 May 2020
+Date of this report: 30 May 2020
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
@@ -25,6 +25,7 @@ Recent Changes:
 23-Apr-20 02:13  Falsifian deregisters Bernie with notice.
 23-Apr-20 02:13  Falsifian deregisters Rance with notice.
 03-May-20 20:23  Alexis deregisters.
+30-May-20 04:26  Falsifian deregisters pikhq with notice.
 
 
 
@@ -691,6 +692,7 @@ w Warrigal           tannerswett at gmail.com         24 Jan 20   23 Apr 20
 a Bernie             hidreigon at gmail.com           06 Apr 19   23 Apr 20
 a Rance              rance_28 at yahoo.com            09 Apr 19   23 Apr 20
 v Alexis             alercah at gmail.com             06 Jan 20   03 May 20
+a pikhq              agora at ada.pikhq.com           20 Oct 19   30 May 20
 
 
 [1] Alternative/transliteration: Tenhigitsune
