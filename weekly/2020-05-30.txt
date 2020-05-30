@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-05-30 (Sat)
+Date of last report: 2020-05-24 (Sun)
 Date of this report: 2020-05-30 (Sat)
 (all times UTC)
 
@@ -22,9 +19,9 @@ Recent Events (recent events section not ratifying)
 13-May-20 02:45  Falsifian flips twg's master switch to Agora.
 20-May-20 03:25  grok registers.
 22-May-20 19:44  Bögtil registers.
+(time of last report)
 28-May-20 01:02  ATMunn flips eir Master switch to emself.
 30-May-20 04:26  Falsifian deregisters pikhq with notice.
-(time of last report)
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
