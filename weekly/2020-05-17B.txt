@@ -1,0 +1,168 @@
+------------------------------------------------------------------------
+                         The Agoran Directory
+------------------------------------------------------------------------
+
+Revised 2 times.
+
+This is a revision of the 2020-05-17 Registrar weekly report. It
+describes the state of the game at the time the original report was
+published, which is 2020-05-17 at 02:48 UTC.
+
+Date of last report: 2020-05-07 (Thu)
+Date of this report: 2020-05-17 (Sun)
+(all times UTC)
+
+Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
+
+Recent Events (recent events section not ratifying)
+
+28-Feb-20 02:09  R. Lee registers.
+01-Mar-20 06:15  R. Lee deregistered (minimal gamestate modification due
+                 to self-ratification of Registrar report)
+01-Mar-20 14:34  Publius Scribonius Scholasticus registers.
+16-Mar-20 04:55  R. Lee registers.
+21-Mar-20 01:44  Telnaior registers.
+29-Mar-20 00:30  Falsifian flips D. Margaux's master switch to Agora.
+29-Mar-20 00:30  Falsifian flips Baron v V [0]'s master switch to Agora
+29-Mar-20 00:30  Falsifian flips pikhq's master switch to Agora.
+29-Mar-20 00:45  Trigon is an excess lot: resale value decreased.
+29-Mar-20 00:45  D. Margaux is an excess lot: resale value decreased.
+29-Mar-20 00:45  Baron v V [0] is an excess lot: resale value decreased.
+29-Mar-20 00:45  nch is an excess lot: resale value decreased.
+29-Mar-20 00:45  pikhq is an excess lot: resale value decreased.
+29-Mar-20 00:45  Walker is an excess lot: resale value decreased.
+29-Mar-20 00:45  ATMunn is an excess lot: resale value decreased.
+01-Apr-20 22:09  Trigon's resale value set to 2 (self-ratifying report).
+01-Apr-20 22:09  Baron v V [0]'s resale value set to 2
+                 (self-ratifying report).
+01-Apr-20 22:09  D. Margaux's resale value set to 2
+                 (self-ratifying report).
+01-Apr-20 22:09  nch's resale value set to 2 (self-ratifying report).
+01-Apr-20 22:09  pikhq's resale value set to 2 (self-ratifying report).
+01-Apr-20 22:09  Walker's resale value set to 1 (self-ratifying report).
+01-Apr-20 22:09  ATMunn's resale value set to 2 (self-ratifying report).
+01-Apr-20 21:12  G. flips o's master switch to Agora.
+01-Apr-20 22:27  D. Margaux flips eir master switch to emself.
+02-Apr-20 03:09  Trigon flips eir master switch to emself.
+02-Apr-20 23:01  Baron v V [0] flips eir master switch to emself.
+09-Apr-20 07:58  Falsifian deregisters o with notice.
+17-Apr-20 10:22  Falsifian deregisters Walker with notice.
+12-Apr-20 10:34  nch's resale value set to 1 (self-ratifying report).
+12-Apr-20 10:34  pikhq's resale value set to 1 (self-ratifying report).
+12-Apr-20 10:34  ATMunn's resale value set to 1 (self-ratifying report).
+23-Apr-20 02:04  Warrigal is deregistered in a Writ of FAGE.
+23-Apr-20 02:13  Falsifian flips Bernie's master switch to Agora.
+23-Apr-20 02:13  Falsifian flips Rance's master switch to Agora.
+23-Apr-20 02:13  Falsifian deregisters Bernie with notice.
+23-Apr-20 02:13  Falsifian deregisters Rance with notice.
+03-May-20 20:23  Alexis deregisters.
+04-May-20 01:44  nch flips eir master switch to emself.
+07-May-20 00:43  Falsifian flips Tcbapo's master switch to Agora.
+(time of last report)
+07-May-20 00:52  ATMunn is an excess lot: resale value decreased
+07-May-20 00:52  Tcbapo is an excess lot: resale value decreased
+07-May-20 00:52  pikhq is an excess lot: resale value decreased
+13-May-20 02:45  Falsifian flips twg's master switch to Agora.
+
+Players (by Rule 869, Persons with 'Registered' Citizenship):
+
+There are 20 Players.
+
+ Player              Contact                                 Registered
+ ------              -------                                 ----------
+ *omd                comexk at gmail.com [1]                 03 Feb 11
+  Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+ *Gaelan             gbs at canishe.com                      15 May 17
+  G.                 kerim at uw.edu                         25 Aug 17
+  Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
+  Trigon             reuben.staley at gmail.com              24 Sep 17
+  Murphy             emurphy42 at zoho.com                   17 Dec 17
+  D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
+  Baron von Vaderham davidseeber at outlook.com              04 Feb 19
+  Falsifian          jcook at cs.berkeley.edu                13 Feb 19
+  Jason              jason.e.cobb at gmail.com               02 Jun 19
+  nch                nchagora at protonmail.com              18 Oct 19
+ *sukil              sukiletxe+agora at gmail.com            12 Feb 20
+  P.S.S. [3]         p.scribonius.scholasticus at gmail.com  01 Mar 20
+  R. Lee             edwardostrange at gmail.com             16 Mar 20
+ *Telnaior           JDGA at iinet.net.au                    21 Mar 20
+z*ATMunn             iamingodsarmy at gmail.com              11 Mar 18
+z*twg                me at timon.red                         24 May 18
+z*pikhq              agora at ada.pikhq.com                  20 Oct 19
+z*Tcbapo             tcbapoagora at gmail.com                28 Jan 20
+
+z=zombie
+*=no public messages since the start of 2020-04; see below for date
+
+
+Date of last public message, for players who have not sent one since the start
+of 2019-12 (not self-ratifying):
+
+Player              Date
+------              ----
+ATMunn              2019-12-08
+pikhq               2020-01-10
+omd                 2020-02-01
+Tcbapo              2020-02-07
+twg                 2020-03-02
+Gaelan              2020-03-21
+Telnaior            2020-03-21
+sukil               2020-03-25
+
+
+Zombie master and resale value switches (self-ratifying)
+
+                       Resale   Last owned        Due to flip
+Zombie         Master  value    by Agora          to Agora
+------         ------  -------  ---------------   ---------------
+twg            Agora   2        now
+Tcbapo         Agora   1        now
+ATMunn         Agora   0        now
+pikhq          Agora   0        now
+
+Fora (Rule 478, self-ratifying)
+
+Type         Location                                Typical use
+----         --------                                -----------
+Public       agora-official at agoranomic.org        official reports
+Public       agora-business at agoranomic.org        other business
+Discussion   agora-discussion at agoranomic.org      discussion
+Discussion   irc://irc.freenode.net:6667/##nomic
+<https://webchat.freenode.net/?channels=%23%23nomic> discussion
+Public       agora at listserver.tue.nl              backup
+
+Subscribe or unsubscribe from main
+lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup
+list:http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.freenode.net, port 6667, channel ##nomic, and whatever
+nickname you like.
+
+
+Watchers (7)
+
+The list of Watchers is not governed by the rules, but is
+traditionally maintained in the Registrar's Report.  If you'd like to
+be listed as a Watcher or removed from the list, feel free to email
+the fora or the Registrar directly.
+
+Nickname          Contact                                 Last confirmed
+--------          -------                                 --------------
+P.S.S. [3]        p.scribonius.scholasticus at gmail.com  2020 February
+ais523            AIS523 at alumni.bham.ac.uk             2020 February
+Lykaina           mjbermanator at gmail.com               2019 September
+Ørjan             oerjan at nvg.ntnu.no                   2017 May
+Dave              davidnicol at gmail.com                 2013 May
+Phlogistique      noe.rubinstein at gmail.com             2013 May
+Steve             zardoz37 at gmail.com                   2013 May
+
+
+[0] Short for Baron von Vaderham.
+[1] officially, but technically equivalent c.ome.xk at gmail.com
+[2] also known as D Margaux
+[3] Also known as Publius Scribonius Scholasticus
+[4] P3 to P100 inclusive each deregistered in writs of FAGE on this
+    date.

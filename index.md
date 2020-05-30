@@ -11,6 +11,7 @@ Registrar's Report Archive:
 List of weekly reports:
 
 * [2020-05-24.txt](weekly/2020-05-24.txt)
+* [2020-05-17B.txt](weekly/2020-05-17B.txt)
 * [2020-05-17A.txt](weekly/2020-05-17A.txt)
 * [2020-05-17.txt](weekly/2020-05-17.txt)
 * [2020-05-07.txt](weekly/2020-05-07.txt)
