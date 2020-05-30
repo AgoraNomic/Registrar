@@ -13,45 +13,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-28-Feb-20 02:09  R. Lee registers.
-01-Mar-20 06:15  R. Lee deregistered (minimal gamestate modification due
-                 to self-ratification of Registrar report)
-01-Mar-20 14:34  Publius Scribonius Scholasticus registers.
-16-Mar-20 04:55  R. Lee registers.
-21-Mar-20 01:44  Telnaior registers.
-29-Mar-20 00:30  Falsifian flips D. Margaux's master switch to Agora.
-29-Mar-20 00:30  Falsifian flips Baron v V [0]'s master switch to Agora
-29-Mar-20 00:30  Falsifian flips pikhq's master switch to Agora.
-29-Mar-20 00:45  Trigon is an excess lot: resale value decreased.
-29-Mar-20 00:45  D. Margaux is an excess lot: resale value decreased.
-29-Mar-20 00:45  Baron v V [0] is an excess lot: resale value decreased.
-29-Mar-20 00:45  nch is an excess lot: resale value decreased.
-29-Mar-20 00:45  pikhq is an excess lot: resale value decreased.
-29-Mar-20 00:45  Walker is an excess lot: resale value decreased.
-29-Mar-20 00:45  ATMunn is an excess lot: resale value decreased.
-01-Apr-20 22:09  Trigon's resale value set to 2 (self-ratifying report).
-01-Apr-20 22:09  Baron v V [0]'s resale value set to 2
-                 (self-ratifying report).
-01-Apr-20 22:09  D. Margaux's resale value set to 2
-                 (self-ratifying report).
-01-Apr-20 22:09  nch's resale value set to 2 (self-ratifying report).
-01-Apr-20 22:09  pikhq's resale value set to 2 (self-ratifying report).
-01-Apr-20 22:09  Walker's resale value set to 1 (self-ratifying report).
-01-Apr-20 22:09  ATMunn's resale value set to 2 (self-ratifying report).
-01-Apr-20 21:12  G. flips o's master switch to Agora.
-01-Apr-20 22:27  D. Margaux flips eir master switch to emself.
-02-Apr-20 03:09  Trigon flips eir master switch to emself.
-02-Apr-20 23:01  Baron v V [0] flips eir master switch to emself.
-09-Apr-20 07:58  Falsifian deregisters o with notice.
-17-Apr-20 10:22  Falsifian deregisters Walker with notice.
-12-Apr-20 10:34  nch's resale value set to 1 (self-ratifying report).
-12-Apr-20 10:34  pikhq's resale value set to 1 (self-ratifying report).
-12-Apr-20 10:34  ATMunn's resale value set to 1 (self-ratifying report).
-23-Apr-20 02:04  Warrigal is deregistered in a Writ of FAGE.
-23-Apr-20 02:13  Falsifian flips Bernie's master switch to Agora.
-23-Apr-20 02:13  Falsifian flips Rance's master switch to Agora.
-23-Apr-20 02:13  Falsifian deregisters Bernie with notice.
-23-Apr-20 02:13  Falsifian deregisters Rance with notice.
 03-May-20 20:23  Alexis deregisters.
 04-May-20 01:44  nch flips eir master switch to emself.
 07-May-20 00:43  Falsifian flips Tcbapo's master switch to Agora.
