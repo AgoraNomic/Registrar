@@ -32,29 +32,29 @@ Players (by Rule 869, Persons with 'Registered' Citizenship):
 
 There are 21 Players.
 
- Player             Contact                                 Registered
- ------             -------                                 ----------
- omd                comexk at gmail.com [1]                 03 Feb 11
- Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
- Gaelan             gbs at canishe.com                      15 May 17
- G.                 kerim at uw.edu                         25 Aug 17
- Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
- Trigon             reuben.staley at gmail.com              24 Sep 17
- Murphy             emurphy42 at zoho.com                   17 Dec 17
- ATMunn             iamingodsarmy at gmail.com              11 Mar 18
- D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
- Baron von Vaderham davidseeber at outlook.com              04 Feb 19
- Falsifian          jcook at cs.berkeley.edu                13 Feb 19
- Jason              jason.e.cobb at gmail.com               02 Jun 19
- nch                nchagora at protonmail.com              18 Oct 19
- sukil              sukiletxe+agora at gmail.com            12 Feb 20
- P.S.S. [3]         p.scribonius.scholasticus at gmail.com  01 Mar 20
- R. Lee             edwardostrange at gmail.com             16 Mar 20
- Telnaior           JDGA at iinet.net.au                    21 Mar 20
- grok               grokagora at gmail.com                  20 May 20
- Bögtil             stefan.fjellander at gmail.com          22 May 20
-ztwg                me at timon.red                         24 May 18
-zTcbapo             tcbapoagora at gmail.com                28 Jan 20
+  Player             Contact                                 Registered
+  ------             -------                                 ----------
+  omd                comexk at gmail.com [1]                 03 Feb 11
+  Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+  Gaelan             gbs at canishe.com                      15 May 17
+  G.                 kerim at uw.edu                         25 Aug 17
+  Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
+  Trigon             reuben.staley at gmail.com              24 Sep 17
+  Murphy             emurphy42 at zoho.com                   17 Dec 17
+  ATMunn             iamingodsarmy at gmail.com              11 Mar 18
+  D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
+  Baron von Vaderham davidseeber at outlook.com              04 Feb 19
+  Falsifian          jcook at cs.berkeley.edu                13 Feb 19
+  Jason              jason.e.cobb at gmail.com               02 Jun 19
+  nch                nchagora at protonmail.com              18 Oct 19
+  sukil              sukiletxe+agora at gmail.com            12 Feb 20
+  P.S.S. [3]         p.scribonius.scholasticus at gmail.com  01 Mar 20
+  R. Lee             edwardostrange at gmail.com             16 Mar 20
+  Telnaior           JDGA at iinet.net.au                    21 Mar 20
+  grok               grokagora at gmail.com                  20 May 20
+  Bögtil             stefan.fjellander at gmail.com          22 May 20
+z twg                me at timon.red                         24 May 18
+z Tcbapo             tcbapoagora at gmail.com                28 Jan 20
 
 z=zombie
 
