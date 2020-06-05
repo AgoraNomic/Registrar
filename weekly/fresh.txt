@@ -99,7 +99,6 @@ the fora or the Registrar directly.
 
 Nickname          Contact                                 Last confirmed
 --------          -------                                 --------------
-P.S.S. [3]        p.scribonius.scholasticus at gmail.com  2020 February
 ais523            AIS523 at alumni.bham.ac.uk             2020 February
 Lykaina           mjbermanator at gmail.com               2019 September
 Ørjan             oerjan at nvg.ntnu.no                   2017 May
