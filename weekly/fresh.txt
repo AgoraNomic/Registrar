@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-05-02 (Tue)
-Date of this report: 2020-06-02 (Tue)
+Date of this report: 2020-06-06 (Sat)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -26,11 +26,12 @@ Recent Events (recent events section not ratifying)
 28-May-20 01:02  ATMunn flips eir Master switch to emself.
 30-May-20 04:26  Falsifian deregisters pikhq with notice.
 (time of last report)
+06-Jun-20 16:32  Tyler registers.
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 21 Players.
+There are 22 Players.
 
   Player             Contact                                 Registered
   ------             -------                                 ----------
@@ -53,6 +54,7 @@ There are 21 Players.
   Telnaior           JDGA at iinet.net.au                    21 Mar 20
   grok               grokagora at gmail.com                  20 May 20
   Bögtil             stefan.fjellander at gmail.com          22 May 20
+  Tyler              tylermeady at gmail.com                 06 Jun 20
 z twg                me at timon.red                         24 May 18
 z Tcbapo             tcbapoagora at gmail.com                28 Jan 20
 
