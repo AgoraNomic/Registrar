@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-05-11 (Thu)
+Date of last report: 2020-05-02 (Tue)
 Date of this report: 2020-06-11 (Thu)
 (all times UTC)
 
@@ -19,8 +16,8 @@ Recent Events (recent events section not ratifying)
 22-May-20 19:44  Bögtil registers.
 28-May-20 01:02  ATMunn flips eir Master switch to emself.
 30-May-20 04:26  Falsifian deregisters pikhq with notice.
-06-Jun-20 16:32  Tyler registers.
 (time of last report)
+06-Jun-20 16:32  Tyler registers.
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
