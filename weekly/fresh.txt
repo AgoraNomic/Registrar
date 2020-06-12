@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-05-11 (Thu)
-Date of this report: 2020-06-11 (Thu)
+Date of this report: 2020-06-12 (Fri)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -21,6 +21,14 @@ Recent Events (recent events section not ratifying)
 30-May-20 04:26  Falsifian deregisters pikhq with notice.
 06-Jun-20 16:32  Tyler registers.
 (time of last report)
+11-Jun-20 20:16  Agora flips twg's Master switch to G..
+11-Jun-20 20:16  Agora flips Tcbapo's Master switch to R. Lee.
+12-Jun-20 02:48  Name change: G. -> CFJ 3835.
+12-Jun-20 04:26  Name change: R. Lee -> Proposal 8440.
+12-Jun-20 04:57  Name change: Trigon -> The Found and Lost Department.
+12-Jun-20 13:01  Name change: Proposal 8440 -> R. Lee.
+12-Jun-20 02:48  Name change: CFJ 3835 -> G..
+12-Jun-20 08:07  Name change: The Found and Lost Department -> Trigon.
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
@@ -33,7 +41,7 @@ There are 22 Players.
   Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
   Gaelan             gbs at canishe.com                      15 May 17
   G.                 kerim at uw.edu                         25 Aug 17
-  Cuddle Beam        cuddlebeam at gmail.com                 25 Aug 17
+  Cuddlebeam         cuddlebeam at gmail.com                 25 Aug 17
   Trigon             reuben.staley at gmail.com              24 Sep 17
   Murphy             emurphy42 at zoho.com                   17 Dec 17
   ATMunn             iamingodsarmy at gmail.com              11 Mar 18
@@ -60,8 +68,8 @@ Zombie master and resale value switches (self-ratifying)
                           Resale   Last owned        Due to flip
 Zombie         Master     value    by Agora          to Agora
 ------         ------     -------  ---------------   ---------------
-twg            Agora      2        now
-Tcbapo         Agora      1        now
+twg            G.         1        2020-06-11 20:16  2020-09-09 20:16
+Tcbapo         R. Lee     0        2020-06-12 01:06  2020-09-10 01:06
 
 
 Fora (Rule 478, self-ratifying)
