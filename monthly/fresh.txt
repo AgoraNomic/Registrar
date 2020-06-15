@@ -646,14 +646,14 @@ d Warrigal, the [1]  tannerswett at gmail.com         25 Apr 15   31 May 17
 d Yally              aarongoldfein at gmail.com       11 Jul 16   31 May 17
 w G.                 kerim at u.washington.edu        29 Jun 17   29 Jun 17
 v Cuddlebeam         cuddlebeam at googlemail.com     20 May 17   21 Jul 17
-v V.J. Rada          vijarada at gmail.com            07 Jun 17   11 Aug 17
-d Zachary Watterson[2]tannerswett at gmail.com        26 Mar 17   27 Aug 17
+v V.J. Rada [2]      vijarada at gmail.com            07 Jun 17   11 Aug 17
+d Zachary Watterson[3]tannerswett at gmail.com        26 Mar 17   27 Aug 17
 d tmanthe2nd         trstnbrdwg0 at gmail.com         13 May 17   27 Aug 17
 v Kyle Anderson      kyescott513c at gmail.com        23 Aug 17   24 Aug 17
 d Sprocklem          sprocklem at gmail.com           19 Oct 13   10 Sep 17
 d Veggiekeks         martinjroensch at gmail.com      25 May 17   15 Sep 17
 d babelian           kumarraja.ajay at gmail.com      29 Jul 17   15 Sep 17
-v ais523             ais523 at alumni.bham.ac.uk [3]  20 Mar 11   23 Sep 17
+v ais523             ais523 at alumni.bham.ac.uk [4]  20 Mar 11   23 Sep 17
 v grok               grokagora at gmail.com           24 Jul 17   27 Sep 17
 d Ienpw III          james.m.beirne at gmail.com      21 May 17   16 Nov 17
 d Bayushi            thelas.staloras at gmail.com     29 Jun 17   16 Nov 17
@@ -662,8 +662,9 @@ d Murphy             emurphy42 at zoho.com            27 Oct 07   17 Nov 17
 v V.J. Rada          vijarada at gmail.com            05 Sep 17   28 Nov 17
 
 [1] previously Alfonso Machiavelli, the Warrigal
-[2] also known as Gumball
-[3] also callforjudgement at yahoo.co.uk
+[2] later known as R. Lee
+[3] also known as Gumball
+[4] also callforjudgement at yahoo.co.uk
 
 Left in 2018:
 
