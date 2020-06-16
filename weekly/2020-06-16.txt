@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-05-16 (Tue)
+Date of last report: 2020-05-11 (Thu)
 Date of this report: 2020-06-16 (Tue)
 (all times UTC)
 
@@ -19,6 +16,7 @@ Recent Events (recent events section not ratifying)
 28-May-20 01:02  ATMunn flips eir Master switch to emself.
 30-May-20 04:26  Falsifian deregisters pikhq with notice.
 06-Jun-20 16:32  Tyler registers.
+(time of last report)
 11-Jun-20 20:16  Agora flips twg's Master switch to G..
 11-Jun-20 20:16  Agora flips Tcbapo's Master switch to R. Lee.
 12-Jun-20 02:48  Name change: G. -> CFJ 3835.
@@ -27,7 +25,6 @@ Recent Events (recent events section not ratifying)
 12-Jun-20 13:01  Name change: Proposal 8440 -> R. Lee.
 12-Jun-20 02:48  Name change: CFJ 3835 -> G..
 12-Jun-20 08:07  Name change: The Found and Lost Department -> Trigon.
-(time of last report)
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
