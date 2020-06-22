@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-05-22 (Mon)
+Date of last report: 2020-05-16 (Tue)
 Date of this report: 2020-06-22 (Mon)
 (all times UTC)
 
@@ -26,9 +23,9 @@ Recent Events (recent events section not ratifying)
 12-Jun-20 13:01  Name change: Proposal 8440 -> R. Lee.
 12-Jun-20 02:48  Name change: CFJ 3835 -> G..
 12-Jun-20 08:07  Name change: The Found and Lost Department -> Trigon.
+(time of last report)
 20-Jun-20 19:59  Bögtil deregisters.
 21-Jun-20 06:14  Zyborg registers.
-(time of last report)
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
