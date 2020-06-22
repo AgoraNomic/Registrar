@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-05-16 (Tue)
-Date of this report: 2020-06-16 (Tue)
+Date of this report: 2020-06-22 (Mon)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -14,7 +14,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-20-May-20 03:25  grok registers.
 22-May-20 19:44  Bögtil registers.
 28-May-20 01:02  ATMunn flips eir Master switch to emself.
 30-May-20 04:26  Falsifian deregisters pikhq with notice.
@@ -28,6 +27,8 @@ Recent Events (recent events section not ratifying)
 12-Jun-20 02:48  Name change: CFJ 3835 -> G..
 12-Jun-20 08:07  Name change: The Found and Lost Department -> Trigon.
 (time of last report)
+20-Jun-20 19:59  Bögtil deregisters.
+21-Jun-20 06:14  Zyborg registers
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
@@ -54,8 +55,8 @@ There are 22 Players.
   R. Lee             edwardostrange at gmail.com             16 Mar 20
   Telnaior           JDGA at iinet.net.au                    21 Mar 20
   grok               grokagora at gmail.com                  20 May 20
-  Bögtil             stefan.fjellander at gmail.com          22 May 20
   Tyler              tylermeady at gmail.com                 06 Jun 20
+  Zyborg             zyborgmao at gmail.com                  21 Jun 20
 z twg                me at timon.red                         24 May 18
 z Tcbapo             tcbapoagora at gmail.com                28 Jan 20
 
