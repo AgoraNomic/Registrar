@@ -81,7 +81,10 @@ Public       agora-business at agoranomic.org        other business
 Discussion   agora-discussion at agoranomic.org      discussion
 Discussion   irc://irc.freenode.net:6667/##nomic
 <https://webchat.freenode.net/?channels=%23%23nomic> discussion
+Foreign*     https://discord.gg/FwmJW8               discussion
 Public       agora at listserver.tue.nl              backup
+
+*Some players hang out here. No official status.
 
 Subscribe or unsubscribe from main
 lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
