@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 16 Jun 2020
-Date of this report: 22 Jun 2020
+Date of this report: 30 Jun 2020
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
@@ -29,6 +29,9 @@ Recent Changes:
 03-May-20 20:23  Alexis deregisters.
 30-May-20 04:26  Falsifian deregisters pikhq with notice.
 20-Jun-20 19:59  Bögtil deregisters.
+30-Jun-20 14:26  The following happens 56 times:
+                 * nch exiles R. Lee.
+                 * R. Lee registers.
 
 [1] also known as Publius Scribonius Scholasticus
 
@@ -63,6 +66,7 @@ at least once (imperfect, corrections welcomed)
 (w)rit of FAGE    deregistered emself by mista(k)e
 (p)roposal        d(e)stroyed
 (r)atification    (u)known
+e(x)iled
 
 Left in 1994:
 
@@ -713,3 +717,6 @@ a Rance              rance_28 at yahoo.com            09 Apr 19   23 Apr 20
 v Alexis             alercah at gmail.com             06 Jan 20   03 May 20
 a pikhq              agora at ada.pikhq.com           20 Oct 19   30 May 20
 v Bögtil             stefan.fjellander at gmail.com   22 May 20   20 Jun 20
+x R. Lee             edwardostrange at gmail.com      16 Mar 20   30-Jun-20
+x R. Lee (55 times)  edwardostrange at gmail.com      30-Jun-20   30-Jun-20
+(The previous two lines represent 56 total deregistrations of R. Lee.)

@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-06-22 (Mon)
-Date of this report: 2020-06-22 (Mon)
+Date of this report: 2020-07-01 (Wed)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -29,6 +29,12 @@ Recent Events (recent events section not ratifying)
 20-Jun-20 19:59  Bögtil deregisters.
 21-Jun-20 06:14  Zyborg registers.
 (time of last report)
+30-Jun-20 14:26  nch exiles R. Lee.
+30-Jun-20 14:26  Tcbapo's Master switch is set to Agora (R2532).
+30-Jun-20 14:26  R. Lee registers.
+30-Jun-20 14:26  The following happens 55 more times:
+                 * nch exiles R. Lee.
+                 * R. Lee registers.
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
@@ -52,11 +58,11 @@ There are 22 Players.
   nch                nchagora at protonmail.com              18 Oct 19
   sukil              sukiletxe+agora at gmail.com            12 Feb 20
   P.S.S. [3]         p.scribonius.scholasticus at gmail.com  01 Mar 20
-  R. Lee             edwardostrange at gmail.com             16 Mar 20
   Telnaior           JDGA at iinet.net.au                    21 Mar 20
   grok               grokagora at gmail.com                  20 May 20
   Tyler              tylermeady at gmail.com                 06 Jun 20
   Zyborg             zyborgmao at gmail.com                  21 Jun 20
+  R. Lee             edwardostrange at gmail.com             30-Jun-20
 z twg                me at timon.red                         24 May 18
 z Tcbapo             tcbapoagora at gmail.com                28 Jan 20
 
@@ -69,7 +75,7 @@ Zombie master and resale value switches (self-ratifying)
 Zombie         Master     value    by Agora          to Agora
 ------         ------     -------  ---------------   ---------------
 twg            G.         1        2020-06-11 20:16  2020-09-09 20:16
-Tcbapo         R. Lee     0        2020-06-12 01:06  2020-09-10 01:06
+Tcbapo         Agora      0        now
 
 
 Fora (Rule 478, self-ratifying)
