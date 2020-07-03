@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-06-22 (Mon)
-Date of this report: 2020-07-01 (Wed)
+Date of this report: 2020-07-03 (Fri)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -35,6 +35,8 @@ Recent Events (recent events section not ratifying)
 30-Jun-20 14:26  The following happens 55 more times:
                  * nch exiles R. Lee.
                  * R. Lee registers.
+03-Jul-20 18:32 Falsifian's email address changed to
+                agora at falsifian.org.
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
@@ -53,7 +55,7 @@ There are 22 Players.
   ATMunn             iamingodsarmy at gmail.com              11 Mar 18
   D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
   Baron von Vaderham davidseeber at outlook.com              04 Feb 19
-  Falsifian          jcook at cs.berkeley.edu                13 Feb 19
+  Falsifian          agora at falsifian.org                  13 Feb 19
   Jason              jason.e.cobb at gmail.com               02 Jun 19
   nch                nchagora at protonmail.com              18 Oct 19
   sukil              sukiletxe+agora at gmail.com            12 Feb 20
