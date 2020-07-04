@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-07-04 (Sat)
+Date of last report: 2020-06-22 (Mon)
 Date of this report: 2020-07-04 (Sat)
 (all times UTC)
 
@@ -28,6 +25,7 @@ Recent Events (recent events section not ratifying)
 12-Jun-20 08:07  Name change: The Found and Lost Department -> Trigon.
 20-Jun-20 19:59  Bögtil deregisters.
 21-Jun-20 06:14  Zyborg registers.
+(time of last report)
 30-Jun-20 14:26  nch exiles R. Lee.
 30-Jun-20 14:26  Tcbapo's Master switch is set to Agora (R2532).
 30-Jun-20 14:26  R. Lee registers.
@@ -37,7 +35,6 @@ Recent Events (recent events section not ratifying)
 03-Jul-20 18:32  Falsifian's email address changed to
                  agora at falsifian.org.
 03-Jul-20 23:00  Fred registers.
-(time of last report)
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
