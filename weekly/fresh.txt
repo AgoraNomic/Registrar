@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-06-22 (Mon)
-Date of this report: 2020-07-03 (Fri)
+Date of this report: 2020-07-04 (Sat)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -37,11 +37,12 @@ Recent Events (recent events section not ratifying)
                  * R. Lee registers.
 03-Jul-20 18:32  Falsifian's email address changed to
                  agora at falsifian.org.
+03-Jul-20 23:00  Fred registers.
 
 
 Players (by Rule 869, Persons with 'Registered' Citizenship):
 
-There are 22 Players.
+There are 23 Players.
 
   Player             Contact                                 Registered
   ------             -------                                 ----------
@@ -65,6 +66,7 @@ There are 22 Players.
   Tyler              tylermeady at gmail.com                 06 Jun 20
   Zyborg             zyborgmao at gmail.com                  21 Jun 20
   R. Lee             edwardostrange at gmail.com             30-Jun-20
+  Fred               zarathustraincandenza@gmail.com         03-Jul-20
 z twg                me at timon.red                         24 May 18
 z Tcbapo             tcbapoagora at gmail.com                28 Jan 20
 
