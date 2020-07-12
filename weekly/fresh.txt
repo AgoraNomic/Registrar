@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-07-04 (Sat)
-Date of this report: 2020-07-04 (Sat)
+Date of this report: 2020-07-12 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -14,12 +14,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not ratifying)
 
-22-May-20 19:44  Bögtil registers.
-28-May-20 01:02  ATMunn flips eir Master switch to emself.
-30-May-20 04:26  Falsifian deregisters pikhq with notice.
-06-Jun-20 16:32  Tyler registers.
-11-Jun-20 20:16  Agora flips twg's Master switch to G..
-11-Jun-20 20:16  Agora flips Tcbapo's Master switch to R. Lee.
 12-Jun-20 02:48  Name change: G. -> CFJ 3835.
 12-Jun-20 04:26  Name change: R. Lee -> Proposal 8440.
 12-Jun-20 04:57  Name change: Trigon -> The Found and Lost Department.
