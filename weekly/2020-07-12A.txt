@@ -1,11 +1,14 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-07-12 (Sun)
+Revised 1 time.
+
+This is a revision of the 2020-07-12 Registrar weekly report. It
+describes the state of the game at the time the original report was
+published, which is 2020-07-12 at 04:32 UTC.
+
+Date of last report: 2020-07-04 (Sat)
 Date of this report: 2020-07-12 (Sun)
 (all times UTC)
 
