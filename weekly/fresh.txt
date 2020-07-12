@@ -32,9 +32,11 @@ Recent Events (recent events section not ratifying)
                  agora at falsifian.org.
 03-Jul-20 23:00  Fred registers.
 (time of last report)
+12-Jul-20 04:33  Falsifian deregisters Tcbapo with notice.
+12-Jul-20 04:36  Falsifian transfers Telnaior's talisman to Agora.
 
 
-There are 23 Players. The below is a list of all players and also of all
+There are 22 Players. The below is a list of all players and also of all
 talismans (there is one talisman for each player).
 
   Player             Contact                                 Registered
@@ -54,14 +56,13 @@ talismans (there is one talisman for each player).
   nch                nchagora at protonmail.com              18 Oct 19
   sukil              sukiletxe+agora at gmail.com            12 Feb 20
   P.S.S. [3]         p.scribonius.scholasticus at gmail.com  01 Mar 20
-  Telnaior           JDGA at iinet.net.au                    21 Mar 20
   grok               grokagora at gmail.com                  20 May 20
   Tyler              tylermeady at gmail.com                 06 Jun 20
   Zyborg             zyborgmao at gmail.com                  21 Jun 20
   R. Lee             edwardostrange at gmail.com             30-Jun-20
   Fred               zarathustraincandenza@gmail.com         03-Jul-20
 z twg                me at timon.red                         24 May 18
-z Tcbapo             tcbapoagora at gmail.com                28 Jan 20
+z Telnaior           JDGA at iinet.net.au                    21 Mar 20
 
 z=zombie
 
@@ -71,7 +72,7 @@ Zombie masters and resale values (self-ratifying):
 Zombie         Master     value    by Agora          to Agora
 ------         ------     -------  ---------------   ---------------
 twg            G.         1        2020-06-11 20:16  2020-09-09 20:16
-Tcbapo         Agora      0        now
+Telnaior       Agora      0        now
 
 The talisman of each player in the "Zombie" column above is owned by the
 player in the "Master" column in the same row. The talisman for each
