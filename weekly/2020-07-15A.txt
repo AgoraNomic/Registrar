@@ -1,11 +1,14 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-07-15 (Wed)
+Revised 1 time.
+
+This is a revision of the 2020-07-15 Registrar weekly report. It
+describes the state of the game at the time the original report was
+published, which is 2020-07-15 at 21:19 UTC.
+
+Date of last report: 2020-07-12 (Sun)
 Date of this report: 2020-07-15 (Wed)
 (all times UTC)
 
@@ -25,9 +28,9 @@ Recent Events (recent events section not ratifying)
 03-Jul-20 18:32  Falsifian's email address changed to
                  agora at falsifian.org.
 03-Jul-20 23:00  Fred registers.
+(time of last report)
 12-Jul-20 04:33  Falsifian deregisters Tcbapo with notice.
 12-Jul-20 04:36  Falsifian transfers Telnaior's talisman to Agora.
-(time of last report)
 
 
 There are 22 Players. The below is a list of all players and also of all
