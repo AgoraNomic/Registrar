@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 16 Jun 2020
-Date of this report: 30 Jun 2020
+Date of this report: 19 Jul 2020
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
@@ -32,6 +32,7 @@ Recent Changes:
 30-Jun-20 14:26  The following happens 56 times:
                  * nch exiles R. Lee.
                  * R. Lee registers.
+18-Jul-20 19:08  Name change: nch -> nix; also, new email address.
 
 [1] also known as Publius Scribonius Scholasticus
 
