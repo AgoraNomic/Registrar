@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-07-24 (Fri)
+Date of last report: 2020-07-15 (Wed)
 Date of this report: 2020-07-24 (Fri)
 (all times UTC)
 
@@ -27,12 +24,12 @@ Recent Events (recent events section not ratifying)
 03-Jul-20 23:00  Fred registers.
 12-Jul-20 04:33  Falsifian deregisters Tcbapo with notice.
 12-Jul-20 04:36  Falsifian transfers Telnaior's talisman to Agora.
+(time of last report)
 18-Jul-20 19:08  Name change: nch -> nix; also, new email address.
 23-Jul-20 20:50  Jason transfers the talisman for D. Margaux to Agora.
 23-Jul-20 20:50  Jason transfers the talisman for sukil to Agora.
 23-Jul-20 20:50  Jason transfers the talisman for Baron von Vaderham to
                  Agora.
-(time of last report)
 
 
 There are 22 Players. The below is a list of all players and also of all
