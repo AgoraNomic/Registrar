@@ -40,7 +40,7 @@ talismans (there is one talisman for each player).
 
   Player             Contact                                 Registered
   ------             -------                                 ----------
-  omd                comexk at gmail.com [1]                 03 Feb 11
+  omd                comexk at gmail.com [0]                 03 Feb 11
   Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
   Gaelan             gbs at canishe.com                      15 May 17
   G.                 kerim at uw.edu                         25 Aug 17
@@ -50,15 +50,15 @@ talismans (there is one talisman for each player).
   ATMunn             iamingodsarmy at gmail.com              11 Mar 18
   Falsifian          agora at falsifian.org                  13 Feb 19
   Jason              jason.e.cobb at gmail.com               02 Jun 19
-  nix                nixnull+agora at protonmail.com [3]     18 Oct 19
-  P.S.S. [4]         p.scribonius.scholasticus at gmail.com  01 Mar 20
+  nix                nixnull+agora at protonmail.com [1]     18 Oct 19
+  P.S.S. [2]         p.scribonius.scholasticus at gmail.com  01 Mar 20
   grok               grokagora at gmail.com                  20 May 20
   Tyler              tylermeady at gmail.com                 06 Jun 20
   Zyborg             zyborgmao at gmail.com                  21 Jun 20
   R. Lee             edwardostrange at gmail.com             30-Jun-20
   Fred               zarathustraincandenza@gmail.com         03-Jul-20
 z twg                me at timon.red                         24 May 18
-z D. Margaux [2]     dmargaux000 at gmail.com                25 Aug 18
+z D. Margaux [3]     dmargaux000 at gmail.com                25 Aug 18
 z Baron von Vaderham davidseeber at outlook.com              04 Feb 19
 z sukil              sukiletxe+agora at gmail.com            12 Feb 20
 z Telnaior           JDGA at iinet.net.au                    21 Mar 20
@@ -71,7 +71,7 @@ Zombie masters and resale values (self-ratifying):
 Zombie         Master     value    by Agora          to Agora
 ------         ------     -------  ---------------   ---------------
 twg            G.         1        2020-06-11 20:16  2020-09-09 20:16
-Baron v V [0]  Agora      2        now
+Baron v V [4]  Agora      2        now
 D. Margaux     Agora      2        now
 Telnaior       Agora      2        now
 sukil          Agora      2        now
@@ -123,8 +123,8 @@ Phlogistique      noe.rubinstein at gmail.com             2013 May
 Steve             zardoz37 at gmail.com                   2013 May
 
 
-[0] Short for Baron von Vaderham.
-[1] officially, but technically equivalent c.ome.xk at gmail.com
-[2] also known as D Margaux
-[3] Also nchagora at protonmail.com.
-[4] Also known as Publius Scribonius Scholasticus
+[0] officially, but technically equivalent c.ome.xk at gmail.com
+[1] Also nchagora at protonmail.com.
+[2] Also known as Publius Scribonius Scholasticus
+[3] also known as D Margaux
+[4] Short for Baron von Vaderham.
