@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-08-20 (Thu)
+Date of last report: 2020-08-16 (Sun)
 Date of this report: 2020-08-20 (Thu)
 (all times UTC)
 
@@ -33,8 +30,8 @@ Recent Events (recent events section not ratifying)
 23-Jul-20 20:50  Jason transfers the talisman for Baron von Vaderham to
 .                Agora.
 08-Aug-20 06:45  Shelvacu registers.
-19-Aug-20 16:46  Nathan registers.
 (time of last report)
+19-Aug-20 16:46  Nathan registers.
 
 
 There are 24 Players. The below is a list of all players and also of all
