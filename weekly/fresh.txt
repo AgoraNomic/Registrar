@@ -20,10 +20,10 @@ Recent Events (recent events section not ratifying)
 30-Jun-20 14:26  Tcbapo's Master switch is set to Agora (R2532).
 30-Jun-20 14:26  R. Lee registers.
 30-Jun-20 14:26  The following happens 55 more times:
-                 * nch exiles R. Lee.
-                 * R. Lee registers.
+.                * nch exiles R. Lee.
+.                * R. Lee registers.
 03-Jul-20 18:32  Falsifian's email address changed to
-                 agora at falsifian.org.
+.                agora at falsifian.org.
 03-Jul-20 23:00  Fred registers.
 12-Jul-20 04:33  Falsifian deregisters Tcbapo with notice.
 12-Jul-20 04:36  Falsifian transfers Telnaior's talisman to Agora.
@@ -31,7 +31,7 @@ Recent Events (recent events section not ratifying)
 23-Jul-20 20:50  Jason transfers the talisman for D. Margaux to Agora.
 23-Jul-20 20:50  Jason transfers the talisman for sukil to Agora.
 23-Jul-20 20:50  Jason transfers the talisman for Baron von Vaderham to
-                 Agora.
+.                Agora.
 08-Aug-20 06:45  Shelvacu registers.
 (time of last report)
 19-Aug-20 16:46  Nathan registers.
@@ -40,27 +40,27 @@ Recent Events (recent events section not ratifying)
 There are 24 Players. The below is a list of all players and also of all
 talismans (there is one talisman for each player).
 
-  Player             Contact                                 Registered
-  ------             -------                                 ----------
-  omd                comexk at gmail.com [0]                 03 Feb 11
-  Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
-  Gaelan             gbs at canishe.com                      15 May 17
-  G.                 kerim at uw.edu                         25 Aug 17
-  Cuddlebeam         cuddlebeam at gmail.com                 25 Aug 17
-  Trigon             reuben.staley at gmail.com              24 Sep 17
-  Murphy             emurphy42 at zoho.com                   17 Dec 17
-  ATMunn             iamingodsarmy at gmail.com              11 Mar 18
-  Falsifian          agora at falsifian.org                  13 Feb 19
-  Jason              jason.e.cobb at gmail.com               02 Jun 19
-  nix                nixnull+agora at protonmail.com [1]     18 Oct 19
-  P.S.S. [2]         p.scribonius.scholasticus at gmail.com  01 Mar 20
-  grok               grokagora at gmail.com                  20 May 20
-  Tyler              tylermeady at gmail.com                 06 Jun 20
-  Zyborg             zyborgmao at gmail.com                  21 Jun 20
-  R. Lee             edwardostrange at gmail.com             30-Jun-20
-  Fred               zarathustraincandenza at gmail.com      03-Jul-20
-  Shelvacu [3]       agora at shelvacu.com                   08-Aug-20
-  Nathan             nathans.agora.email at gmail.com        19-Aug-20
+. Player             Contact                                 Registered
+. ------             -------                                 ----------
+. omd                comexk at gmail.com [0]                 03 Feb 11
+. Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+. Gaelan             gbs at canishe.com                      15 May 17
+. G.                 kerim at uw.edu                         25 Aug 17
+. Cuddlebeam         cuddlebeam at gmail.com                 25 Aug 17
+. Trigon             reuben.staley at gmail.com              24 Sep 17
+. Murphy             emurphy42 at zoho.com                   17 Dec 17
+. ATMunn             iamingodsarmy at gmail.com              11 Mar 18
+. Falsifian          agora at falsifian.org                  13 Feb 19
+. Jason              jason.e.cobb at gmail.com               02 Jun 19
+. nix                nixnull+agora at protonmail.com [1]     18 Oct 19
+. P.S.S. [2]         p.scribonius.scholasticus at gmail.com  01 Mar 20
+. grok               grokagora at gmail.com                  20 May 20
+. Tyler              tylermeady at gmail.com                 06 Jun 20
+. Zyborg             zyborgmao at gmail.com                  21 Jun 20
+. R. Lee             edwardostrange at gmail.com             30-Jun-20
+. Fred               zarathustraincandenza at gmail.com      03-Jul-20
+. Shelvacu [3]       agora at shelvacu.com                   08-Aug-20
+. Nathan             nathans.agora.email at gmail.com        19-Aug-20
 z twg                me at timon.red                         24 May 18
 z D. Margaux [4]     dmargaux000 at gmail.com                25 Aug 18
 z Baron von Vaderham davidseeber at outlook.com              04 Feb 19
