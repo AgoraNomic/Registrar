@@ -6,7 +6,7 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 2020-08-26 (Wed)
-Date of this report: 2020-08-26 (Wed)
+Date of this report: 2020-09-06 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -37,6 +37,9 @@ Recent Events (recent events section not ratifying)
 23-Aug-20 19:40  G. transfers D. Margaux's talisman to emself.
 23-Aug-20 19:49  Jason transfers Baron v V's [5] talisman to emself.
 (time of last report)
+26-Aug-20 22:43  Aris transfers Telnaior's talisman to emself.
+30-Aug-20 23:25  Trigon transfers sukil's talisman to emself.
+01-Sep-20 15:41  Falsifian transfers twg's talimsan to Agora.
 
 
 There are 24 Players. The below is a list of all players and also of all
@@ -76,11 +79,11 @@ Zombie masters and resale values (self-ratifying):
                           Resale   Last owned        Due to flip
 Zombie         Master     value    by Agora          to Agora
 ------         ------     -------  ---------------   ---------------
-twg            G.         1        2020-06-11 20:16  2020-09-09 20:16
 D. Margaux     G.         1        2020-08-23 19:40  2020-11-21 19:40
 Baron v V [5]  Jason      1        2020-08-23 19:49  2020-11-21 19:49
-Telnaior       Agora      2        now
-sukil          Agora      2        now
+Telnaior       Aris       1        2020-08-26 22:43  2020-11-24 22:43
+sukil          Trigon     1        2020-08-30 23:25  2020-11-28 23:25
+twg            Agora      1        now
 
 The talisman of each player in the "Zombie" column above is owned by the
 player in the "Master" column in the same row. The talisman for each
