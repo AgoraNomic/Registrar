@@ -1,11 +1,8 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2020-09-06 (Sun)
+Date of last report: 2020-08-26 (Wed)
 Date of this report: 2020-09-06 (Sun)
 (all times UTC)
 
@@ -36,10 +33,10 @@ Recent Events (recent events section not ratifying)
 19-Aug-20 16:46  Nathan registers.
 23-Aug-20 19:40  G. transfers D. Margaux's talisman to emself.
 23-Aug-20 19:49  Jason transfers Baron v V's [5] talisman to emself.
+(time of last report)
 26-Aug-20 22:43  Aris transfers Telnaior's talisman to emself.
 30-Aug-20 23:25  Trigon transfers sukil's talisman to emself.
 01-Sep-20 15:41  Falsifian transfers twg's talimsan to Agora.
-(time of last report)
 
 
 There are 24 Players. The below is a list of all players and also of all
