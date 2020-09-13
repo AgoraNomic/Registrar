@@ -11,7 +11,7 @@ forum. G. called a CFJ about this 2020-09-06.
 
 
 Date of last report: 2020-09-06 (Sun)
-Date of this report: 2020-09-06 (Sun)
+Date of this report: 2020-09-13 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -47,6 +47,7 @@ Recent Events (recent events section not ratifying)
 04-Sep-20 20:06  Publicity of Lunar Laser Ranging experiment set to
 .                Discussion.
 (time of last report)
+13-Sep-20 15:46  Falsifian transfers twg's talisman to emself.
 
 
 There are 24 Players. The below is a list of all players and also of all
@@ -90,7 +91,7 @@ D. Margaux     G.         1        2020-08-23 19:40  2020-11-21 19:40
 Baron v V [5]  Jason      1        2020-08-23 19:49  2020-11-21 19:49
 Telnaior       Aris       1        2020-08-26 22:43  2020-11-24 22:43
 sukil          Trigon     1        2020-08-30 23:25  2020-11-28 23:25
-twg            Agora      1        now
+twg            Falsifian  0        2020-09-13 15:46  2020-12-12 15:46
 
 The talisman of each player in the "Zombie" column above is owned by the
 player in the "Master" column in the same row. The talisman for each
