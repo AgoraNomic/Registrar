@@ -1,6 +1,3 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
@@ -10,7 +7,7 @@ Disclaimer: this report assumes the Lunar Laser Ranging experiment is a
 forum. G. called a CFJ about this 2020-09-06.
 
 
-Date of last report: 2020-09-13 (Sun)
+Date of last report: 2020-09-06 (Sun)
 Date of this report: 2020-09-13 (Sun)
 (all times UTC)
 
@@ -46,8 +43,8 @@ Recent Events (recent events section not ratifying)
 01-Sep-20 15:41  Falsifian transfers twg's talimsan to Agora.
 04-Sep-20 20:06  Publicity of Lunar Laser Ranging experiment set to
 .                Discussion.
-13-Sep-20 15:46  Falsifian transfers twg's talisman to emself.
 (time of last report)
+13-Sep-20 15:46  Falsifian transfers twg's talisman to emself.
 
 
 There are 24 Players. The below is a list of all players and also of all
