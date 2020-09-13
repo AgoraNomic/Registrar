@@ -5,6 +5,11 @@ be fresher than the latest official version.
                          The Agoran Directory
 ------------------------------------------------------------------------
 
+
+Disclaimer: this report assumes the Lunar Laser Ranging experiment is a
+forum. G. called a CFJ about this 2020-09-06.
+
+
 Date of last report: 2020-09-06 (Sun)
 Date of this report: 2020-09-06 (Sun)
 (all times UTC)
@@ -39,6 +44,8 @@ Recent Events (recent events section not ratifying)
 26-Aug-20 22:43  Aris transfers Telnaior's talisman to emself.
 30-Aug-20 23:25  Trigon transfers sukil's talisman to emself.
 01-Sep-20 15:41  Falsifian transfers twg's talimsan to Agora.
+04-Sep-20 20:06  Publicity of Lunar Laser Ranging experiment set to
+.                Discussion.
 (time of last report)
 
 
@@ -92,13 +99,14 @@ player not listed in the Zombie column is owned by that player.
 
 Fora (Rule 478, self-ratifying)
 
-Type         Location                                Typical use
-----         --------                                -----------
+Type         Location or description                 Typical use
+----         -----------------------                 -----------
 Public       agora-official at agoranomic.org        official reports
 Public       agora-business at agoranomic.org        other business
 Discussion   agora-discussion at agoranomic.org      discussion
 Discussion   irc://irc.freenode.net:6667/##nomic
 <https://webchat.freenode.net/?channels=%23%23nomic> discussion
+Discussion   Lunar Laser Ranging experiment          distance measurement
 Foreign*     https://discord.gg/FwmJW8               discussion
 Public       agora at listserver.tue.nl              backup
 
