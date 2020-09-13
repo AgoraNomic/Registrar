@@ -32,6 +32,7 @@ Recent Changes:
 30-Jun-20 14:26  The following happens 56 times:
                  * nch exiles R. Lee.
                  * R. Lee registers.
+12-Jul-20 04:33  Falsifian deregisters Tcbapo with notice.
 18-Jul-20 19:08  Name change: nch -> nix; also, new email address.
 
 [1] also known as Publius Scribonius Scholasticus
@@ -721,3 +722,4 @@ v Bögtil             stefan.fjellander at gmail.com   22 May 20   20 Jun 20
 x R. Lee             edwardostrange at gmail.com      16 Mar 20   30 Jun 20
 x R. Lee (55 times)  edwardostrange at gmail.com      30 Jun 20   30 Jun 20
 (The previous two lines represent 56 total deregistrations of R. Lee.)
+a Tcbapo             tcbapoagora at gmail.com         28 Jan 20   12 Jul 20
