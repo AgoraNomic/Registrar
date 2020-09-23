@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Disclaimer: this report assumes the Lunar Laser Ranging experiment is a
-forum. G. called a CFJ about this 2020-09-06.
+forum. This is the subject of CFJ 3884.
 
 
 Date of last report: 2020-09-16 (Wed)
