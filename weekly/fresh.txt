@@ -11,7 +11,7 @@ forum. This is the subject of CFJ 3884.
 
 
 Date of last report: 2020-09-23 (Wed)
-Date of this report: 2020-09-23 (Wed)
+Date of this report: 2020-10-02 (Fri)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -19,12 +19,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not self-ratifying)
 
-30-Jun-20 14:26  nch exiles R. Lee.
-30-Jun-20 14:26  Tcbapo's Master switch is set to Agora (R2532).
-30-Jun-20 14:26  R. Lee registers.
-30-Jun-20 14:26  The following happens 55 more times:
-.                * nch exiles R. Lee.
-.                * R. Lee registers.
 03-Jul-20 18:32  Falsifian's email address changed to
 .                agora at falsifian.org.
 03-Jul-20 23:00  Fred registers.
