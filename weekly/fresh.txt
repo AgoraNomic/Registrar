@@ -100,7 +100,7 @@ Discussion   agora-discussion at agoranomic.org      discussion
 Discussion   irc://irc.freenode.net:6667/##nomic
 <https://webchat.freenode.net/?channels=%23%23nomic> discussion
 Discussion   Lunar Laser Ranging experiment          distance measurement
-Foreign*     https://discord.gg/FwmJW8               discussion
+Foreign*     https://discord.gg/JCC6YGc              discussion
 Public       agora at listserver.tue.nl              backup
 
 *Some players hang out here. No official status.
