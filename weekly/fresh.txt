@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2020-10-02 (Fri)
-Date of this report: 2020-10-02 (Fri)
+Date of this report: 2020-10-11 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
@@ -15,9 +15,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/Reports/
 
 Recent Events (recent events section not self-ratifying)
 
-03-Jul-20 18:32  Falsifian's email address changed to
-.                agora at falsifian.org.
-03-Jul-20 23:00  Fred registers.
 12-Jul-20 04:33  Falsifian deregisters Tcbapo with notice.
 12-Jul-20 04:36  Falsifian transfers Telnaior's talisman to Agora.
 18-Jul-20 19:08  Name change: nch -> nix; also, new email address.
