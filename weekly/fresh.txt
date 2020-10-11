@@ -6,10 +6,6 @@ be fresher than the latest official version.
 ------------------------------------------------------------------------
 
 
-Disclaimer: this report assumes the Lunar Laser Ranging experiment is a
-forum. This is the subject of CFJ 3884.
-
-
 Date of last report: 2020-10-02 (Fri)
 Date of this report: 2020-10-02 (Fri)
 (all times UTC)
@@ -36,8 +32,6 @@ Recent Events (recent events section not self-ratifying)
 26-Aug-20 22:43  Aris transfers Telnaior's talisman to emself.
 30-Aug-20 23:25  Trigon transfers sukil's talisman to emself.
 01-Sep-20 15:41  Falsifian transfers twg's talimsan to Agora.
-04-Sep-20 20:06  Publicity of Lunar Laser Ranging experiment set to
-.                Discussion.
 13-Sep-20 15:46  Falsifian transfers twg's talisman to emself.
 (time of last report)
 
@@ -99,7 +93,6 @@ Public       agora-business at agoranomic.org        other business
 Discussion   agora-discussion at agoranomic.org      discussion
 Discussion   irc://irc.freenode.net:6667/##nomic
 <https://webchat.freenode.net/?channels=%23%23nomic> discussion
-Discussion   Lunar Laser Ranging experiment          distance measurement
 Foreign*     https://discord.gg/JCC6YGc              discussion
 Public       agora at listserver.tue.nl              backup
 
