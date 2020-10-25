@@ -86,7 +86,8 @@ Discussion   irc://irc.freenode.net:6667/##nomic
 Foreign*     https://discord.gg/JCC6YGc              discussion
 Public       agora at listserver.tue.nl              backup
 
-*Some players hang out here. No official status.
+*Linked to the IRC discussion forum. Some players hang out here. No
+official status.
 
 Subscribe or unsubscribe from main
 lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
