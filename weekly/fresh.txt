@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2020-10-25 (Sun)
-Date of this report: 2020-10-25 (Sun)
+Date of this report: 2020-10-31 (Sat)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -24,6 +24,7 @@ Recent Events (recent events section not self-ratifying)
 01-Sep-20 15:41  Falsifian transfers twg's talimsan to Agora.
 13-Sep-20 15:46  Falsifian transfers twg's talisman to emself.
 (time of last report)
+31-Oct-20 21:09  Falsifian flips the Publicity of Gio to Public.
 
 
 There are 24 Players. The below is a list of all players and also of all
@@ -85,9 +86,16 @@ Discussion   irc://irc.freenode.net:6667/##nomic
 <https://webchat.freenode.net/?channels=%23%23nomic> discussion
 Foreign*     https://discord.gg/JCC6YGc              discussion
 Public       agora at listserver.tue.nl              backup
+Public       agoranomic at groups.io **              backup
 
 *Linked to the IRC discussion forum. Some players hang out here. No
 official status.
+
+**The forum is specifically just that email list. From the message that
+made it public: "Note that although groups.io provides many features
+besides email, the forum I am referring to is specifically the email
+list: if something doesn't get to Gio's subscribers by email, it wasn't
+sent via Gio.
 
 Subscribe or unsubscribe from main
 lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
