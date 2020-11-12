@@ -1,11 +1,10 @@
-This is an unofficial version of the Registrar's monthly report that may be
-fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          Registrar's Monthly Report
 ------------------------------------------------------------------------
 
-Date of last report: 12 Nov 2020
+(No changes since the last monthly report.)
+
+Date of last report: 18 Oct 2020
 Date of this report: 12 Nov 2020
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
