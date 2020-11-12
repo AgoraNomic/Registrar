@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2020-11-12 (Thu)
+Date of last report: 2020-11-08 (Sun)
 Date of this report: 2020-11-12 (Thu)
 (all times UTC)
 
@@ -24,13 +21,13 @@ Recent Events (recent events section not self-ratifying)
 01-Sep-20 15:41  Falsifian transfers twg's talimsan to Agora.
 13-Sep-20 15:46  Falsifian transfers twg's talisman to emself.
 31-Oct-20 21:09  Falsifian flips the Publicity of Gio to Public.
+(time of last report)
 08-Nov-20 14:48  lucidiot registers.
 11-Nov-20 22:55  Shy Owl registers.
 12-Nov-20 00:36  Jason transfers Tyler's talisman to Agora.
 12-Nov-20 00:36  Jason transfers Zyborg's talisman to Agora.
 12-Nov-20 00:36  Jason transfers Fred's talisman to Agora.
 12-Nov-20 00:36  Jason transfers Shelvacu's talisman to Agora.
-(time of last report)
 
 
 There are 26 Players. The below is a list of all players and also of all
