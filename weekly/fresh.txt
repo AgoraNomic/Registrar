@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2020-11-12 (Thu)
-Date of this report: 2020-11-12 (Thu)
+Date of this report: 2020-11-22 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -15,7 +15,7 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Events (recent events section not self-ratifying)
 
-08-Aug-20 06:45  Shelvacu registers.
+08-Aug-20 06:45  Shelvacu [3] registers.
 19-Aug-20 16:46  Nathan registers.
 23-Aug-20 19:40  G. transfers D. Margaux's talisman to emself.
 23-Aug-20 19:49  Jason transfers Baron v V's [5] talisman to emself.
@@ -29,11 +29,15 @@ Recent Events (recent events section not self-ratifying)
 12-Nov-20 00:36  Jason transfers Tyler's talisman to Agora.
 12-Nov-20 00:36  Jason transfers Zyborg's talisman to Agora.
 12-Nov-20 00:36  Jason transfers Fred's talisman to Agora.
-12-Nov-20 00:36  Jason transfers Shelvacu's talisman to Agora.
+12-Nov-20 00:36  Jason transfers Shelvacu [3]'s talisman to Agora.
 (time of last report)
+20-Nov-20 04:52  Falsifian deregisters Tyler with notice.
+20-Nov-20 04:52  Falsifian deregisters Zyborg with notice.
+20-Nov-20 04:52  Falsifian deregisters Fred with notice.
+20-Nov-20 04:52  Falsifian deregisters Shelvacu [3] with notice.
 
 
-There are 26 Players. The below is a list of all players and also of all
+There are 22 Players. The below is a list of all players and also of all
 talismans (there is one talisman for each player).
 
 . Player             Contact                                 Registered
@@ -60,10 +64,6 @@ z D. Margaux [4]     dmargaux000 at gmail.com                25 Aug 18
 z Baron von Vaderham davidseeber at outlook.com              04 Feb 19
 z sukil              sukiletxe+agora at gmail.com            12 Feb 20
 z Telnaior           JDGA at iinet.net.au                    21 Mar 20
-z Tyler              tylermeady at gmail.com                 06 Jun 20
-z Zyborg             zyborgmao at gmail.com                  21 Jun 20
-z Fred               zarathustraincandenza at gmail.com      03-Jul-20
-z Shelvacu [3]       agora at shelvacu.com                   08-Aug-20
 
 z=zombie
 
@@ -77,10 +77,6 @@ Baron v V [5]  Jason      1        2020-08-23 19:49  2020-11-21 19:49
 Telnaior       Aris       1        2020-08-26 22:43  2020-11-24 22:43
 sukil          Trigon     1        2020-08-30 23:25  2020-11-28 23:25
 twg            Falsifian  0        2020-09-13 15:46  2020-12-12 15:46
-Tyler          Agora      0        now
-Zyborg         Agora      0        now
-Fred           Agora      0        now
-Shelvacu       Agora      0        now
 
 The talisman of each player in the "Zombie" column above is owned by the
 player in the "Master" column in the same row. The talisman for each

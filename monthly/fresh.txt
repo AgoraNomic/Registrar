@@ -34,8 +34,13 @@ Recent Changes:
                  * R. Lee registers.
 12-Jul-20 04:33  Falsifian deregisters Tcbapo with notice.
 18-Jul-20 19:08  Name change: nch -> nix; also, new email address.
+20-Nov-20 04:52  Falsifian deregisters Tyler with notice.
+20-Nov-20 04:52  Falsifian deregisters Zyborg with notice.
+20-Nov-20 04:52  Falsifian deregisters Fred with notice.
+20-Nov-20 04:52  Falsifian deregisters Shelvacu [2] with notice.
 
 [1] also known as Publius Scribonius Scholasticus
+[2] Also known as Shel.
 
 
 
@@ -723,3 +728,8 @@ x R. Lee             edwardostrange at gmail.com      16 Mar 20   30 Jun 20
 x R. Lee (55 times)  edwardostrange at gmail.com      30 Jun 20   30 Jun 20
 (The previous two lines represent 56 total deregistrations of R. Lee.)
 a Tcbapo             tcbapoagora at gmail.com         28 Jan 20   12 Jul 20
+a Tyler              tylermeady at gmail.com          06 Jun 20   20 Nov 20
+a Zyborg             zyborgmao at gmail.com           21 Jun 20   20 Nov 20
+a Fred               zarathustraincandenza at
+                         gmail.com                    03-Jul-20   20 Nov 20
+a Shelvacu [3]       agora at shelvacu.com            08-Aug-20   20 Nov 20
