@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2020-11-22 (Sun)
+Date of last report: 2020-11-12 (Thu)
 Date of this report: 2020-11-22 (Sun)
 (all times UTC)
 
@@ -30,11 +27,11 @@ Recent Events (recent events section not self-ratifying)
 12-Nov-20 00:36  Jason transfers Zyborg's talisman to Agora.
 12-Nov-20 00:36  Jason transfers Fred's talisman to Agora.
 12-Nov-20 00:36  Jason transfers Shelvacu [3]'s talisman to Agora.
+(time of last report)
 20-Nov-20 04:52  Falsifian deregisters Tyler with notice.
 20-Nov-20 04:52  Falsifian deregisters Zyborg with notice.
 20-Nov-20 04:52  Falsifian deregisters Fred with notice.
 20-Nov-20 04:52  Falsifian deregisters Shelvacu [3] with notice.
-(time of last report)
 
 
 There are 22 Players. The below is a list of all players and also of all
