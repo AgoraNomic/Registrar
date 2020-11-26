@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2020-11-22 (Sun)
-Date of this report: 2020-11-22 (Sun)
+Date of this report: 2020-11-26 (Thu)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -15,10 +15,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Events (recent events section not self-ratifying)
 
-08-Aug-20 06:45  Shelvacu [3] registers.
-19-Aug-20 16:46  Nathan registers.
-23-Aug-20 19:40  G. transfers D. Margaux's talisman to emself.
-23-Aug-20 19:49  Jason transfers Baron v V's [5] talisman to emself.
 26-Aug-20 22:43  Aris transfers Telnaior's talisman to emself.
 30-Aug-20 23:25  Trigon transfers sukil's talisman to emself.
 01-Sep-20 15:41  Falsifian transfers twg's talimsan to Agora.
