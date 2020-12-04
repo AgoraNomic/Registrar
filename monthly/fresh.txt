@@ -6,12 +6,11 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 12 Nov 2020
-Date of this report: 26 Nov 2020
+Date of this report:  4 Dec 2020
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Changes:
-29-Jul-19 03:00  R. Lee deregisters.
 01-Mar-20 06:15  R. Lee deregistered (minimal gamestate modification due
                  to self-ratification of Registrar report)
 24-Aug-19 16:02  Falsifian deregisters L with notice.
