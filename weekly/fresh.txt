@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2020-11-26 (Thu)
-Date of this report: 2020-11-26 (Thu)
+Date of this report: 2020-12-04 (Fri)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -31,9 +31,17 @@ Recent Events (recent events section not self-ratifying)
 20-Nov-20 04:52  Falsifian deregisters Fred with notice.
 20-Nov-20 04:52  Falsifian deregisters Shelvacu [3] with notice.
 (time of last report)
+29-Nov-20 17:46  Falsifian transfers D. Margaux's talisman to Agora.
+29-Nov-20 17:46  Falsifian transfers Baron v V [5]'s talisman to Agora.
+29-Nov-20 17:46  Falsifian transfers Telnaior's talisman to Agora.
+29-Nov-20 17:46  Falsifian transfers sukil's talisman to Agora.
+29-Nov-20 17:46  Falsifian deregisters D. Margaux with notice.
+29-Nov-20 17:46  Falsifian deregisters Baron v V [5] with notice.
+29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
+29-Nov-20 17:46  Falsifian deregisters sukil with notice.
 
 
-There are 22 Players. The below is a list of all players and also of all
+There are 18 Players. The below is a list of all players and also of all
 talismans (there is one talisman for each player).
 
 . Player             Contact                                 Registered
@@ -56,10 +64,6 @@ talismans (there is one talisman for each player).
 . lucidiot           lucidiot 2t brainshit.fr                08-Nov-20
 . Shy Owl            shy.owlman at gmail.com                 11-Nov-20
 z twg                me at timon.red                         24 May 18
-z D. Margaux [4]     dmargaux000 at gmail.com                25 Aug 18
-z Baron von Vaderham davidseeber at outlook.com              04 Feb 19
-z sukil              sukiletxe+agora at gmail.com            12 Feb 20
-z Telnaior           JDGA at iinet.net.au                    21 Mar 20
 
 z=zombie
 
@@ -68,10 +72,6 @@ Zombie masters and resale values (self-ratifying):
                           Resale   Last owned        Due to flip
 Zombie         Master     value    by Agora          to Agora
 ------         ------     -------  ---------------   ---------------
-D. Margaux     G.         1        2020-08-23 19:40  2020-11-21 19:40
-Baron v V [5]  Jason      1        2020-08-23 19:49  2020-11-21 19:49
-Telnaior       Aris       1        2020-08-26 22:43  2020-11-24 22:43
-sukil          Trigon     1        2020-08-30 23:25  2020-11-28 23:25
 twg            Falsifian  0        2020-09-13 15:46  2020-12-12 15:46
 
 The talisman of each player in the "Zombie" column above is owned by the
