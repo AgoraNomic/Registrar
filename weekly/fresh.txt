@@ -15,9 +15,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Events (recent events section not self-ratifying)
 
-26-Aug-20 22:43  Aris transfers Telnaior's talisman to emself.
-30-Aug-20 23:25  Trigon transfers sukil's talisman to emself.
-01-Sep-20 15:41  Falsifian transfers twg's talimsan to Agora.
 13-Sep-20 15:46  Falsifian transfers twg's talisman to emself.
 31-Oct-20 21:09  Falsifian flips the Publicity of Gio to Public.
 08-Nov-20 14:48  lucidiot registers.
