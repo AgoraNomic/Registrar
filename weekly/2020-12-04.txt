@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2020-12-04 (Fri)
+Date of last report: 2020-11-26 (Thu)
 Date of this report: 2020-12-04 (Fri)
 (all times UTC)
 
@@ -27,6 +24,7 @@ Recent Events (recent events section not self-ratifying)
 20-Nov-20 04:52  Falsifian deregisters Zyborg with notice.
 20-Nov-20 04:52  Falsifian deregisters Fred with notice.
 20-Nov-20 04:52  Falsifian deregisters Shelvacu [3] with notice.
+(time of last report)
 29-Nov-20 17:46  Falsifian transfers D. Margaux's talisman to Agora.
 29-Nov-20 17:46  Falsifian transfers Baron v V [5]'s talisman to Agora.
 29-Nov-20 17:46  Falsifian transfers Telnaior's talisman to Agora.
@@ -35,7 +33,6 @@ Recent Events (recent events section not self-ratifying)
 29-Nov-20 17:46  Falsifian deregisters Baron v V [5] with notice.
 29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
 29-Nov-20 17:46  Falsifian deregisters sukil with notice.
-(time of last report)
 
 
 There are 18 Players. The below is a list of all players and also of all
