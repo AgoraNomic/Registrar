@@ -37,9 +37,14 @@ Recent Changes:
 20-Nov-20 04:52  Falsifian deregisters Zyborg with notice.
 20-Nov-20 04:52  Falsifian deregisters Fred with notice.
 20-Nov-20 04:52  Falsifian deregisters Shelvacu [2] with notice.
+29-Nov-20 17:46  Falsifian deregisters D. Margaux with notice.
+29-Nov-20 17:46  Falsifian deregisters Baron v V [3] with notice.
+29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
+29-Nov-20 17:46  Falsifian deregisters sukil with notice.
 
 [1] also known as Publius Scribonius Scholasticus
 [2] Also known as Shel.
+[3] Short for Baron von Vaderham.
 
 
 
@@ -735,4 +740,11 @@ a Tyler              tylermeady at gmail.com          06 Jun 20   20 Nov 20
 a Zyborg             zyborgmao at gmail.com           21 Jun 20   20 Nov 20
 a Fred               zarathustraincandenza at
                          gmail.com                    03-Jul-20   20 Nov 20
-a Shelvacu [3]       agora at shelvacu.com            08-Aug-20   20 Nov 20
+a Shelvacu [1]       agora at shelvacu.com            08-Aug-20   20 Nov 20
+a D. Margaux [2]     dmargaux000 at gmail.com         25 Aug 18   29 Nov 20
+a Baron von Vaderham davidseeber at outlook.com       04 Feb 19   29 Nov 20
+a Telnaior           JDGA at iinet.net.au             21 Mar 20   29 Nov 20
+a sukil              sukiletxe+agora at gmail.com     12 Feb 20   29 Nov 20
+
+[1] Also known as Shel.
+[2] Also known as D Margaux.
