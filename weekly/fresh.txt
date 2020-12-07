@@ -109,7 +109,7 @@ server irc.freenode.net, port 6667, channel ##nomic, and whatever
 nickname you like.
 
 
-Watchers (7)
+Watchers (6)
 
 The list of Watchers is not governed by the rules, but is
 traditionally maintained in the Registrar's Report.  If you'd like to
