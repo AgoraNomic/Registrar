@@ -27,11 +27,11 @@ Recent Events (recent events section not self-ratifying)
 20-Nov-20 04:52  Falsifian deregisters Fred with notice.
 20-Nov-20 04:52  Falsifian deregisters Shelvacu [3] with notice.
 29-Nov-20 17:46  Falsifian transfers D. Margaux's talisman to Agora.
-29-Nov-20 17:46  Falsifian transfers Baron v V [5]'s talisman to Agora.
+29-Nov-20 17:46  Falsifian transfers Baron v V [4]'s talisman to Agora.
 29-Nov-20 17:46  Falsifian transfers Telnaior's talisman to Agora.
 29-Nov-20 17:46  Falsifian transfers sukil's talisman to Agora.
 29-Nov-20 17:46  Falsifian deregisters D. Margaux with notice.
-29-Nov-20 17:46  Falsifian deregisters Baron v V [5] with notice.
+29-Nov-20 17:46  Falsifian deregisters Baron v V [4] with notice.
 29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
 29-Nov-20 17:46  Falsifian deregisters sukil with notice.
 (time of last report)
@@ -129,5 +129,4 @@ Steve             zardoz37 at gmail.com                   2013 May
 [1] Also nchagora at protonmail.com.
 [2] Also known as Publius Scribonius Scholasticus.
 [3] Also known as Shel.
-[4] Also known as D Margaux.
-[5] Short for Baron von Vaderham.
+[4] Short for Baron von Vaderham.
