@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2020-12-04 (Fri)
-Date of this report: 2020-12-04 (Fri)
+Date of this report: 2020-12-13 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -15,7 +15,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Events (recent events section not self-ratifying)
 
-13-Sep-20 15:46  Falsifian transfers twg's talisman to emself.
 31-Oct-20 21:09  Falsifian flips the Publicity of Gio to Public.
 08-Nov-20 14:48  lucidiot registers.
 11-Nov-20 22:55  Shy Owl registers.
