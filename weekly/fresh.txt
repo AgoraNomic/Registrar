@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2020-12-19 (Sat)
-Date of this report: 2020-12-19 (Sat)
+Date of this report: 2020-12-27 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
