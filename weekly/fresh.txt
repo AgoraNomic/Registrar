@@ -34,45 +34,36 @@ Recent Events (recent events section not self-ratifying)
 29-Nov-20 17:46  Falsifian deregisters Baron v V [4] with notice.
 29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
 29-Nov-20 17:46  Falsifian deregisters sukil with notice.
+27-Dec-20 21:37  Falsifian transfers twg's talisman to Agora.
+27-Dec-20 21:37  Falsifian deregisters twg with notice.
 (time of last report)
 
 
-There are 18 Players. The below is a list of all players and also of all
+There are 17 Players. The below is a list of all players and also of all
 talismans (there is one talisman for each player).
 
-. Player             Contact                                 Registered
-. ------             -------                                 ----------
-. omd                comexk at gmail.com [0]                 03 Feb 11
-. Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
-. Gaelan             gbs at canishe.com                      15 May 17
-. G.                 kerim at uw.edu                         25 Aug 17
-. Cuddlebeam         cuddlebeam at gmail.com                 25 Aug 17
-. Trigon             reuben.staley at gmail.com              24 Sep 17
-. Murphy             emurphy42 at zoho.com                   17 Dec 17
-. ATMunn             iamingodsarmy at gmail.com              11 Mar 18
-. Falsifian          agora at falsifian.org                  13 Feb 19
-. Jason              jason.e.cobb at gmail.com               02 Jun 19
-. nix                nixnull+agora at protonmail.com [1]     18 Oct 19
-. P.S.S. [2]         p.scribonius.scholasticus at gmail.com  01 Mar 20
-. grok               grokagora at gmail.com                  20 May 20
-. R. Lee             edwardostrange at gmail.com             30-Jun-20
-. Nathan             nathans.agora.email at gmail.com        19-Aug-20
-. lucidiot           lucidiot 2t brainshit.fr                08-Nov-20
-. Shy Owl            shy.owlman at gmail.com                 11-Nov-20
-z twg                me at timon.red                         24 May 18
-
-z=zombie
+Player             Contact                                 Registered
+------             -------                                 ----------
+omd                comexk at gmail.com [0]                 03 Feb 11
+Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+Gaelan             gbs at canishe.com                      15 May 17
+G.                 kerim at uw.edu                         25 Aug 17
+Cuddlebeam         cuddlebeam at gmail.com                 25 Aug 17
+Trigon             reuben.staley at gmail.com              24 Sep 17
+Murphy             emurphy42 at zoho.com                   17 Dec 17
+ATMunn             iamingodsarmy at gmail.com              11 Mar 18
+Falsifian          agora at falsifian.org                  13 Feb 19
+Jason              jason.e.cobb at gmail.com               02 Jun 19
+nix                nixnull+agora at protonmail.com [1]     18 Oct 19
+P.S.S. [2]         p.scribonius.scholasticus at gmail.com  01 Mar 20
+grok               grokagora at gmail.com                  20 May 20
+R. Lee             edwardostrange at gmail.com             30-Jun-20
+Nathan             nathans.agora.email at gmail.com        19-Aug-20
+lucidiot           lucidiot 2t brainshit.fr                08-Nov-20
+Shy Owl            shy.owlman at gmail.com                 11-Nov-20
 
 
-Zombie masters and resale values (self-ratifying):
-                          Resale   Last owned        Due to flip
-Zombie         Master     value    by Agora          to Agora
-------         ------     -------  ---------------   ---------------
-twg            Falsifian  0        2020-09-13 15:46  2020-12-12 15:46
-
-The talisman of each player in the "Zombie" column above is owned by the
-player in the "Master" column in the same row. The talisman for each
-player not listed in the Zombie column is owned by that player.
+Every player currently owns eir own talisman.
 
 
 Fora (Rule 478, self-ratifying)
@@ -118,7 +109,6 @@ P.S.S. [2]         16 Apr 17
 omd                01 May 07
 grok               18 May 17
 Cuddlebeam         20 May 17
-twg                24 May 18
 Gaelan             27 May 15
 Jason              02 Jun 19
 R. Lee             07 Jun 17
