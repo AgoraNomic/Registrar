@@ -1,0 +1,151 @@
+------------------------------------------------------------------------
+                         The Agoran Directory
+------------------------------------------------------------------------
+
+Revised 1 time.
+
+This is a revision of the 2020-12-31 Registrar weekly report. It
+describes the state of the game at the time the original report was
+published, which is 2020-12-31 at 01:20 UTC.
+
+The only change is that the line "(time of last report)" in the Recent
+Events section is in a different place.
+
+
+Date of last report: 2020-12-27 (Sun)
+Date of this report: 2020-12-31 (Thu)
+(all times UTC)
+
+Archive of reports on the web: https://agoranomic.org/Registrar/
+
+
+Recent Events (recent events section not self-ratifying)
+
+31-Oct-20 21:09  Falsifian flips the Publicity of Gio to Public.
+08-Nov-20 14:48  lucidiot registers.
+11-Nov-20 22:55  Shy Owl registers.
+12-Nov-20 00:36  Jason transfers Tyler's talisman to Agora.
+12-Nov-20 00:36  Jason transfers Zyborg's talisman to Agora.
+12-Nov-20 00:36  Jason transfers Fred's talisman to Agora.
+12-Nov-20 00:36  Jason transfers Shelvacu [3]'s talisman to Agora.
+20-Nov-20 04:52  Falsifian deregisters Tyler with notice.
+20-Nov-20 04:52  Falsifian deregisters Zyborg with notice.
+20-Nov-20 04:52  Falsifian deregisters Fred with notice.
+20-Nov-20 04:52  Falsifian deregisters Shelvacu [3] with notice.
+29-Nov-20 17:46  Falsifian transfers D. Margaux's talisman to Agora.
+29-Nov-20 17:46  Falsifian transfers Baron v V [4]'s talisman to Agora.
+29-Nov-20 17:46  Falsifian transfers Telnaior's talisman to Agora.
+29-Nov-20 17:46  Falsifian transfers sukil's talisman to Agora.
+29-Nov-20 17:46  Falsifian deregisters D. Margaux with notice.
+29-Nov-20 17:46  Falsifian deregisters Baron v V [4] with notice.
+29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
+29-Nov-20 17:46  Falsifian deregisters sukil with notice.
+(time of last report)
+27-Dec-20 21:37  Falsifian transfers twg's talisman to Agora.
+27-Dec-20 21:37  Falsifian deregisters twg with notice.
+
+
+There are 17 Players. The below is a list of all players and also of all
+talismans (there is one talisman for each player).
+
+Player             Contact                                 Registered
+------             -------                                 ----------
+omd                comexk at gmail.com [0]                 03 Feb 11
+Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
+Gaelan             gbs at canishe.com                      15 May 17
+G.                 kerim at uw.edu                         25 Aug 17
+Cuddlebeam         cuddlebeam at gmail.com                 25 Aug 17
+Trigon             reuben.staley at gmail.com              24 Sep 17
+Murphy             emurphy42 at zoho.com                   17 Dec 17
+ATMunn             iamingodsarmy at gmail.com              11 Mar 18
+Falsifian          agora at falsifian.org                  13 Feb 19
+Jason              jason.e.cobb at gmail.com               02 Jun 19
+nix                nixnull+agora at protonmail.com [1]     18 Oct 19
+P.S.S. [2]         p.scribonius.scholasticus at gmail.com  01 Mar 20
+grok               grokagora at gmail.com                  20 May 20
+R. Lee             edwardostrange at gmail.com             30-Jun-20
+Nathan             nathans.agora.email at gmail.com        19-Aug-20
+lucidiot           lucidiot 2t brainshit.fr                08-Nov-20
+Shy Owl            shy.owlman at gmail.com                 11-Nov-20
+
+
+Every player currently owns eir own talisman.
+
+
+Fora (Rule 478, self-ratifying)
+
+Type         Location or description                 Typical use
+----         -----------------------                 -----------
+Public       agora-official at agoranomic.org        official reports
+Public       agora-business at agoranomic.org        other business
+Discussion   agora-discussion at agoranomic.org      discussion
+Discussion   irc://irc.freenode.net:6667/##nomic
+<https://webchat.freenode.net/?channels=%23%23nomic> discussion
+Foreign*     https://discord.gg/JCC6YGc              discussion
+Public       agora at listserver.tue.nl              backup
+Public       agoranomic at groups.io **              backup
+
+*Linked to the IRC discussion forum. Some players hang out here. No
+official status.
+
+**The forum is specifically just that email list. From the message that
+made it public: "Note that although groups.io provides many features
+besides email, the forum I am referring to is specifically the email
+list: if something doesn't get to Gio's subscribers by email, it wasn't
+sent via Gio.
+
+Subscribe or unsubscribe from main
+lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup
+list:http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.freenode.net, port 6667, channel ##nomic, and whatever
+nickname you like.
+
+
+Registrar's estimates of Players' first dates of registration, sorted by month
+and day. (Not self-ratifying; may be inaccurate.)
+
+Murphy             ? ("< 23 Jan 96" in Registrar's monthly report)
+G.                 04 Feb 01
+Falsifian          13 Feb 19
+P.S.S. [2]         16 Apr 17
+omd                01 May 07
+grok               18 May 17
+Cuddlebeam         20 May 17
+Gaelan             27 May 15
+Jason              02 Jun 19
+R. Lee             07 Jun 17
+nix                14 Aug 13
+Nathan             19 Aug 20
+Aris               13 Sep 16
+ATMunn             21 Sep 17
+Trigon             24 Sep 17
+lucidiot           08 Nov 20
+Shy Owl            11 Nov 20
+
+
+Watchers (6)
+
+The list of Watchers is not governed by the rules, but is
+traditionally maintained in the Registrar's Report.  If you'd like to
+be listed as a Watcher or removed from the list, feel free to email
+the fora or the Registrar directly.
+
+Nickname          Contact                                 Last confirmed
+--------          -------                                 --------------
+ais523            AIS523 at alumni.bham.ac.uk             2020 February
+Lykaina           mjbermanator at gmail.com               2019 September
+Ørjan             oerjan at nvg.ntnu.no                   2017 May
+Dave              davidnicol at gmail.com                 2013 May
+Phlogistique      noe.rubinstein at gmail.com             2013 May
+Steve             zardoz37 at gmail.com                   2013 May
+
+
+[0] officially, but technically equivalent c.ome.xk at gmail.com
+[1] Also nchagora at protonmail.com.
+[2] Also known as Publius Scribonius Scholasticus.
+[3] Also known as Shel.
+[4] Short for Baron von Vaderham.
