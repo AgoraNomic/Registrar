@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report:  4 Dec 2020
-Date of this report: 30 Dec 2020
+Date of this report:  4 Jan 2021
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
@@ -42,6 +42,7 @@ Recent Changes:
 29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
 29-Nov-20 17:46  Falsifian deregisters sukil with notice.
 27-Dec-20 21:37  Falsifian deregisters twg with notice.
+31-Dec-20 15:02  P.S.S. [1] deregisters.
 
 [1] also known as Publius Scribonius Scholasticus
 [2] Also known as Shel.
@@ -747,6 +748,9 @@ a Baron von Vaderham davidseeber at outlook.com       04 Feb 19   29 Nov 20
 a Telnaior           JDGA at iinet.net.au             21 Mar 20   29 Nov 20
 a sukil              sukiletxe+agora at gmail.com     12 Feb 20   29 Nov 20
 a twg                me at timon.red                  24 May 18   27 Dec 20
+v P.S.S. [3]         p.scribonius.scholasticus... [4] 01 Mar 20   31 Dec 20
 
 [1] Also known as Shel.
 [2] Also known as D Margaux.
+[3] also known as Publius Scribonius Scholasticus
+[4] p.scribonius.scholasticus at gmail.com

@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2020-12-31 (Thu)
-Date of this report: 2020-12-31 (Thu)
+Date of this report: 2021-01-04 (Mon)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -37,6 +37,8 @@ Recent Events (recent events section not self-ratifying)
 27-Dec-20 21:37  Falsifian transfers twg's talisman to Agora.
 27-Dec-20 21:37  Falsifian deregisters twg with notice.
 (time of last report)
+31-Dec-20 15:02  P.S.S. [2] deregisters.
+03-Jan-21 04:20  JTAC registers.
 
 
 There are 17 Players. The below is a list of all players and also of all
@@ -55,12 +57,12 @@ ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 Falsifian          agora at falsifian.org                  13 Feb 19
 Jason              jason.e.cobb at gmail.com               02 Jun 19
 nix                nixnull+agora at protonmail.com [1]     18 Oct 19
-P.S.S. [2]         p.scribonius.scholasticus at gmail.com  01 Mar 20
 grok               grokagora at gmail.com                  20 May 20
-R. Lee             edwardostrange at gmail.com             30-Jun-20
-Nathan             nathans.agora.email at gmail.com        19-Aug-20
-lucidiot           lucidiot 2t brainshit.fr                08-Nov-20
-Shy Owl            shy.owlman at gmail.com                 11-Nov-20
+R. Lee             edwardostrange at gmail.com             30 Jun 20
+Nathan             nathans.agora.email at gmail.com        19 Aug 20
+lucidiot           lucidiot 2t brainshit.fr                08 Nov 20
+Shy Owl            shy.owlman at gmail.com                 11 Nov 20
+JTAC               hmcl.supv at gmail.com                  03 Jan 21
 
 
 Every player currently owns eir own talisman.
@@ -102,10 +104,10 @@ nickname you like.
 Registrar's estimates of Players' first dates of registration, sorted by month
 and day. (Not self-ratifying; may be inaccurate.)
 
+JTAC               03 Jan 21
 Murphy             ? ("< 23 Jan 96" in Registrar's monthly report)
 G.                 04 Feb 01
 Falsifian          13 Feb 19
-P.S.S. [2]         16 Apr 17
 omd                01 May 07
 grok               18 May 17
 Cuddlebeam         20 May 17
