@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2021-01-06 (Wed)
+Date of last report: 2020-12-31 (Thu)
 Date of this report: 2021-01-06 (Wed)
 (all times UTC)
 
@@ -35,9 +32,9 @@ Recent Events (recent events section not self-ratifying)
 29-Nov-20 17:46  Falsifian deregisters sukil with notice.
 27-Dec-20 21:37  Falsifian transfers twg's talisman to Agora.
 27-Dec-20 21:37  Falsifian deregisters twg with notice.
+(time of last report)
 31-Dec-20 15:02  P.S.S. [2] deregisters.
 03-Jan-21 04:20  JTAC registers.
-(time of last report)
 
 
 There are 17 Players. The below is a list of all players and also of all
