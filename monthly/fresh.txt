@@ -6,17 +6,11 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report:  4 Dec 2020
-Date of this report:  4 Jan 2021
+Date of this report:  6 Jan 2021
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Changes:
-24-Aug-19 16:02  Falsifian deregisters L with notice.
-24-Aug-19 16:03  Falsifian deregisters Corona with notice.
-18-Sep-19 00:28  Proposal 8242 deregisters Hālian.
-22-Sep-19 20:34  Falsifian deregisters Telnaior with notice.
-22-Sep-19 20:34  Falsifian deregisters P.S.S. [1] with notice.
-19-Nov-19 04:32  Falsifian deregisters Jacob Arduino with notice.
 25-Jan-20 13:31  R. Lee deregisters.
 01-Mar-20 06:15  R. Lee deregistered (minimal gamestate modification due
                  to self-ratification of Registrar report)
