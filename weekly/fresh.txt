@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2020-12-31 (Thu)
-Date of this report: 2021-01-04 (Mon)
+Date of this report: 2021-01-06 (Wed)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -15,7 +15,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Events (recent events section not self-ratifying)
 
-31-Oct-20 21:09  Falsifian flips the Publicity of Gio to Public.
 08-Nov-20 14:48  lucidiot registers.
 11-Nov-20 22:55  Shy Owl registers.
 12-Nov-20 00:36  Jason transfers Tyler's talisman to Agora.
