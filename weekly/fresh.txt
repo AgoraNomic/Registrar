@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2021-01-06 (Wed)
-Date of this report: 2021-01-06 (Wed)
+Date of this report: 2021-01-13 (Wed)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -38,6 +38,7 @@ Recent Events (recent events section not self-ratifying)
 31-Dec-20 15:02  P.S.S. [2] deregisters.
 03-Jan-21 04:20  JTAC registers.
 (time of last report)
+10-Jan-21 08:19  Murphy changes email address
 
 
 There are 17 Players. The below is a list of all players and also of all
@@ -51,7 +52,7 @@ Gaelan             gbs at canishe.com                      15 May 17
 G.                 kerim at uw.edu                         25 Aug 17
 Cuddlebeam         cuddlebeam at gmail.com                 25 Aug 17
 Trigon             reuben.staley at gmail.com              24 Sep 17
-Murphy             emurphy42 at zoho.com                   17 Dec 17
+Murphy             murphy.agora at gmail.com [5]           17 Dec 17
 ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 Falsifian          agora at falsifian.org                  13 Feb 19
 Jason              jason.e.cobb at gmail.com               02 Jun 19
@@ -59,7 +60,7 @@ nix                nixnull+agora at protonmail.com [1]     18 Oct 19
 grok               grokagora at gmail.com                  20 May 20
 R. Lee             edwardostrange at gmail.com             30 Jun 20
 Nathan             nathans.agora.email at gmail.com        19 Aug 20
-lucidiot           lucidiot 2t brainshit.fr                08 Nov 20
+lucidiot           lucidiot at brainshit.fr                08 Nov 20
 Shy Owl            shy.owlman at gmail.com                 11 Nov 20
 JTAC               hmcl.supv at gmail.com                  03 Jan 21
 
@@ -144,3 +145,4 @@ Steve             zardoz37 at gmail.com                   2013 May
 [2] Also known as Publius Scribonius Scholasticus.
 [3] Also known as Shel.
 [4] Short for Baron von Vaderham.
+[5] Previously emurphy42 at zoho.com.
