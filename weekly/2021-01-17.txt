@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2021-01-17 (Sun)
+Date of last report: 2021-01-06 (Wed)
 Date of this report: 2021-01-17 (Sun)
 (all times UTC)
 
@@ -37,10 +34,10 @@ Recent Events (recent events section not self-ratifying)
 27-Dec-20 21:37  Falsifian deregisters twg with notice.
 31-Dec-20 15:02  P.S.S. [2] deregisters.
 03-Jan-21 04:20  JTAC registers.
+(time of last report)
 10-Jan-21 08:19  Murphy changes email address
 11-Jan-21 16:43  Ubercrow registers.
 14-Jan-21 02:31  Noah registers.
-(time of last report)
 
 
 There are 19 Players. The below is a list of all players and also of all
