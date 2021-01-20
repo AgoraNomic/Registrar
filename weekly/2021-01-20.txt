@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2021-01-20 (Wed)
+Date of last report: 2021-01-17 (Sun)
 Date of this report: 2021-01-20 (Wed)
 (all times UTC)
 
@@ -30,8 +27,8 @@ Recent Events (recent events section not self-ratifying)
 10-Jan-21 08:19  Murphy changes email address
 11-Jan-21 16:43  Ubercrow registers.
 14-Jan-21 02:31  Noah registers.
-19-Jan-21 19:53  Slam_Joe_Jr_Supreme registers.
 (time of last report)
+19-Jan-21 19:53  Slam_Joe_Jr_Supreme registers.
 
 
 There are 20 Players. The below is a list of all players and also of all
