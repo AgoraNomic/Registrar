@@ -15,22 +15,12 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Events (recent events section not self-ratifying)
 
-08-Nov-20 14:48  lucidiot registers.
-11-Nov-20 22:55  Shy Owl registers.
-12-Nov-20 00:36  Jason transfers Tyler's talisman to Agora.
-12-Nov-20 00:36  Jason transfers Zyborg's talisman to Agora.
-12-Nov-20 00:36  Jason transfers Fred's talisman to Agora.
-12-Nov-20 00:36  Jason transfers Shelvacu [3]'s talisman to Agora.
-20-Nov-20 04:52  Falsifian deregisters Tyler with notice.
-20-Nov-20 04:52  Falsifian deregisters Zyborg with notice.
-20-Nov-20 04:52  Falsifian deregisters Fred with notice.
-20-Nov-20 04:52  Falsifian deregisters Shelvacu [3] with notice.
 29-Nov-20 17:46  Falsifian transfers D. Margaux's talisman to Agora.
-29-Nov-20 17:46  Falsifian transfers Baron v V [4]'s talisman to Agora.
+29-Nov-20 17:46  Falsifian transfers Baron v V [3]'s talisman to Agora.
 29-Nov-20 17:46  Falsifian transfers Telnaior's talisman to Agora.
 29-Nov-20 17:46  Falsifian transfers sukil's talisman to Agora.
 29-Nov-20 17:46  Falsifian deregisters D. Margaux with notice.
-29-Nov-20 17:46  Falsifian deregisters Baron v V [4] with notice.
+29-Nov-20 17:46  Falsifian deregisters Baron v V [3] with notice.
 29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
 29-Nov-20 17:46  Falsifian deregisters sukil with notice.
 27-Dec-20 21:37  Falsifian transfers twg's talisman to Agora.
@@ -55,7 +45,7 @@ Gaelan             gbs at canishe.com                      15 May 17
 G.                 kerim at uw.edu                         25 Aug 17
 Cuddlebeam         cuddlebeam at gmail.com                 25 Aug 17
 Trigon             reuben.staley at gmail.com              24 Sep 17
-Murphy             murphy.agora at gmail.com [5]           17 Dec 17
+Murphy             murphy.agora at gmail.com [4]           17 Dec 17
 ATMunn             iamingodsarmy at gmail.com              11 Mar 18
 Falsifian          agora at falsifian.org                  13 Feb 19
 Jason              jason.e.cobb at gmail.com               02 Jun 19
@@ -152,6 +142,5 @@ Steve             zardoz37 at gmail.com                   2013 May
 [0] officially, but technically equivalent c.ome.xk at gmail.com
 [1] Also nchagora at protonmail.com.
 [2] Also known as Publius Scribonius Scholasticus.
-[3] Also known as Shel.
-[4] Short for Baron von Vaderham.
-[5] Previously emurphy42 at zoho.com.
+[3] Short for Baron von Vaderham.
+[4] Previously emurphy42 at zoho.com.
