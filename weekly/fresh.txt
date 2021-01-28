@@ -13,7 +13,8 @@ Date of this report: 2021-01-20 (Wed)
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 
-Recent Events (recent events section not self-ratifying)
+Recent events
+=============
 
 29-Nov-20 17:46  Falsifian transfers D. Margaux's talisman to Agora.
 29-Nov-20 17:46  Falsifian transfers Baron v V [3]'s talisman to Agora.
@@ -34,40 +35,77 @@ Recent Events (recent events section not self-ratifying)
 (time of last report)
 
 
+Players, registration dates, and talismans
+==========================================
+
+The following information from this section is self-ratifying:
+- The value of each person's Citizenship switch (implied by player status).
+- Talisman ownership.
+
 There are 20 Players. The below is a list of all players and also of all
-talismans (there is one talisman for each player).
+talismans. There is one talisman for each player, and every player currently
+owns eir own talisman.
 
-Player             Contact                                 Registered
-------             -------                                 ----------
-omd                comexk at gmail.com [0]                 03 Feb 11
-Aris               thoughtsoflifeandlight17 at gmail.com   13 Sep 16
-Gaelan             gbs at canishe.com                      15 May 17
-G.                 kerim at uw.edu                         25 Aug 17
-Cuddlebeam         cuddlebeam at gmail.com                 25 Aug 17
-Trigon             reuben.staley at gmail.com              24 Sep 17
-Murphy             murphy.agora at gmail.com [4]           17 Dec 17
-ATMunn             iamingodsarmy at gmail.com              11 Mar 18
-Falsifian          agora at falsifian.org                  13 Feb 19
-Jason              jason.e.cobb at gmail.com               02 Jun 19
-nix                nixnull+agora at protonmail.com [1]     18 Oct 19
-grok               grokagora at gmail.com                  20 May 20
-R. Lee             edwardostrange at gmail.com             30 Jun 20
-Nathan             nathans.agora.email at gmail.com        19 Aug 20
-lucidiot           lucidiot at brainshit.fr                08 Nov 20
-Shy Owl            shy.owlman at gmail.com                 11 Nov 20
-JTAC               hmcl.supv at gmail.com                  03 Jan 21
-Ubercrow           unicationsmith2009 at gmail.com         11 Jan 21
-Noah               blackbeangirl919@gmail.com              14 Jan 21
-Slam_Joe_Jr_Supreme  arran.soule at gmail.com              19 Jan 21
-
-
-Every player currently owns eir own talisman.
+Player               Registered
+------               ----------
+omd                  03 Feb 11
+Aris                 13 Sep 16
+Gaelan               15 May 17
+G.                   25 Aug 17
+Cuddlebeam           25 Aug 17
+Trigon               24 Sep 17
+Murphy               17 Dec 17
+ATMunn               11 Mar 18
+Falsifian            13 Feb 19
+Jason                02 Jun 19
+nix                  18 Oct 19
+grok                 20 May 20
+R. Lee               30 Jun 20
+Nathan               19 Aug 20
+lucidiot             08 Nov 20
+Shy Owl              11 Nov 20
+JTAC                 03 Jan 21
+Ubercrow             11 Jan 21
+Noah                 14 Jan 21
+Slam_Joe_Jr_Supreme  19 Jan 21
 
 
-Fora (Rule 478, self-ratifying)
+Contact information
+===================
 
-Type         Location or description                 Typical use
-----         -----------------------                 -----------
+(Required by rule 2139.)
+
+Player               Contact
+------               -------
+omd                  comexk at gmail.com [0]
+Aris                 thoughtsoflifeandlight17 at gmail.com
+Gaelan               gbs at canishe.com
+G.                   kerim at uw.edu
+Cuddlebeam           cuddlebeam at gmail.com
+Trigon               reuben.staley at gmail.com
+Murphy               murphy.agora at gmail.com [4]
+ATMunn               iamingodsarmy at gmail.com
+Falsifian            agora at falsifian.org
+Jason                jason.e.cobb at gmail.com
+nix                  nixnull+agora at protonmail.com [1]
+grok                 grokagora at gmail.com
+R. Lee               edwardostrange at gmail.com
+Nathan               nathans.agora.email at gmail.com
+lucidiot             lucidiot at brainshit.fr
+Shy Owl              shy.owlman at gmail.com
+JTAC                 hmcl.supv at gmail.com
+Ubercrow             unicationsmith2009 at gmail.com
+Noah                 blackbeangirl919@gmail.com
+Slam_Joe_Jr_Supreme  arran.soule at gmail.com
+
+
+Fora
+====
+
+The publicity switch values (Rule 478) are self-ratifying.
+
+Publicity    Location or description                 Typical use
+---------    -----------------------                 -----------
 Public       agora-official at agoranomic.org        official reports
 Public       agora-business at agoranomic.org        other business
 Discussion   agora-discussion at agoranomic.org      discussion
@@ -97,8 +135,13 @@ server irc.freenode.net, port 6667, channel ##nomic, and whatever
 nickname you like.
 
 
+Birthdays
+=========
+
 Registrar's estimates of Players' first dates of registration, sorted by month
-and day. (Not self-ratifying; may be inaccurate.)
+and day.
+
+This section is (not self-ratifying and may be inaccurate.
 
 JTAC               03 Jan 21
 Ubercrow           11 Jan 21
@@ -122,7 +165,10 @@ lucidiot           08 Nov 20
 Shy Owl            11 Nov 20
 
 
-Watchers (6)
+Watchers
+========
+
+There are 6 watches.
 
 The list of Watchers is not governed by the rules, but is
 traditionally maintained in the Registrar's Report.  If you'd like to
