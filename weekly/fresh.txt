@@ -31,7 +31,7 @@ Recent events
 10-Jan-21 08:19  Murphy changes email address
 11-Jan-21 16:43  Ubercrow registers.
 14-Jan-21 02:31  Noah registers.
-19-Jan-21 19:53  Slam_Joe_Jr_Supreme registers.
+19-Jan-21 19:53  Slam_Joe_Jr_Supreme registers. (Joe for short.)
 (time of last report)
 
 
@@ -46,8 +46,8 @@ There are 20 Players. The below is a list of all players and also of all
 talismans. There is one talisman for each player, and every player currently
 owns eir own talisman.
 
-Player               Registered
-------               ----------
+Player               Registered  Notes
+------               ----------  -----
 omd                  03 Feb 11
 Aris                 13 Sep 16
 Gaelan               15 May 17
@@ -67,7 +67,7 @@ Shy Owl              11 Nov 20
 JTAC                 03 Jan 21
 Ubercrow             11 Jan 21
 Noah                 14 Jan 21
-Slam_Joe_Jr_Supreme  19 Jan 21
+Slam_Joe_Jr_Supreme  19 Jan 21  Joe for short
 
 
 Contact information
