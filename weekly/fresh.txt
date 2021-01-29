@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2021-01-20 (Wed)
-Date of this report: 2021-01-20 (Wed)
+Date of this report: 2021-01-29 (Fri)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -33,6 +33,7 @@ Recent events
 14-Jan-21 02:31  Noah registers.
 19-Jan-21 19:53  Slam_Joe_Jr_Supreme registers. (Joe for short.)
 (time of last report)
+28-Jan-21 07:16  R. Lee changes email address
 
 
 Players, registration dates, and talismans
@@ -89,7 +90,7 @@ Falsifian            agora at falsifian.org
 Jason                jason.e.cobb at gmail.com
 nix                  nixnull+agora at protonmail.com [1]
 grok                 grokagora at gmail.com
-R. Lee               edwardostrange at gmail.com
+R. Lee               SarahEstrange0@gmail.com
 Nathan               nathans.agora.email at gmail.com
 lucidiot             lucidiot at brainshit.fr
 Shy Owl              shy.owlman at gmail.com
@@ -190,3 +191,4 @@ Steve             zardoz37 at gmail.com                   2013 May
 [2] Also known as Publius Scribonius Scholasticus.
 [3] Short for Baron von Vaderham.
 [4] Previously emurphy42 at zoho.com.
+[5] Previously edwardostrange at gmail.com.

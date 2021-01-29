@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report:  6 Jan 2021
-Date of this report:  6 Jan 2021
+Date of this report: 29 Jan 2021
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
@@ -700,26 +700,27 @@ a pokes              pokes at botnoise.org            11 Dec 17   03 Feb 19
 a nichdel [2]        nichdel at gmail.com             29 Jun 17   24 May 19
 a Tarhalindur        ahzin23 at icstudents.org        31 Oct 18   13 Jul 19
 v nch [2]            nichdel at gmail.com             14 Jul 19   25 Jul 19
-v R. Lee [3]         edwardostrange at gmail.com      29 Dec 17   29 Jul 19
+v R. Lee [3]         edwardostrange at gmail.com [4]  29 Dec 17   29 Jul 19
 a L                  prmcd16 at yahoo.com             20 Sep 18   24 Aug 19
 a Corona             liliumalbum.agora at gmail.com   17 Nov 17   24 Aug 19
 p Hālian             halian at safiria.net            20 Oct 18   18 Sep 19
 a Telnaior           jdga at iinet.net.au             29 Jan 19   22 Sep 19
-a P.S.S. [4]  pscriboniusscholasticus at gmail.com[5] 16 Apr 17   22 Sep 19
+a P.S.S. [5]  pscriboniusscholasticus at gmail.com[6] 16 Apr 17   22 Sep 19
 a Jacob Arduino      jacobarduino at gmail.com        12 Nov 18   19 Nov 19
 
 [1] Alternative/transliteration: Tenhigitsune
 [2] known as nichdel, nch, then later (in 2020) nix
 [3] also known as V.J. Rada
-[4] also known as Publius Scribonius Scholasticus
-[5] officially, but technically equivalent:
+[4] Later changed to SarahEstrange0@gmail.com.
+[5] also known as Publius Scribonius Scholasticus
+[6] officially, but technically equivalent:
     p.scribonius.scholasticusatgooglemail.com
 
 
 Left in 2020:
 
-v R. Lee             edwardostrange at gmail.com      29 Dec 19   25 Jan 20
-r R. Lee             edwardostrange at gmail.com      28 Feb 20   01 Mar 20
+v R. Lee             edwardostrange at gmail.com [1]  29 Dec 19   25 Jan 20
+r R. Lee             edwardostrange at gmail.com [1]  28 Feb 20   01 Mar 20
 a o                  owen at grimoire.ca              23 May 19   09 Apr 20
 a Walker             charles.w.walker at gmail.com    02 Jun 19   17 Apr 20
 w Warrigal           tannerswett at gmail.com         24 Jan 20   23 Apr 20
@@ -728,23 +729,24 @@ a Rance              rance_28 at yahoo.com            09 Apr 19   23 Apr 20
 v Alexis             alercah at gmail.com             06 Jan 20   03 May 20
 a pikhq              agora at ada.pikhq.com           20 Oct 19   30 May 20
 v Bögtil             stefan.fjellander at gmail.com   22 May 20   20 Jun 20
-x R. Lee             edwardostrange at gmail.com      16 Mar 20   30 Jun 20
-x R. Lee (55 times)  edwardostrange at gmail.com      30 Jun 20   30 Jun 20
+x R. Lee             edwardostrange at gmail.com [1]  16 Mar 20   30 Jun 20
+x R. Lee (55 times)  edwardostrange at gmail.com [1]  30 Jun 20   30 Jun 20
 (The previous two lines represent 56 total deregistrations of R. Lee.)
 a Tcbapo             tcbapoagora at gmail.com         28 Jan 20   12 Jul 20
 a Tyler              tylermeady at gmail.com          06 Jun 20   20 Nov 20
 a Zyborg             zyborgmao at gmail.com           21 Jun 20   20 Nov 20
 a Fred               zarathustraincandenza at
                          gmail.com                    03-Jul-20   20 Nov 20
-a Shelvacu [1]       agora at shelvacu.com            08-Aug-20   20 Nov 20
-a D. Margaux [2]     dmargaux000 at gmail.com         25 Aug 18   29 Nov 20
+a Shelvacu [2]       agora at shelvacu.com            08-Aug-20   20 Nov 20
+a D. Margaux [3]     dmargaux000 at gmail.com         25 Aug 18   29 Nov 20
 a Baron von Vaderham davidseeber at outlook.com       04 Feb 19   29 Nov 20
 a Telnaior           JDGA at iinet.net.au             21 Mar 20   29 Nov 20
 a sukil              sukiletxe+agora at gmail.com     12 Feb 20   29 Nov 20
 a twg                me at timon.red                  24 May 18   27 Dec 20
-v P.S.S. [3]         p.scribonius.scholasticus... [4] 01 Mar 20   31 Dec 20
+v P.S.S. [4]         p.scribonius.scholasticus... [5] 01 Mar 20   31 Dec 20
 
-[1] Also known as Shel.
-[2] Also known as D Margaux.
-[3] also known as Publius Scribonius Scholasticus
-[4] p.scribonius.scholasticus at gmail.com
+[1] Later changed to SarahEstrange0@gmail.com.
+[2] Also known as Shel.
+[3] Also known as D Margaux.
+[4] also known as Publius Scribonius Scholasticus
+[5] p.scribonius.scholasticus at gmail.com
