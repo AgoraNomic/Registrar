@@ -161,7 +161,7 @@ Shy Owl            11 Nov 20
 Watchers
 ========
 
-There are 6 watches.
+There are 6 watchers.
 
 The list of Watchers is not governed by the rules, but is
 traditionally maintained in the Registrar's Report.  If you'd like to
