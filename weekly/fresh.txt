@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2021-01-20 (Wed)
-Date of this report: 2021-01-29 (Fri)
+Date of this report: 2021-01-31 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -16,17 +16,9 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 Recent events
 =============
 
-29-Nov-20 17:46  Falsifian transfers D. Margaux's talisman to Agora.
-29-Nov-20 17:46  Falsifian transfers Baron v V [3]'s talisman to Agora.
-29-Nov-20 17:46  Falsifian transfers Telnaior's talisman to Agora.
-29-Nov-20 17:46  Falsifian transfers sukil's talisman to Agora.
-29-Nov-20 17:46  Falsifian deregisters D. Margaux with notice.
-29-Nov-20 17:46  Falsifian deregisters Baron v V [3] with notice.
-29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
-29-Nov-20 17:46  Falsifian deregisters sukil with notice.
 27-Dec-20 21:37  Falsifian transfers twg's talisman to Agora.
 27-Dec-20 21:37  Falsifian deregisters twg with notice.
-31-Dec-20 15:02  P.S.S. [2] deregisters.
+31-Dec-20 15:02  P.S.S. [0] deregisters.
 03-Jan-21 04:20  JTAC registers.
 10-Jan-21 08:19  Murphy changes email address
 11-Jan-21 16:43  Ubercrow registers.
@@ -78,19 +70,19 @@ Contact information
 
 Player               Contact
 ------               -------
-omd                  comexk at gmail.com [0]
+omd                  comexk at gmail.com [1]
 Aris                 thoughtsoflifeandlight17 at gmail.com
 Gaelan               gbs at canishe.com
 G.                   kerim at uw.edu
 Cuddlebeam           cuddlebeam at gmail.com
 Trigon               reuben.staley at gmail.com
-Murphy               murphy.agora at gmail.com [4]
+Murphy               murphy.agora at gmail.com [2]
 ATMunn               iamingodsarmy at gmail.com
 Falsifian            agora at falsifian.org
 Jason                jason.e.cobb at gmail.com
-nix                  nixnull+agora at protonmail.com [1]
+nix                  nixnull+agora at protonmail.com [3]
 grok                 grokagora at gmail.com
-R. Lee               SarahEstrange0@gmail.com [5]
+R. Lee               SarahEstrange0 at gmail.com [4]
 Nathan               nathans.agora.email at gmail.com
 lucidiot             lucidiot at brainshit.fr
 Shy Owl              shy.owlman at gmail.com
@@ -186,9 +178,8 @@ Phlogistique      noe.rubinstein at gmail.com             2013 May
 Steve             zardoz37 at gmail.com                   2013 May
 
 
-[0] officially, but technically equivalent c.ome.xk at gmail.com
-[1] Also nchagora at protonmail.com.
-[2] Also known as Publius Scribonius Scholasticus.
-[3] Short for Baron von Vaderham.
-[4] Previously emurphy42 at zoho.com.
-[5] Previously edwardostrange at gmail.com.
+[0] Also known as Publius Scribonius Scholasticus.
+[1] officially, but technically equivalent c.ome.xk at gmail.com
+[2] Previously emurphy42 at zoho.com.
+[3] Also nchagora at protonmail.com.
+[4] Previously edwardostrange at gmail.com.
