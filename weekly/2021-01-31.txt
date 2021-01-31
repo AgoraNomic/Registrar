@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2021-01-31 (Sun)
+Date of last report: 2021-01-20 (Wed)
 Date of this report: 2021-01-31 (Sun)
 (all times UTC)
 
@@ -24,8 +21,8 @@ Recent events
 11-Jan-21 16:43  Ubercrow registers.
 14-Jan-21 02:31  Noah registers.
 19-Jan-21 19:53  Slam_Joe_Jr_Supreme registers. (Joe for short.)
-28-Jan-21 07:16  R. Lee changes email address
 (time of last report)
+28-Jan-21 07:16  R. Lee changes email address
 
 
 Players, registration dates, and talismans

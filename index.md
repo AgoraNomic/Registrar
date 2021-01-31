@@ -1,6 +1,6 @@
 Registrar's Report Archive:
 
-[Latest weekly report](weekly/2021-01-20.txt)
+[Latest weekly report](weekly/2021-01-31.txt)
 
 [Unofficial fresher weekly report](weekly/fresh.txt)
 
@@ -10,6 +10,7 @@ Registrar's Report Archive:
 
 List of weekly reports:
 
+* [2021-01-31.txt](weekly/2021-01-31.txt)
 * [2021-01-20.txt](weekly/2021-01-20.txt)
 * [2021-01-17.txt](weekly/2021-01-17.txt)
 * [2021-01-06.txt](weekly/2021-01-06.txt)
