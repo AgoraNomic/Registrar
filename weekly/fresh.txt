@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2021-01-31 (Sun)
-Date of this report: 2021-01-31 (Sun)
+Date of this report: 2021-01-03 (Wed)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -26,41 +26,44 @@ Recent events
 19-Jan-21 19:53  Slam_Joe_Jr_Supreme registers. (Joe for short.)
 28-Jan-21 07:16  R. Lee changes email address
 (time of last report)
+03-Feb-21 01:07  Proposal 8532 adopted: zombies replaced with activity.
 
 
-Players, registration dates, and talismans
-==========================================
+Players, activity, and registration dates
+=========================================
 
 The following information from this section is self-ratifying:
-- The value of each person's Citizenship switch (implied by player status).
-- Talisman ownership.
+- The value of each instance of the Citizenship switch (implied by the
+  list of players).
+- The value of each instance of the Activity switch.
 
-There are 20 Players. The below is a list of all players and also of all
-talismans. There is one talisman for each player, and every player currently
-owns eir own talisman.
+The value of every person's Citizenship switch (implied by whether e is
+listed in the below table) is self-ratifying.
 
-Player               Registered  Notes
-------               ----------  -----
-omd                  03 Feb 11
-Aris                 13 Sep 16
-Gaelan               15 May 17
-G.                   25 Aug 17
-Cuddlebeam           25 Aug 17
-Trigon               24 Sep 17
-Murphy               17 Dec 17
-ATMunn               11 Mar 18
-Falsifian            13 Feb 19
-Jason                02 Jun 19
-nix                  18 Oct 19
-grok                 20 May 20
-R. Lee               30 Jun 20
-Nathan               19 Aug 20
-lucidiot             08 Nov 20
-Shy Owl              11 Nov 20
-JTAC                 03 Jan 21
-Ubercrow             11 Jan 21
-Noah                 14 Jan 21
-Slam_Joe_Jr_Supreme  19 Jan 21  Joe for short
+There are 20 Players. The below is a list of all players.
+
+Player               Registered  Activity [last changed]  Notes
+------               ----------  -----------------------  -----
+omd                  03 Feb 11   Active   [03 Feb 21]
+Aris                 13 Sep 16   Active   [03 Feb 21]
+Gaelan               15 May 17   Active   [03 Feb 21]
+G.                   25 Aug 17   Active   [03 Feb 21]
+Cuddlebeam           25 Aug 17   Active   [03 Feb 21]
+Trigon               24 Sep 17   Active   [03 Feb 21]
+Murphy               17 Dec 17   Active   [03 Feb 21]
+ATMunn               11 Mar 18   Active   [03 Feb 21]
+Falsifian            13 Feb 19   Active   [03 Feb 21]
+Jason                02 Jun 19   Active   [03 Feb 21]
+nix                  18 Oct 19   Active   [03 Feb 21]
+grok                 20 May 20   Active   [03 Feb 21]
+R. Lee               30 Jun 20   Active   [03 Feb 21]
+Nathan               19 Aug 20   Active   [03 Feb 21]
+lucidiot             08 Nov 20   Active   [03 Feb 21]
+Shy Owl              11 Nov 20   Active   [03 Feb 21]
+JTAC                 03 Jan 21   Active   [03 Feb 21]
+Ubercrow             11 Jan 21   Active   [03 Feb 21]
+Noah                 14 Jan 21   Active   [03 Feb 21]
+Slam_Joe_Jr_Supreme  19 Jan 21   Active   [03 Feb 21]     Joe for short
 
 
 Contact information
