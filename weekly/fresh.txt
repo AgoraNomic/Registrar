@@ -37,9 +37,6 @@ The following information from this section is self-ratifying:
   list of players).
 - The value of each instance of the Activity switch.
 
-The value of every person's Citizenship switch (implied by whether e is
-listed in the below table) is self-ratifying.
-
 There are 20 Players. The below is a list of all players.
 
 Player               Registered  Activity [last changed]  Notes
