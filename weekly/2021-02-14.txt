@@ -1,12 +1,9 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2021-02-14 (Sun)
+Date of last report: 2021-02-03 (Wed)
 Date of this report: 2021-02-14 (Sun)
 (all times UTC)
 
@@ -25,11 +22,11 @@ Recent events
 14-Jan-21 02:31  Noah registers.
 19-Jan-21 19:53  Slam_Joe_Jr_Supreme registers. (Joe for short.)
 28-Jan-21 07:16  R. Lee changes email address
+(time of last report)
 03-Feb-21 01:07  Proposal 8532 adopted: zombies replaced with activity.
 14-Feb-21 03:48  Falsifian deactivates grok with notice.
 14-Feb-21 03:48  Falsifian deactivates Nathan with notice.
 14-Feb-21 03:48  Falsifian deactivates Shy Owl with notice.
-(time of last report)
 
 
 Players, activity, and registration dates
