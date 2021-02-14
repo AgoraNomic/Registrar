@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2021-02-03 (Wed)
-Date of this report: 2021-02-03 (Wed)
+Date of this report: 2021-02-14 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -27,6 +27,9 @@ Recent events
 28-Jan-21 07:16  R. Lee changes email address
 (time of last report)
 03-Feb-21 01:07  Proposal 8532 adopted: zombies replaced with activity.
+14-Feb-21 03:48  Falsifian deactivates grok with notice.
+14-Feb-21 03:48  Falsifian deactivates Nathan with notice.
+14-Feb-21 03:48  Falsifian deactivates Shy Owl with notice.
 
 
 Players, activity, and registration dates
@@ -52,15 +55,15 @@ ATMunn               11 Mar 18   Active   [03 Feb 21]
 Falsifian            13 Feb 19   Active   [03 Feb 21]
 Jason                02 Jun 19   Active   [03 Feb 21]
 nix                  18 Oct 19   Active   [03 Feb 21]
-grok                 20 May 20   Active   [03 Feb 21]
 R. Lee               30 Jun 20   Active   [03 Feb 21]
-Nathan               19 Aug 20   Active   [03 Feb 21]
 lucidiot             08 Nov 20   Active   [03 Feb 21]
-Shy Owl              11 Nov 20   Active   [03 Feb 21]
 JTAC                 03 Jan 21   Active   [03 Feb 21]
 Ubercrow             11 Jan 21   Active   [03 Feb 21]
 Noah                 14 Jan 21   Active   [03 Feb 21]
 Slam_Joe_Jr_Supreme  19 Jan 21   Active   [03 Feb 21]     Joe for short
+grok                 20 May 20   Inactive [14 Feb 21]
+Nathan               19 Aug 20   Inactive [14 Feb 21]
+Shy Owl              11 Nov 20   Inactive [14 Feb 21]
 
 
 Contact information
