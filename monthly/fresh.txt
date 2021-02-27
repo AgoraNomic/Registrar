@@ -6,7 +6,7 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report:  6 Jan 2021
-Date of this report: 29 Jan 2021
+Date of this report: 27 Feb 2021
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
@@ -77,26 +77,29 @@ e(x)iled
 
 Left in 1994:
 
-u Alexx               alexx at world.std.com                       5 Apr 94
-u Andy Latto          andyl at harlequin.com                       5 Apr 94
-u Douglas Jahnke      chaotic at ksuvm.ksu.edu                     5 Apr 94
-u Jim                 jcs at zycor.lgc.com                         5 Apr 94
-u Karl Anderson       karl at reed.edu                             5 Apr 94
-u Kirt                dankmyer at ac.grin.edu                      5 Apr 94
-u Matt                pardo at gibbs.oit.unc.edu                   5 Apr 94
-v Waggie              dgwagner at math.uwaterloo.ca                5 Apr 94
-u Wes                 wesc at ichips.intel.com                     5 Apr 94
-u Timothy             timothy.ferguson at jcu.edu.au              12 Sep 94
-u Chuck               ccarroll at students.wisc.edu                5 Apr 94
-u Dave Bowen          david.bowen at cray.com                      5 Apr 94
-u Nicol               dnicol at primus.cstp.umkc.edu               5 Apr 94
-u Lance               lab at biostat.mc.duke.edu                   5 Apr 94
-u Stella?             kunne at cernvm.cern.ch                      5 Apr 94
-u Alice               cat at orion.mrc.unm.edu                     5 Apr 94
-u Duane               duanew at atlas.com                          5 Apr 94
-u Eric Scheirer       escheire at cim470.mitre.org                 5 Apr 94
-u Gustalff Zibrowski  clarkc at cpsc.ucalgary.ca                   5 Apr 94
-u Larry Smithmier     smithmierjr at uamont.edu                    5 Apr 94
+(There's some discussion of this section's dates in a February 2021 thread in
+agora-discussion with subject "[Registrar] Monthly Report".)
+
+u Alexx               alexx at world.std.com                    <= 5 Apr 94
+u Andy Latto          andyl at harlequin.com                    <= 5 Apr 94
+u Douglas Jahnke      chaotic at ksuvm.ksu.edu                  <= 5 Apr 94
+u Jim                 jcs at zycor.lgc.com                      <= 5 Apr 94
+u Karl Anderson       karl at reed.edu                          <= 5 Apr 94
+u Kirt                dankmyer at ac.grin.edu                   <= 5 Apr 94
+u Matt                pardo at gibbs.oit.unc.edu                <= 5 Apr 94
+v Waggie              dgwagner at math.uwaterloo.ca             <= 5 Apr 94
+u Wes                 wesc at ichips.intel.com                  <= 5 Apr 94
+u Timothy             timothy.ferguson at jcu.edu.au            <=12 Sep 94
+u Chuck               ccarroll at students.wisc.edu             <= 5 Apr 94
+u Dave Bowen          david.bowen at cray.com                   <= 5 Apr 94
+u Nicol               dnicol at primus.cstp.umkc.edu            <= 5 Apr 94
+u Lance               lab at biostat.mc.duke.edu                <= 5 Apr 94
+u Stella?             kunne at cernvm.cern.ch                   <= 5 Apr 94
+u Alice               cat at orion.mrc.unm.edu                  <= 5 Apr 94
+u Duane               duanew at atlas.com                       <= 5 Apr 94
+u Eric Scheirer       escheire at cim470.mitre.org              <= 5 Apr 94
+u Gustalff Zibrowski  clarkc at cpsc.ucalgary.ca                <= 5 Apr 94
+u Larry Smithmier     smithmierjr at uamont.edu                 <= 5 Apr 94
 
 Left in 1995:
 u Jason2                                                                 95
