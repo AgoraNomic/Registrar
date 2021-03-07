@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2021-02-27 (Sat)
-Date of this report: 2021-02-27 (Sat)
+Date of this report: 2021-03-07 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -16,9 +16,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 Recent events
 =============
 
-27-Dec-20 21:37  Falsifian transfers twg's talisman to Agora.
-27-Dec-20 21:37  Falsifian deregisters twg with notice.
-31-Dec-20 15:02  P.S.S. [0] deregisters.
 03-Jan-21 04:20  JTAC registers.
 10-Jan-21 08:19  Murphy changes email address
 11-Jan-21 16:43  Ubercrow registers.
@@ -73,19 +70,19 @@ Contact information
 
 Player               Contact
 ------               -------
-omd                  comexk at gmail.com [1]
+omd                  comexk at gmail.com [0]
 Aris                 thoughtsoflifeandlight17 at gmail.com
 Gaelan               gbs at canishe.com
 G.                   kerim at uw.edu
 Cuddlebeam           cuddlebeam at gmail.com
 Trigon               reuben.staley at gmail.com
-Murphy               murphy.agora at gmail.com [2]
+Murphy               murphy.agora at gmail.com [1]
 ATMunn               iamingodsarmy at gmail.com
 Falsifian            agora at falsifian.org
 Jason                jason.e.cobb at gmail.com
-nix                  nixnull+agora at protonmail.com [3]
+nix                  nixnull+agora at protonmail.com [2]
 grok                 grokagora at gmail.com
-R. Lee               SarahEstrange0 at gmail.com [4]
+R. Lee               SarahEstrange0 at gmail.com [3]
 Nathan               nathans.agora.email at gmail.com
 lucidiot             lucidiot at brainshit.fr
 Shy Owl              shy.owlman at gmail.com
@@ -142,7 +139,7 @@ This section is (not self-ratifying and may be inaccurate.
 JTAC               03 Jan 21
 Ubercrow           11 Jan 21
 Noah               14 Jan 21
-Joe [5]            19 Jan 21
+Joe [4]            19 Jan 21
 Murphy             ? ("< 23 Jan 96" in Registrar's monthly report)
 G.                 04 Feb 01
 Falsifian          13 Feb 19
@@ -181,9 +178,8 @@ Phlogistique      noe.rubinstein at gmail.com             2013 May
 Steve             zardoz37 at gmail.com                   2013 May
 
 
-[0] Also known as Publius Scribonius Scholasticus.
-[1] officially, but technically equivalent c.ome.xk at gmail.com
-[2] Previously emurphy42 at zoho.com.
-[3] Also nchagora at protonmail.com.
-[4] Previously edwardostrange at gmail.com.
-[5] Slam_Joe_Jr_Supreme
+[0] officially, but technically equivalent c.ome.xk at gmail.com
+[1] Previously emurphy42 at zoho.com.
+[2] Also nchagora at protonmail.com.
+[3] Previously edwardostrange at gmail.com.
+[4] Slam_Joe_Jr_Supreme
