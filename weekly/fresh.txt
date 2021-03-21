@@ -16,11 +16,6 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 Recent events
 =============
 
-03-Jan-21 04:20  JTAC registers.
-10-Jan-21 08:19  Murphy changes email address
-11-Jan-21 16:43  Ubercrow registers.
-14-Jan-21 02:31  Noah registers.
-19-Jan-21 19:53  Slam_Joe_Jr_Supreme registers. (Joe for short.)
 28-Jan-21 07:16  R. Lee changes email address
 03-Feb-21 01:07  Proposal 8532 adopted: zombies replaced with activity.
 14-Feb-21 03:48  Falsifian deactivates grok with notice.
