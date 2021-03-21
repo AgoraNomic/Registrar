@@ -7,7 +7,7 @@ be fresher than the latest official version.
 
 
 Date of last report: 2021-03-14 (Sun)
-Date of this report: 2021-03-14 (Sun)
+Date of this report: 2021-03-21 (Sun)
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -27,6 +27,9 @@ Recent events
 14-Feb-21 03:48  Falsifian deactivates Nathan with notice.
 14-Feb-21 03:48  Falsifian deactivates Shy Owl with notice.
 (time of last report)
+16-Mar-21 23:17  cuddlybanana registers.
+16-Mar-21 23:42  Aenet registers.
+21-Mar-21 03:06  Jumble registers.
 
 
 Players, activity, and registration dates
@@ -37,7 +40,7 @@ The following information from this section is self-ratifying:
   list of players).
 - The value of each instance of the Activity switch.
 
-There are 20 Players. The below is a list of all players.
+There are 23 Players. The below is a list of all players.
 
 Player               Registered  Activity  [last changed]  Notes
 ------               ----------  --------  --------------  -----
@@ -58,6 +61,9 @@ JTAC                 03 Jan 21   Active    [03 Feb 21]
 Ubercrow             11 Jan 21   Active    [03 Feb 21]
 Noah                 14 Jan 21   Active    [03 Feb 21]
 Slam_Joe_Jr_Supreme  19 Jan 21   Active    [03 Feb 21]     Joe for short
+cuddlybanana         16 Mar 21   Active    [16 Mar 21]
+Aenet                16 Mar 21   Active    [16 Mar 21]
+Jumble               21 Mar 21   Active    [21 Mar 21]
 grok                 20 May 20   Inactive  [14 Feb 21]
 Nathan               19 Aug 20   Inactive  [14 Feb 21]
 Shy Owl              11 Nov 20   Inactive  [14 Feb 21]
@@ -90,6 +96,9 @@ JTAC                 hmcl.supv at gmail.com
 Ubercrow             unicationsmith2009 at gmail.com
 Noah                 blackbeangirl919@gmail.com
 Slam_Joe_Jr_Supreme  arran.soule at gmail.com
+cuddlybanana         rose.strong42@gmail.com
+Aenet                aidananthony14@gmail.com
+Jumble               notajumbleofnumbers@gmail.com
 
 
 Fora
@@ -143,6 +152,9 @@ Joe [4]            19 Jan 21
 Murphy             ? ("< 23 Jan 96" in Registrar's monthly report)
 G.                 04 Feb 01
 Falsifian          13 Feb 19
+cuddlybanana       16 Mar 21
+Aenet              16 Mar 21
+Jumble             21 Mar 21
 omd                01 May 07
 grok               18 May 17
 Cuddlebeam         20 May 17
