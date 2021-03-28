@@ -89,18 +89,17 @@ u Matt                pardo at gibbs.oit.unc.edu                <= 5 Apr 94
 v Waggie              dgwagner at math.uwaterloo.ca             <= 5 Apr 94
 u Wes                 wesc at ichips.intel.com                  <= 5 Apr 94
 u Timothy             timothy.ferguson at jcu.edu.au            <=12 Sep 94
-u Chuck               ccarroll at students.wisc.edu             <= 5 Apr 94
-u Dave Bowen          david.bowen at cray.com                   <= 5 Apr 94
-u Nicol               dnicol at primus.cstp.umkc.edu            <= 5 Apr 94
-u Lance               lab at biostat.mc.duke.edu                <= 5 Apr 94
-u Stella?             kunne at cernvm.cern.ch                   <= 5 Apr 94
-u Alice               cat at orion.mrc.unm.edu                  <= 5 Apr 94
-u Duane               duanew at atlas.com                       <= 5 Apr 94
-u Eric Scheirer       escheire at cim470.mitre.org              <= 5 Apr 94
-u Gustalff Zibrowski  clarkc at cpsc.ucalgary.ca                <= 5 Apr 94
-u Larry Smithmier     smithmierjr at uamont.edu                 <= 5 Apr 94
 
 Left in 1995:
+u Dave Bowen          david.bowen at cray.com        <= 5 Apr 94    unknown
+u Nicol               dnicol at primus.cstp.umkc.edu <= 5 Apr 94    unknown
+u Lance               lab at biostat.mc.duke.edu     <= 5 Apr 94    unknown
+u Stella?             kunne at cernvm.cern.ch        <= 5 Apr 94    unknown
+u Alice               cat at orion.mrc.unm.edu       <= 5 Apr 94    unknown
+u Duane               duanew at atlas.com            <= 5 Apr 94    unknown
+u Eric Scheirer       escheire at cim470.mitre.org   <= 5 Apr 94    unknown
+u Gustalff Zibrowski  clarkc at cpsc.ucalgary.ca     <= 5 Apr 94    unknown
+u Larry Smithmier     smithmierjr at uamont.edu      <= 5 Apr 94    unknown
 u Jason2                                                                 95
 u Susan                                                                  95
 u Brian Greer                                                        Aug 95
