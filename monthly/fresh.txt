@@ -6,13 +6,11 @@ fresher than the latest official version.
 ------------------------------------------------------------------------
 
 Date of last report: 27 Feb 2021
-Date of this report: 27 Feb 2021
+Date of this report: 28 Mar 2021
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Changes:
-01-Mar-20 06:15  R. Lee deregistered (minimal gamestate modification due
-                 to self-ratification of Registrar report)
 09-Apr-20 07:58  Falsifian deregisters o with notice.
 17-Apr-20 10:22  Falsifian deregisters Walker with notice.
 22-Apr-20 02:04  Warrigal is deregistered in a Writ of FAGE.
