@@ -1,11 +1,13 @@
-This is an unofficial version of the Registrar's monthly report that may be
-fresher than the latest official version.
+(Further corrections to the 1994/1995 sections: removed Chuck's 1994
+entry, moved some dates back from the deregistration to the
+registration column as in omd's Jul 1, 2013 report, and move those back
+the the left-in-1995 section.)
 
 ------------------------------------------------------------------------
                          Registrar's Monthly Report
 ------------------------------------------------------------------------
 
-Date of last report: 28 Mar 2021
+Date of last report: 27 Feb 2021
 Date of this report: 28 Mar 2021
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
