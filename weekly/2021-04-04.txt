@@ -1,13 +1,10 @@
-This is an unofficial version of the Registrar's weekly report that may
-be fresher than the latest official version.
-
 ------------------------------------------------------------------------
                          The Agoran Directory
 ------------------------------------------------------------------------
 
 
-Date of last report: 2021-03-27 (Sat)
-Date of this report: 2021-03-27 (Sat)
+Date of last report: 2021-03-27
+Date of this report: 2021-04-04
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
@@ -89,11 +86,11 @@ lucidiot             lucidiot at brainshit.fr
 Shy Owl              shy.owlman at gmail.com
 JTAC                 hmcl.supv at gmail.com
 Ubercrow             unicationsmith2009 at gmail.com
-Noah                 blackbeangirl919@gmail.com
+Noah                 blackbeangirl919 at gmail.com
 Slam_Joe_Jr_Supreme  arran.soule at gmail.com
-cuddlybanana         rose.strong42@gmail.com
-Aenet                aidananthony14@gmail.com
-Jumble               notajumbleofnumbers@gmail.com
+cuddlybanana         rose.strong42 at gmail.com
+Aenet                aidananthony14 at gmail.com
+Jumble               notajumbleofnumbers at gmail.com
 
 
 Fora
