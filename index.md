@@ -1,11 +1,12 @@
 Registrar's Report Archive:
 
-[Latest weekly report](weekly/2021-04-04.txt)
+[Latest weekly report](weekly/2021-04-10.txt)
 
-[Latest monthly report](monthly/2021-03-28.txt)
+[Latest monthly report](monthly/2021-04-10.txt)
 
 List of weekly reports:
 
+* [2021-04-10.txt](weekly/2021-04-10.txt)
 * [2021-04-04.txt](weekly/2021-04-04.txt)
 * [2021-03-27.txt](weekly/2021-03-27.txt)
 * [2021-03-21.txt](weekly/2021-03-21.txt)
@@ -124,6 +125,7 @@ List of weekly reports:
 
 List of monthly reports:
 
+* [2021-04-10.txt](monthly/2021-04-10.txt)
 * [2021-03-28.txt](monthly/2021-03-28.txt)
 * [2021-02-27.txt](monthly/2021-02-27.txt)
 * [2021-01-06.txt](monthly/2021-01-06.txt)
