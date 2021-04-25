@@ -37,7 +37,7 @@ The following information from this section is self-ratifying:
   list of players).
 - The value of each instance of the Activity switch.
 
-There are 23 Players. The below is a list of all players.
+There are 24 Players. The below is a list of all players.
 
 Player               Registered  Activity  Last Changed  Notes
 ------               ----------  --------  ------------  -----
