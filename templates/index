@@ -4,6 +4,8 @@ Registrar's Report Archive:
 
 [Latest monthly report](monthly/{LastFile "monthly"})
 
+[Unofficial fresher monthly report](monthly/fresh.txt)
+
 List of weekly reports:
 
 {MarkdownFileList "weekly"}
