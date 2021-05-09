@@ -5,7 +5,6 @@
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Changes:
-03-May-20 20:23  Alexis deregisters.
 30-May-20 04:26  Falsifian deregisters pikhq with notice.
 20-Jun-20 19:59  Bögtil deregisters.
 30-Jun-20 14:26  The following happens 56 times:
