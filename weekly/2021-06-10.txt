@@ -3,8 +3,8 @@
 ------------------------------------------------------------------------
 
 
-Date of last report: 2021-05-23
-Date of this report: 2021-06-01
+Date of last report: 2021-06-01
+Date of this report: 2021-06-10
 (all times UTC)
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
