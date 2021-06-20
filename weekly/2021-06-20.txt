@@ -1,0 +1,202 @@
+------------------------------------------------------------------------
+                         The Agoran Directory
+------------------------------------------------------------------------
+
+
+Date of last report: 2021-06-10
+Date of this report: 2021-06-20
+(all times UTC)
+
+Archive of reports on the web: https://agoranomic.org/Registrar/
+
+
+Recent events
+=============
+
+16-Mar-21 23:17  cuddlybanana registers.
+16-Mar-21 23:42  Aenet registers.
+21-Mar-21 03:06  Jumble registers.
+(time of last report)
+10-Apr-21 19:00  Aris deactivates lucidiot with notice.
+10-Apr-21 19:00  Aris deactivates JTAC with notice.
+10-Apr-21 19:00  Aris deactivates Ubercrow with notice.
+10-Apr-21 19:00  Aris deactivates Noah with notice.
+10-Apr-21 19:00  Aris deactivates Slam_Joe_Jr_Supreme with notice.
+17-Apr-21 05:18  seventeenMachine registers.
+01-May-21 07:16  Nathan activates emself.
+01-May-21 22:43  Aris deregisters grok without 3 objections.
+01-May-21 22:43  Aris deregisters Shy Owl without 3 objections.
+08-Jun-21 15:45  ais523 registers.
+08-Jun-21 07:41  Aris deactivates Aenet.
+08-Jun-21 07:41  Aris deactivates Jumble.
+14-Jun-21 07:09  Telna registers.
+20-Jun-21 02:17  surprise registers.
+
+
+Players, activity, and registration dates
+=========================================
+
+The following information from this section is self-ratifying:
+- The value of each instance of the Citizenship switch (implied by the
+  list of players).
+- The value of each instance of the Activity switch.
+
+There are 24 Players. The below is a list of all players.
+
+Player               Registered  Activity  Last Changed  Notes
+------               ----------  --------  ------------  -----
+omd                  03 Feb 11   Active    03 Feb 21
+Aris                 13 Sep 16   Active    03 Feb 21
+Gaelan               15 May 17   Active    03 Feb 21
+G.                   25 Aug 17   Active    03 Feb 21
+Cuddlebeam           25 Aug 17   Active    03 Feb 21
+Trigon               24 Sep 17   Active    03 Feb 21
+Murphy               17 Dec 17   Active    03 Feb 21
+ATMunn               11 Mar 18   Active    03 Feb 21
+Falsifian            13 Feb 19   Active    03 Feb 21
+Jason                02 Jun 19   Active    03 Feb 21
+nix                  18 Oct 19   Active    03 Feb 21
+R. Lee               30 Jun 20   Active    03 Feb 21
+Nathan               19 Aug 20   Active    01 May 21
+cuddlybanana         16 Mar 21   Active    16 Mar 21
+seventeenMachine     17 Apr 21   Active    17 Apr 21     seventeen for short
+ais523               08 Jun 21   Active    08 Jun 21
+Telna                14 Jun 21   Active    14 Jun 21
+surprise             20 Jun 21   Active    20 Jun 21
+lucidiot             08 Nov 20   Inactive  10 Apr 21
+JTAC                 03 Jan 21   Inactive  10 Apr 21
+Ubercrow             11 Jan 21   Inactive  10 Apr 21
+Noah                 14 Jan 21   Inactive  10 Apr 21
+Slam_Joe_Jr_Supreme  19 Jan 21   Inactive  10 Apr 21     Joe for short
+Aenet                16 Mar 21   Inactive  10 Jun 21
+Jumble               21 Mar 21   Inactive  10 Jun 21
+
+
+Contact information
+===================
+
+(Required by rule 2139.)
+
+Player               Contact
+------               -------
+omd                  comexk at gmail.com [0]
+Aris                 thoughtsoflifeandlight17 at gmail.com
+Gaelan               gbs at canishe.com
+G.                   kerim at uw.edu
+Cuddlebeam           cuddlebeam at gmail.com
+Trigon               reuben.staley at gmail.com
+Murphy               murphy.agora at gmail.com [1]
+ATMunn               iamingodsarmy at gmail.com
+Falsifian            agora at falsifian.org
+Jason                jason.e.cobb at gmail.com
+nix                  nixnull+agora at protonmail.com [2]
+R. Lee               SarahEstrange0 at gmail.com [3]
+Nathan               nathans.agora.email at gmail.com
+lucidiot             lucidiot at brainshit.fr
+JTAC                 hmcl.supv at gmail.com
+Ubercrow             unicationsmith2009 at gmail.com
+Noah                 blackbeangirl919 at gmail.com
+Slam_Joe_Jr_Supreme  arran.soule at gmail.com
+cuddlybanana         rose.strong42 at gmail.com
+Aenet                aidananthony14 at gmail.com
+Jumble               notajumbleofnumbers at gmail.com
+seventeenMachine     17sagoranomicinbox at gmail.com
+ais523               callforjudgement at yahoo.co.uk
+Telna                agoratelna at iprimus.com.au
+surprise             surprisenomic at gmail.com
+
+
+Fora
+====
+
+The publicity switch values (Rule 478) are self-ratifying.
+
+Publicity    Location or description                 Typical use
+---------    -----------------------                 -----------
+Public       agora-official at agoranomic.org        official reports
+Public       agora-business at agoranomic.org        other business
+Discussion   agora-discussion at agoranomic.org      discussion
+Discussion   https://discord.gg/JCC6YGc              discussion
+Foreign*     irc://irc.libera.chat:6667/##nomic      discussion
+Public       agora at listserver.tue.nl              backup
+Public       agoranomic at groups.io **              backup
+
+*This is the current IRC forum. We may replace it with another, but in
+the long run one IRC channel or another will be made a discussion forum.
+
+**The forum is specifically just that email list. From the message that
+made it public: "Note that although groups.io provides many features
+besides email, the forum I am referring to is specifically the email
+list: if something doesn't get to Gio's subscribers by email, it wasn't
+sent via Gio.
+
+Subscribe or unsubscribe from main
+lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup
+list:http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.freenode.net, port 6667, channel ##nomic, and whatever
+nickname you like.
+
+
+Birthdays
+=========
+
+Registrar's estimates of Players' first dates of registration, sorted by month
+and day.
+
+This section is not self-ratifying and may be inaccurate.
+
+JTAC               03 Jan 21
+Ubercrow           11 Jan 21
+Noah               14 Jan 21
+Joe [4]            19 Jan 21
+Murphy             ? ("< 23 Jan 96" in Registrar's monthly report)
+G.                 04 Feb 01
+Falsifian          13 Feb 19
+cuddlybanana       16 Mar 21
+Aenet              16 Mar 21
+Jumble             21 Mar 21
+seventeenMachine   17 Apr 21
+ais523             28 Apr 08
+omd                01 May 07
+Cuddlebeam         20 May 17
+Gaelan             27 May 15
+Jason              02 Jun 19
+R. Lee             07 Jun 17
+surprise           20 Jun 21
+nix                14 Aug 13
+Nathan             19 Aug 20
+Aris               13 Sep 16
+ATMunn             21 Sep 17
+Trigon             24 Sep 17
+Telna              18 Oct 13
+lucidiot           08 Nov 20
+
+
+Watchers
+========
+
+There are 5 watchers.
+
+The list of Watchers is not governed by the rules, but is
+traditionally maintained in the Registrar's Report.  If you'd like to
+be listed as a Watcher or removed from the list, feel free to email
+the fora or the Registrar directly.
+
+Nickname          Contact                                 Last confirmed
+--------          -------                                 --------------
+Lykaina           mjbermanator at gmail.com               2019 September
+Ørjan             oerjan at nvg.ntnu.no                   2017 May
+Dave              davidnicol at gmail.com                 2013 May
+Phlogistique      noe.rubinstein at gmail.com             2013 May
+Steve             zardoz37 at gmail.com                   2013 May
+
+
+[0] officially, but technically equivalent c.ome.xk at gmail.com
+[1] Previously emurphy42 at zoho.com.
+[2] Also nchagora at protonmail.com.
+[3] Previously edwardostrange at gmail.com.
+[4] Slam_Joe_Jr_Supreme

@@ -1,6 +1,6 @@
 Registrar's Report Archive:
 
-[Latest weekly report](weekly/2021-06-10.txt)
+[Latest weekly report](weekly/2021-06-20.txt)
 
 [Latest monthly report](monthly/2021-05-02.txt)
 
@@ -8,6 +8,7 @@ Registrar's Report Archive:
 
 List of weekly reports:
 
+* [2021-06-20.txt](weekly/2021-06-20.txt)
 * [2021-06-10.txt](weekly/2021-06-10.txt)
 * [2021-06-01.txt](weekly/2021-06-01.txt)
 * [2021-05-23.txt](weekly/2021-05-23.txt)

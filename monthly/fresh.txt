@@ -1,29 +1,15 @@
-------------------------------------------------------------------------
+Telna------------------------------------------------------------------------
                          Arrivals and Departures
 ------------------------------------------------------------------------
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Recent Changes:
-30-May-20 04:26  Falsifian deregisters pikhq with notice.
-20-Jun-20 19:59  Bögtil deregisters.
-30-Jun-20 14:26  The following happens 56 times:
-                 * nch exiles R. Lee.
-                 * R. Lee registers.
-12-Jul-20 04:33  Falsifian deregisters Tcbapo with notice.
-18-Jul-20 19:08  Name change: nch -> nix; also, new email address.
-20-Nov-20 04:52  Falsifian deregisters Tyler with notice.
-20-Nov-20 04:52  Falsifian deregisters Zyborg with notice.
-20-Nov-20 04:52  Falsifian deregisters Fred with notice.
-20-Nov-20 04:52  Falsifian deregisters Shelvacu [2] with notice.
-29-Nov-20 17:46  Falsifian deregisters D. Margaux with notice.
-29-Nov-20 17:46  Falsifian deregisters Baron v V [3] with notice.
-29-Nov-20 17:46  Falsifian deregisters Telnaior with notice.
-29-Nov-20 17:46  Falsifian deregisters sukil with notice.
-27-Dec-20 21:37  Falsifian deregisters twg with notice.
-31-Dec-20 15:02  P.S.S. [1] deregisters.
 01-May-21 22:43  Aris deregisters grok without 3 objections.
 01-May-21 22:43  Aris deregisters Shy Owl without 3 objections.
+08-Jun-21 15:45  ais523 registers.
+14-Jun-21 07:09  Telna registers.
+20-Jun-21 02:17  surprise registers.
 
 [1] also known as Publius Scribonius Scholasticus
 [2] Also known as Shel.
@@ -45,7 +31,7 @@ P2                 5 Nov 08
 P3 to P100 [1]     6 Nov 08
 Wooble            01 Sep 11
 G.                29 Jun 17
-Telnaior          29 Jan 19
+Telna             29 Jan 19
 Warrigal          23 Apr 20
 
 [1] P3 to P100 inclusive each deregistered in writs of FAGE on this
@@ -601,7 +587,7 @@ a nichdel            nichdel at gmail.com             14 Aug 13    6 May 14
 a Philomory          philomory at gmail.com           18 Oct 13    6 May 14
 a Schrodinger's Cat  agora at lesidhetree.com         15 Sep 13    6 May 14
 a Shredder           geoff at geoffschmidt.com        30 Jan 14    6 May 14
-a Telnaior           JDGA at iinet.net.au             18 Oct 13    6 May 14
+a Telna              JDGA at iinet.net.au             18 Oct 13    6 May 14
 a Thimblefox         brianblomlie at icloud.com       14 Feb 14    6 May 14
 a William Eisenburg  william.eisenberg at gmail.com   14 Aug 13    6 May 14
 a Fool               fool1901 at gmail.com            24 Jun 13   22 Jul 14
@@ -682,8 +668,8 @@ a Ouri               ouri.poupko at gmail.com         03 Apr 18   16 Oct 18
 
 Left in 2019:
 
-a Telnaior           jdga at iinet.net.au                         15 Jan 19
-w Telnaior           jdga at iinet.net.au             29 Jan 19   29 Jan 19
+a Telna              jdga at iinet.net.au             10 Oct 17   15 Jan 19
+w Telna              jdga at iinet.net.au             29 Jan 19   29 Jan 19
 a 天火狐 [1]         draconicdarkness at gmail.com     06 Nov 16  03 Feb 19
 a pokes              pokes at botnoise.org            11 Dec 17   03 Feb 19
 a nichdel [2]        nichdel at gmail.com             29 Jun 17   24 May 19
@@ -693,7 +679,7 @@ v R. Lee [3]         edwardostrange at gmail.com [4]  29 Dec 17   29 Jul 19
 a L                  prmcd16 at yahoo.com             20 Sep 18   24 Aug 19
 a Corona             liliumalbum.agora at gmail.com   17 Nov 17   24 Aug 19
 p Hālian             halian at safiria.net            20 Oct 18   18 Sep 19
-a Telnaior           jdga at iinet.net.au             29 Jan 19   22 Sep 19
+a Telna              jdga at iinet.net.au             29 Jan 19   22 Sep 19
 a P.S.S. [5]  pscriboniusscholasticus at gmail.com[6] 16 Apr 17   22 Sep 19
 a Jacob Arduino      jacobarduino at gmail.com        12 Nov 18   19 Nov 19
 
@@ -728,7 +714,7 @@ a Fred               zarathustraincandenza... [2]     03-Jul-20   20 Nov 20
 a Shelvacu [3]       agora at shelvacu.com            08-Aug-20   20 Nov 20
 a D. Margaux [4]     dmargaux000 at gmail.com         25 Aug 18   29 Nov 20
 a Baron von Vaderham davidseeber at outlook.com       04 Feb 19   29 Nov 20
-a Telnaior           JDGA at iinet.net.au             21 Mar 20   29 Nov 20
+a Telna              JDGA at iinet.net.au             21 Mar 20   29 Nov 20
 a sukil              sukiletxe+agora at gmail.com     12 Feb 20   29 Nov 20
 a twg                me at timon.red                  24 May 18   27 Dec 20
 v P.S.S. [5]         p.scribonius.scholasticus... [6] 01 Mar 20   31 Dec 20
@@ -767,7 +753,10 @@ s Joe [5]            arran.soule at gmail.com         19 Jan 21
 s cuddlybanana       rose.strong42 at gmail.com       16 Mar 21
 s Aenet              aidananthony14 at gmail.com      16 Mar 21
 s Jumble             notajumbleofnumbers... [6]       21 Mar 21
+s seventeenMachine   17sagoranomicinbox at gmail.com  17 Apr 21
 s ais523             callforjudgement@yahoo.co.uk     08 Jun 21
+s Telna              agoratelna at iprimus.com.au     14 Jun 21
+s surprise           surprisenomic at gmail.com       20 Jun 21
 
 [1] thoughtsoflifeandlight17 at gmail.com
 [2] Previously emurphy42 at zoho.com.
