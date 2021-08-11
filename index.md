@@ -6,7 +6,7 @@ Registrar's Report Archive:
 
 List of weekly reports:
 
-* [2021-08-09.txt](weekly/weekly August 9)
+* [2021-08-09.txt](weekly/2021-08-09.txt)
 * [2021-07-04.txt](weekly/2021-07-04.txt)
 * [2021-06-20.txt](weekly/2021-06-20.txt)
 * [2021-06-10.txt](weekly/2021-06-10.txt)
