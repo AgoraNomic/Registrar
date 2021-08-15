@@ -2,7 +2,7 @@ Registrar's Report Archive:
 
 [Latest weekly report](weekly/2021-08-09.txt)
 
-[Latest monthly report](monthly/2021-05-02.txt)
+[Latest monthly report](monthly/2021-08-15.txt)
 
 List of weekly reports:
 
@@ -135,6 +135,7 @@ List of weekly reports:
 
 List of monthly reports:
 
+* [2021-08-15.txt](monthly/2021-08-15.txt)
 * [2021-05-02.txt](monthly/2021-05-02.txt)
 * [2021-04-10.txt](monthly/2021-04-10.txt)
 * [2021-03-28.txt](monthly/2021-03-28.txt)
