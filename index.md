@@ -1,11 +1,12 @@
 Registrar's Report Archive:
 
-[Latest weekly report](weekly/2021-08-24.txt)
+[Latest weekly report](weekly/2021-09-01.txt)
 
 [Latest monthly report](monthly/2021-08-15.txt)
 
 List of weekly reports:
 
+* [2021-09-01.txt](weekly/2021-09-01.txt)
 * [2021-08-24.txt](weekly/2021-08-24.txt)
 * [2021-08-09.txt](weekly/2021-08-09.txt)
 * [2021-07-04.txt](weekly/2021-07-04.txt)
