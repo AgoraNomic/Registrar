@@ -1,8 +1,10 @@
 Registrar's Report Archive:
 
-[Latest weekly report](weekly/2021-09-01.txt)
+[Latest weekly report](weekly_fresh.txt)
 
-[Latest monthly report](monthly/2021-08-15.txt)
+[Latest monthly report](monthly_fresh.txt)
+
+The below list is not up to date.
 
 List of weekly reports:
 
