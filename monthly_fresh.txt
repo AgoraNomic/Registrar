@@ -5,8 +5,8 @@ Below is the Registrar's Monthly Report.
 ------------------------------------------------------------------------
 Arrivals and Departures
 ------------------------------------------------------------------------
-Date of last report: 14 May 22
-Date of this report: 28 May 22
+Date of last report: 28 May 22
+Date of this report: 25 Jun 22
 
 
 Archive of reports on the web*: https://agoranomic.org/Registrar/
@@ -52,12 +52,9 @@ Recent Changes:
 08-May-22   secretsnail deregisters Benbot² without 3 objections.
 08-May-22   secretsnail deregisters Trapdoorspyder without 3 objections.
 08-May-22   secretsnail deregisters BigBobBingo ! without 3 objections.
-14-May-22   CreateSource registers.
+14-May-22   CreateSource registers. 
 -- time of last monthly report --
-28 May 2022: dahuman made inactive
-28 May 2022: Telna made inactive
-04 Jun 2022: nix deregisters Sgeo without 3 objections
-04 Jun 2022: nix deregisters TABBA without 3 objections
+07-Jun-22   4st registers.
 
 No information in this report is subject to self-ratification.
 
@@ -813,14 +810,14 @@ a redtara [4]        redxtara at gmail.com            07 Oct 21   08 Apr 22
 a Benbot²            benjaminfrancis...[5]            03 Oct 21   08 Apr 22
 a Trapdoorspyder     tdsagora at gmail.com            25 Sep 21   08 Apr 22
 a BigBobBingo !      arran.soule at gmail.com         22 Sep 21   08 Apr 22
-a Sgeo               sgeoster at gmail.com            28 Jan 22   04 Jun 22
-a TABBAT             tabchesnut at gmail.com          07 Feb 22   04 Jun 22
+
 
 [1] nathans.agora.email at gmail.com
 [2] Formerly Aris
 [3] thoughtsoflifeandlight17 at gmail.com
 [4] Formerly Ienpw III
 [5] benjaminfrancisrodriguez at gmail.com
+
 
 Currently registered players:
 s omd                comexk at gmail.com              03 Feb 11
@@ -830,17 +827,20 @@ s Cuddlebeam         cuddlebeam at gmail.com          25 Aug 17
 s Trigon             reuben.staley at gmail.com       24 Sep 17
 s Murphy             murphy.agora at gmail.com [3]    17 Dec 17
 s Jason              jason.e.cobb at gmail.com        02 Jun 19
-s nix                nixnull+agora... [4]             18 Oct 19
+s nix                nixagora at protonmail.com       18 Oct 19
 s cuddlybanana       rose.strong42 at gmail.com       16 Mar 21
 s ais523             callforjudgement at yahoo.co.uk  08 Jun 21
 s R. Lee             Sarahestrange0 at gmail.com      22 Oct 21
+s Sgeo               sgeoster at gmail.com            28 Jan 22
 s secretsnail        secretsnail9 at gmail.com        29 Jan 22
+s TABBAT             tabchesnut at gmail.com          07 Feb 22
 s duck               skullcat.test at gmail.com       12 Mar 22
 s Telna              agoratelna at iprimus.com.au     12 Mar 22
 s juan               juan at juanmeleiro.mat.br       14 Mar 22
 s dahuman            hdrussell at outlook.com         01 Apr 22
 s CreateSource       createsource.nomic at gmail.com  14 May 22
+s 4st                notorious4st at gmail.com        25 Jun 22
 
 
 [3] Previously emurphy42 at zoho.com.
-[4] nixnull+agora at protonmail.com
+[4] previously nixnull+agora at protonmail.com

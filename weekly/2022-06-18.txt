@@ -2,10 +2,12 @@
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 18 Jun 2022
-Date of this report: 25 Jun 2022
+Date of last report: 11 Jun 2022
+Date of this report: 18 Jun 2022
 
-Archive of reports on the web: https://agoranomic.org/Registrar/
+Archive of reports on the web: https://agoranomic.org/Registrar/ *
+* not currently up-to-date
+
 
 Events since last report
 ========================
@@ -168,3 +170,4 @@ Steve             zardoz37 at gmail.com                   2021 June
 ATMunn            iamingodsarmy at gmail.com              2022 March
 
 ------------------------------------------------------------------------
+

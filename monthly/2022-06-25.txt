@@ -1,21 +1,60 @@
-------------------------------------------------------------------------
-                         Arrivals and Departures
-------------------------------------------------------------------------
 
-Archive of reports on the web: https://agoranomic.org/Registrar/
+
+Below is the Registrar's Monthly Report.
+
+------------------------------------------------------------------------
+Arrivals and Departures
+------------------------------------------------------------------------
+Date of last report: 28 May 22
+Date of this report: 25 Jun 22
+
+
+Archive of reports on the web*: https://agoranomic.org/Registrar/
+*not up to date
 
 Recent Changes:
-01-May-21 22:43  Aspen deregisters grok without 3 objections.
-01-May-21 22:43  Aspen deregisters Shy Owl without 3 objections.
-08-Jun-21 15:45  ais523 registers.
-14-Jun-21 07:09  Telna registers.
-20-Jun-21 02:17  surprise registers.
-
-[1] also known as Publius Scribonius Scholasticus
-[2] Also known as Shel.
-[3] Short for Baron von Vaderham.
-
-
+03-Oct-21   Benbot² registers.
+03-Oct-21   Shy Owl registers.
+07-Oct-21   redtara registers.
+22-Oct-21   R. Lee rgisters.
+22-Oct-21   Shy Owl deactivates seventeenMachine with notice.
+22-Oct-21   Shy Owl deactivates Pat with notice.
+22-Oct-21   Shy Owl deactivates surprise with notice.
+22-Oct-21   Shy Owl deactivates Nathan with notice.
+22-Oct-21   Shy Owl deregisters Jumble without 3 objections.
+26-Oct-21   Telna deregisters.
+03-Nov-21   Shy Owl deregisters.
+12-Nov-21   tris registers.
+28-Jan-22   Sgeo registers.
+29-Jan-22   secretsnail registers.
+07-Feb-22   TABBAT registers.
+22-Feb-22   Falsifian deregisters.
+22-Feb-22   secretsnail deregisters Nathan without 3 objections.
+22-Feb-22   secretsnail deregisters seventeenMachine without 3 objections.
+22-Feb-22   secretsnail deregisters surprise without 3 objections.
+22-Feb-22   secretsnail deregisters Pat without 3 objections.
+22-Feb-22   secretsnail deactivates tris with notice.
+22-Feb-22   secretsnail deactivates redtara with notice.
+22-Feb-22   secretsnail deactivates Benbot² with notice.
+22-Feb-22   secretsnail deactivates Trapdoorspyder with notice.
+22-Feb-22   secretsnail deactivates BigBobBingo ! with notice.
+12-Mar-22   duck registers.
+12-Mar-22   Telna registers.
+14-Mar-22   ATMunn deregisters.
+14-Mar-22   juan registers.
+23-Mar-22   secretsnail deactivates omd with notice.
+23-Mar-22   secretsnail deactivates Sgeo with notice.
+23-Mar-22   secretsnail deactivates TABBAT with notice.
+01-Apr-22   dahuman registers.
+08-May-22   Aspen deregisters in a Writ of FAGE.
+08-May-22   secretsnail deregisters tris without 3 objections.
+08-May-22   secretsnail deregisters redtara without 3 objections.
+08-May-22   secretsnail deregisters Benbot² without 3 objections.
+08-May-22   secretsnail deregisters Trapdoorspyder without 3 objections.
+08-May-22   secretsnail deregisters BigBobBingo ! without 3 objections.
+14-May-22   CreateSource registers. 
+-- time of last monthly report --
+07-Jun-22   4st registers.
 
 No information in this report is subject to self-ratification.
 
@@ -31,8 +70,9 @@ P2                 5 Nov 08
 P3 to P100 [1]     6 Nov 08
 Wooble            01 Sep 11
 G.                29 Jun 17
-Telna             29 Jan 19
+Telnaior          29 Jan 19
 Warrigal          23 Apr 20
+Aspen             08 May 22
 
 [1] P3 to P100 inclusive each deregistered in writs of FAGE on this
     date.
@@ -47,6 +87,10 @@ at least once (imperfect, corrections welcomed)
 (p)roposal        d(e)stroyed
 (r)atification    (u)known
 e(x)iled          (s)till registered
+
+
+abbreviation & player         contact             registered   deregistered
+---------------------     ---------------         ----------   ------------
 
 Left in 1994:
 
@@ -206,8 +250,8 @@ u S.                 bookfool2001 at hotmail.com      30 May 01   17 Nov 01
 
 Left in 2002:
 
-Blaise bmbuck at 14850.com 10 Sep 01 11 Mar 02 Razl agora at
-peng.dyndns.org 8 Feb 01 25 Mar 02
+Blaise bmbuck at 14850.com 10 Sep 01 11 Mar 02 Razl agora
+atpeng.dyndns.org 8 Feb 01 25 Mar 02
 a pTang              nau at treyarch.com              21 Sep 00   12 May 02
 v Crito              dalbertz at mrb.state.ma.us      19 Feb 97   29 May 02
 a Syllepsis          agora at syllepsis.org            5 Feb 01   30 Sep 02
@@ -280,9 +324,9 @@ p Peter              civilianjones at gmail.com       24 Dec 06   31 May 07
 p sproingie          cja987 at gmail.com              20 Dec 06   31 May 07
 p Yang Corp          <none>                           21 May 07   31 May 07
 p Yin Corp           <none>                           21 May 07   31 May 07
-The Hanging Judge c/o Zefram and comex 22 May 07 9 Jun 07
+The Hanging Judge c/o Zefram and comex                22 May 07    9 Jun 07
 v Peekee             agora at peekee.co.uk             3 Aug 07   12 Aug 07
-The Host c/o Levi and Murphy 21 Aug 07 30 Aug 07
+The Host c/o Levi and Murphy                          21 Aug 07   30 Aug 07
 v Murphy             emurphy42 at socal.rr.com      < 23 Jan 96   24 Sep 07
 v Wooble             geoffspear at gmail.com           3 Jul 07   30 Sep 07
 v BobTHJ             pidgepot at gmail.com            30 Apr 07    1 Oct 07
@@ -587,7 +631,7 @@ a nichdel            nichdel at gmail.com             14 Aug 13    6 May 14
 a Philomory          philomory at gmail.com           18 Oct 13    6 May 14
 a Schrodinger's Cat  agora at lesidhetree.com         15 Sep 13    6 May 14
 a Shredder           geoff at geoffschmidt.com        30 Jan 14    6 May 14
-a Telna              JDGA at iinet.net.au             18 Oct 13    6 May 14
+a Telnaior           JDGA at iinet.net.au             18 Oct 13    6 May 14
 a Thimblefox         brianblomlie at icloud.com       14 Feb 14    6 May 14
 a William Eisenburg  william.eisenberg at gmail.com   14 Aug 13    6 May 14
 a Fool               fool1901 at gmail.com            24 Jun 13   22 Jul 14
@@ -668,8 +712,8 @@ a Ouri               ouri.poupko at gmail.com         03 Apr 18   16 Oct 18
 
 Left in 2019:
 
-a Telna              jdga at iinet.net.au             10 Oct 17   15 Jan 19
-w Telna              jdga at iinet.net.au             29 Jan 19   29 Jan 19
+a Telnaior           jdga at iinet.net.au                         15 Jan 19
+w Telnaior           jdga at iinet.net.au             29 Jan 19   29 Jan 19
 a 天火狐 [1]         draconicdarkness at gmail.com     06 Nov 16  03 Feb 19
 a pokes              pokes at botnoise.org            11 Dec 17   03 Feb 19
 a nichdel [2]        nichdel at gmail.com             29 Jun 17   24 May 19
@@ -679,14 +723,14 @@ v R. Lee [3]         edwardostrange at gmail.com [4]  29 Dec 17   29 Jul 19
 a L                  prmcd16 at yahoo.com             20 Sep 18   24 Aug 19
 a Corona             liliumalbum.agora at gmail.com   17 Nov 17   24 Aug 19
 p Hālian             halian at safiria.net            20 Oct 18   18 Sep 19
-a Telna              jdga at iinet.net.au             29 Jan 19   22 Sep 19
+a Telnaior           jdga at iinet.net.au             29 Jan 19   22 Sep 19
 a P.S.S. [5]  pscriboniusscholasticus at gmail.com[6] 16 Apr 17   22 Sep 19
 a Jacob Arduino      jacobarduino at gmail.com        12 Nov 18   19 Nov 19
 
 [1] Alternative/transliteration: Tenhigitsune
 [2] known as nichdel, nch, then later (in 2020) nix
 [3] also known as V.J. Rada
-[4] Later changed to SarahEstrange0@gmail.com.
+[4] Later changed to SarahEstrange0 at gmail.com.
 [5] also known as Publius Scribonius Scholasticus
 [6] officially, but technically equivalent:
     p.scribonius.scholasticusatgooglemail.com
@@ -714,12 +758,12 @@ a Fred               zarathustraincandenza... [2]     03-Jul-20   20 Nov 20
 a Shelvacu [3]       agora at shelvacu.com            08-Aug-20   20 Nov 20
 a D. Margaux [4]     dmargaux000 at gmail.com         25 Aug 18   29 Nov 20
 a Baron von Vaderham davidseeber at outlook.com       04 Feb 19   29 Nov 20
-a Telna              JDGA at iinet.net.au             21 Mar 20   29 Nov 20
+a Telnaior           JDGA at iinet.net.au             21 Mar 20   29 Nov 20
 a sukil              sukiletxe+agora at gmail.com     12 Feb 20   29 Nov 20
 a twg                me at timon.red                  24 May 18   27 Dec 20
 v P.S.S. [5]         p.scribonius.scholasticus... [6] 01 Mar 20   31 Dec 20
 
-[1] Later changed to SarahEstrange0@gmail.com.
+[1] Later changed to SarahEstrange0 at gmail.com.
 [2] zarathustraincandenza at gmail.com
 [3] Also known as Shel.
 [4] Also known as D Margaux.
@@ -731,37 +775,72 @@ Left in 2021:
 
 a grok               grokagora at gmail.com           20 May 20   01 May 21
 a Shy Owl            shy.owlman at gmail.com          11 Nov 20   01 May 21
-a lucidiot           lucidiot at brainshit.fr         08 Nov 20   01 Jul 21
-a JTAC               hmcl.supv at gmail.com           03 Jan 21   01 Jul 21
-a Noah               blackbeangirl919 at gmail.com    14 Jan 21   01 Jul 21
+a Lucidiot           Lucidot at brainshit.fr          08 Nov 20   30 Jun 21
+a JTAC               hmcl.supv at gmail.com           03 Jan 21   30 Jun 21
+a Noah               blackbeangirl919 at gmail.com    14 Jan 21   30 Jun 21
+a Ubercrow           unicationsmith2009 at gmail.com  11 Jan 21   24 Aug 21
+a Joe [1]            arran.soule at gmail.com         19 Jan 21   24 Aug 21
+a Aenet              aidananthony14 at gmail.com      16 Mar 21   24 Aug 21
+a Mask               OatmealSurprise... [2]           03 Jul 21   05 Sep 21
+v R. Lee             Sarahestrange0 at gmail.com      30 Jun 20   19 Sep 21
+v D. Wet             d.wet at nomica.nl               27 Jul 21   26 Sep 21
+a Jumble             notajumbleofnumbers... [3]       21 Mar 21   22 Oct 21
+v Telna [4]          agoratelna at iprimus.com.au     14 Jun 21   26 Oct 21
+v Shy Owl            shy.owlman at gmail.com          03 Oct 21    3 Nov 21
+
+
+
+[1] Slam_Joe_Jr_Supreme
+[2] OatmealSurprise at protonmail.com
+[3] notajumbleofnumbers at gmail.com
+[4] Formerly Telnaior
+
+
+Left in 2022:
+
+v Falsifian          agora at falsifian.org           13 Feb 19   22 Feb 22
+a Nathan             nathans.agora.email... [1]       19 Aug 20   22 Feb 22
+a SeventeenMachine   17sagoranomicinbox at gmail.com  17 Apr 21   22 Feb 22
+a Surprise           surprisenomic at gmail.com       20 Jun 21   22 Feb 22
+a Pat                zettels_traum at tutanota.com    23 Jul 21   22 Feb 22
+v ATMunn             iamingodsarmy at gmail.com       11 Mar 18   14 Mar 22
+w Aspen [2]          thoughtsoflifeandlight17... [3]  13 Sep 16   08 Apr 22
+a tris               trstnbrdwg0 at gmail.com         12 Nov 21   08 Apr 22
+a redtara [4]        redxtara at gmail.com            07 Oct 21   08 Apr 22
+a Benbot²            benjaminfrancis...[5]            03 Oct 21   08 Apr 22
+a Trapdoorspyder     tdsagora at gmail.com            25 Sep 21   08 Apr 22
+a BigBobBingo !      arran.soule at gmail.com         22 Sep 21   08 Apr 22
+
+
+[1] nathans.agora.email at gmail.com
+[2] Formerly Aris
+[3] thoughtsoflifeandlight17 at gmail.com
+[4] Formerly Ienpw III
+[5] benjaminfrancisrodriguez at gmail.com
+
 
 Currently registered players:
 s omd                comexk at gmail.com              03 Feb 11
-s Aspen              thoughtsoflifeandlight17... [1]  13 Sep 16
 s Gaelan             gbs at canishe.com               15 May 17
 s G.                 kerim at uw.edu                  25 Aug 17
 s Cuddlebeam         cuddlebeam at gmail.com          25 Aug 17
 s Trigon             reuben.staley at gmail.com       24 Sep 17
-s Murphy             murphy.agora at gmail.com [2]    17 Dec 17
-s ATMunn             iamingodsarmy at gmail.com       11 Mar 18
-s Falsifian          agora at falsifian.org           13 Feb 19
+s Murphy             murphy.agora at gmail.com [3]    17 Dec 17
 s Jason              jason.e.cobb at gmail.com        02 Jun 19
-s nix                nixnull+agora... [3]             18 Oct 19
-s Nathan             nathans.agora.email... [4]       19 Aug 20
-s Ubercrow           unicationsmith2009 at gmail.com  11 Jan 21
-s Joe [5]            arran.soule at gmail.com         19 Jan 21
+s nix                nixagora at protonmail.com       18 Oct 19
 s cuddlybanana       rose.strong42 at gmail.com       16 Mar 21
-s Aenet              aidananthony14 at gmail.com      16 Mar 21
-s Jumble             notajumbleofnumbers... [6]       21 Mar 21
-s seventeenMachine   17sagoranomicinbox at gmail.com  17 Apr 21
-s ais523             callforjudgement@yahoo.co.uk     08 Jun 21
-s Telna              agoratelna at iprimus.com.au     14 Jun 21
-s surprise           surprisenomic at gmail.com       20 Jun 21
-s Mask               OatmealSurprise@protonmail.com   03 Jul 21
+s ais523             callforjudgement at yahoo.co.uk  08 Jun 21
+s R. Lee             Sarahestrange0 at gmail.com      22 Oct 21
+s Sgeo               sgeoster at gmail.com            28 Jan 22
+s secretsnail        secretsnail9 at gmail.com        29 Jan 22
+s TABBAT             tabchesnut at gmail.com          07 Feb 22
+s duck               skullcat.test at gmail.com       12 Mar 22
+s Telna              agoratelna at iprimus.com.au     12 Mar 22
+s juan               juan at juanmeleiro.mat.br       14 Mar 22
+s dahuman            hdrussell at outlook.com         01 Apr 22
+s CreateSource       createsource.nomic at gmail.com  14 May 22
+s 4st                notorious4st at gmail.com        25 Jun 22
 
-[1] thoughtsoflifeandlight17 at gmail.com
-[2] Previously emurphy42 at zoho.com.
-[3] nixnull+agora at protonmail.com
-[4] nathans.agora.email at gmail.com
-[5] Slam_Joe_Jr_Supreme
-[6] notajumbleofnumbers at gmail.com
+
+[3] Previously emurphy42 at zoho.com.
+[4] previously nixnull+agora at protonmail.com
