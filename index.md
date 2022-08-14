@@ -1,8 +1,8 @@
 Registrar's Report Archive:
 
-[Latest weekly report](weekly_fresh.txt)
+[Latest weekly report](weekly.txt)
 
-[Latest monthly report](monthly_fresh.txt)
+[Latest monthly report](monthly.txt)
 
 The below list is not up to date.
 
