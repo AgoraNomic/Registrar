@@ -9,6 +9,13 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Events since last report
 ========================
+15 Aug 2022: Cap'n registers.
+24 Aug 2022: CreateSource made inactive by Registrar.
+             Duck made inactive by Registrar.
+             R. Lee made inactive by Registrar.
+             Trigon made inactive by Registrar.
+             Dahuman deregistered by Registrar.
+             Telna deregistered by Registrar.
 
 Players, activity, and registration dates
 =========================================
@@ -21,16 +28,15 @@ The following information from this section is self-ratifying:
 There are 19 Players.
 
 ===================
-Active Players (16)
+Active Players (13)
 ===================
 
 Player               Registered  Made Active
 ------               ----------  -----------
 4st                  07 Jun 22   <--
 ais523               08 Jun 21   <--
-CreateSource         14 May 22   <--
+Cap'n                15 Aug 22   <--
 cuddlybanana         16 Mar 21   <--
-duck                 12 Mar 22   <--
 G.                   25 Aug 17   03 Feb 21
 Gaelan               15 May 17   03 Feb 21
 Jason                02 Jun 19   03 Feb 21
@@ -38,20 +44,20 @@ juan                 14 Mar 22   <--
 Madrid               25 Aug 17   03 Feb 21
 Murphy               17 Dec 17   03 Feb 21
 nix                  18 Oct 19   03 Feb 21
-R. Lee               22 Oct 21   <--
 secretsnail          29 Jan 22   <--
-Trigon               24 Sep 17   03 Feb 21
 Vitor Gonçalves      23 Jul 22   <--
 
 ====================
-Inactive Players (3)
+Inactive Players (5)
 ====================
 
 Nickname             Registered  Made Inactive
 --------             ----------  -------------
-dahuman              01 Apr 22   28 May 22
 omd                  03 Feb 11   23 Mar 22
-Telna                12 Mar 22   28 May 22
+CreateSource         14 May 22   24 Aug 22
+duck                 12 Mar 22   24 Aug 22
+R. Lee               22 Oct 21   24 Aug 22
+Trigon               24 Sep 17   24 Aug 22
 
 
 Contact information
@@ -63,9 +69,9 @@ Player               Contact
 ------               -------
 4st                  notorious4st at gmail.com
 ais523               callforjudgement at yahoo.co.uk
+Cap'n                acadia_but_real at protonmail.com
 CreateSource         createsource.nomic at gmail.com
 cuddlybanana         rose.strong42 at gmail.com
-dahuman              hdrussell at outlook.com
 duck                 skullcat.test at gmail.com
 G.                   kerim at uw.edu
 Gaelan               gbs at canishe.com
@@ -77,7 +83,6 @@ nix                  nixagora at proton.me [3]
 omd                  comexk at gmail.com [0]
 R. Lee               sarahestrange0 at gmail.com
 secretsnail          secretsnail9 at gmail.com
-Telna                agoratelna at iprimus.com.au
 Trigon               reuben.staley at gmail.com
 Vitor Gonçalves      vitorg at tilde.team
 
