@@ -10,8 +10,6 @@ ab_update = "wget -c https://agora:nomic@mailman.agoranomic.org/archives/agora-b
 print(subprocess.run(ao_update.split(), capture_output=True, text=True).stdout)
 print(subprocess.run(ab_update.split(), capture_output=True, text=True).stdout)
 
-# TODO: Replace this list with a call to the spreadsheet or json file(s) with all the players
-
 emails = []
 pl_file = 'players/players.csv'
 with open(pl_file, 'r') as infile:
