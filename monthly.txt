@@ -12,10 +12,11 @@ Archive of reports on the web*: https://agoranomic.org/Registrar/
 
 Changes this quarter
 ====================
+23 Jul 2022: Vitor Gonçalves registers.
 
 New in this report
 ==================
-23-Jul-22   Vitor Gonçalves registers.
+15 Aug 2022: Cap'n registers.
 
 No information in this report is subject to self-ratification.
 
@@ -795,14 +796,12 @@ s cuddlybanana       rose.strong42 at gmail.com       16 Mar 21
 s ais523             callforjudgement at yahoo.co.uk  08 Jun 21
 s R. Lee             Sarahestrange0 at gmail.com      22 Oct 21
 s secretsnail        secretsnail9 at gmail.com        29 Jan 22
-s duck               skullcat.test at gmail.com       12 Mar 22
-s Telna              agoratelna at iprimus.com.au     12 Mar 22
 s juan               juan at juanmeleiro.mat.br       14 Mar 22
 s dahuman            hdrussell at outlook.com         01 Apr 22
 s CreateSource       createsource.nomic at gmail.com  14 May 22
 s 4st                notorious4st at gmail.com        25 Jun 22
 s Vitor Gonçalves    vitorg at tilde.team             23 Jul 22
+Cap'n                acadia_but_real at protonmail.com15 Aug 22
 
 
 [3] Previously emurphy42 at zoho.com.
-[4] previously nixnull+agora at protonmail.com

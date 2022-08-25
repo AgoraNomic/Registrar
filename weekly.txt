@@ -141,7 +141,6 @@ This section is not self-ratifying and may be inaccurate.
 Murphy             ? ("< 23 Jan 96" in Registrar's monthly report)
 secretsnail        29 Jan 22
 G.                 04 Feb 01
-duck               12 Mar 22
 juan               14 Mar 22
 cuddlybanana       16 Mar 21
 dahuman            01 Apr 22
@@ -154,8 +153,8 @@ Jason              02 Jun 19
 R. Lee             07 Jun 17
 4st                07 Jun 22
 nix                14 Aug 13
+Cap'n              15 Aug 22
 Trigon             24 Sep 17
-Telna              18 Oct 13
 Vitor Gonçalves    23 Jul 22
 
 Watchers
