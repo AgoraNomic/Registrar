@@ -1,4 +1,6 @@
 import subprocess
+from csv import reader
+from re import sub
 from datetime import datetime, timezone
 
 # Update the relevant mboxes
@@ -9,7 +11,16 @@ print(subprocess.run(ao_update.split(), capture_output=True, text=True).stdout)
 print(subprocess.run(ab_update.split(), capture_output=True, text=True).stdout)
 
 # TODO: Replace this list with a call to the spreadsheet or json file(s) with all the players
-emails = ["notorious4st@gmail.com", "callforjudgement@yahoo.co.uk", "createsource.nomic@gmail.com", "rose.strong42@gmail.com", "skullcat.test@gmail.com", "kerim@uw.edu", "gbs@canishe.com", "jason.e.cobb@gmail.com", "juan@juanmeleiro.mat.br", "madridnomic@gmail.com", "murphy.agora@gmail.com", "nixagora@proton.me", "comexk@gmail.com", "sarahestrange0@gmail.com", "secretsnail9@gmail.com", "reuben.staley@gmail.com", "acadia_but_real@protonmail.com"]
+
+emails = []
+pl_file = 'players/players.csv'
+with open(pl_file, 'r') as infile:
+    pl_in = reader(infile, delimiter=',', quotechar="\"")
+    next(pl_in)
+    
+    for row in pl_in:
+        if row[1] == "s":
+            emails.append(sub(" at ", "@", row[3]))
 
 td = datetime.now(timezone.utc)
 

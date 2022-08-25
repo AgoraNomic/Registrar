@@ -1,16 +1,20 @@
 {
+    "id": 99999,
     "name": "nix",
-    "email": "nixagora at proton.me",
-    "email_notes": "Also nchagora at protonmail.com, nichevans at mailbox.org, and nixnull+agora at protonmail.com.",
     "registered": true,
     "active": true,
     "birthday": "2013-08-14",
-    "registration_date": "2021-02-03",
-    "activation_date": "2019-10-18",
+    "current_registration": {
+        "email": "nixagora at proton.me",
+        "registration_date": "2021-02-03",
+        "activation_date": "2019-10-18",
+        "notes": "Also nchagora at protonmail.com, nichevans at mailbox.org, and nixnull+agora at protonmail.com."
+    }
     "previous_registrations": [{
         "name": "nichdel",
         "email": "nichdel",
-        "registered": "",
-        "deregistered": ""
+        "registration_date": "",
+        "deregistration_date": "",
+        "notes": ""
     }]
 }

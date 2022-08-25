@@ -169,7 +169,7 @@ v Kolja A.           herrmanns at rhein-neckar...[1]   2 Jul 97   16 Dec 99
 
 Left in 2000:
 
-u Oerjan (Zombie 20 Sep 99 - 25 Dec 99) Apr 96 22 Mar 00
+u Oerjan                                                 Apr 96   22 Mar 00
 v elJefe             eljefe at eastpac.com               Jan 96   16 Apr 00
 v else...if          htowsner at stanford.edu [1]     15 Apr 00   21 May 00
 v Sherlock           jfry77 at yahoo.com              31 Jan 00   25 Jul 00
@@ -211,8 +211,8 @@ u S.                 bookfool2001 at hotmail.com      30 May 01   17 Nov 01
 
 Left in 2002:
 
-Blaise bmbuck at 14850.com 10 Sep 01 11 Mar 02 Razl agora
-atpeng.dyndns.org 8 Feb 01 25 Mar 02
+  Blaise             bmbuck at 14850.com              10 Sep 01   11 Mar 02
+  Razl               agora at peng.dyndns.org          8 Feb 01   25 Mar 02
 a pTang              nau at treyarch.com              21 Sep 00   12 May 02
 v Crito              dalbertz at mrb.state.ma.us      19 Feb 97   29 May 02
 a Syllepsis          agora at syllepsis.org            5 Feb 01   30 Sep 02
