@@ -2,14 +2,15 @@
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 31 Jul 2022
-Date of this report: 14 Aug 2022
+Date of last report: 14 Aug 2022
+Date of this report: 26 Aug 2022
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Events since last report
 ========================
 15 Aug 2022: Cap'n registers.
+             Pilgore registers.
 24 Aug 2022: CreateSource made inactive by Registrar.
              Duck made inactive by Registrar.
              Trigon made inactive by Registrar.
@@ -48,7 +49,7 @@ secretsnail          29 Jan 22   <--
 Vitor Gonçalves      23 Jul 22   <--
 
 ====================
-Inactive Players (5)
+Inactive Players (4)
 ====================
 
 Nickname             Registered  Made Inactive
@@ -56,7 +57,6 @@ Nickname             Registered  Made Inactive
 omd                  03 Feb 11   23 Mar 22
 CreateSource         14 May 22   24 Aug 22
 duck                 12 Mar 22   24 Aug 22
-R. Lee               22 Oct 21   24 Aug 22
 Trigon               24 Sep 17   24 Aug 22
 
 
@@ -81,6 +81,7 @@ Madrid               madridnomic at gmail.com [1]
 Murphy               murphy.agora at gmail.com [2]
 nix                  nixagora at proton.me [3]
 omd                  comexk at gmail.com [0]
+Pilgore              drpilgore@gmail.com
 R. Lee               sarahestrange0 at gmail.com
 secretsnail          secretsnail9 at gmail.com
 Trigon               reuben.staley at gmail.com
@@ -154,6 +155,7 @@ R. Lee             07 Jun 17
 4st                07 Jun 22
 nix                14 Aug 13
 Cap'n              15 Aug 22
+Pilgore            15 Aug 22
 Trigon             24 Sep 17
 Vitor Gonçalves    23 Jul 22
 

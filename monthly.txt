@@ -3,8 +3,8 @@ Below is the Registrar's Monthly Report.
 ------------------------------------------------------------------------
 Arrivals and Departures
 ------------------------------------------------------------------------
-Date of last report: 25 Jun 22
-Date of this report: 31 Jul 22
+Date of last report: 31 Jul 22
+Date of this report: 26 Aug 22
 
 
 Archive of reports on the web*: https://agoranomic.org/Registrar/
@@ -13,10 +13,11 @@ Archive of reports on the web*: https://agoranomic.org/Registrar/
 Changes this quarter
 ====================
 23 Jul 2022: Vitor Gonçalves registers.
+15 Aug 2022: Cap'n registers.
+15 Aug 2022: Pilgore registers.
 
 New in this report
 ==================
-15 Aug 2022: Cap'n registers.
 
 No information in this report is subject to self-ratification.
 
@@ -802,6 +803,7 @@ s CreateSource       createsource.nomic at gmail.com  14 May 22
 s 4st                notorious4st at gmail.com        25 Jun 22
 s Vitor Gonçalves    vitorg at tilde.team             23 Jul 22
 s Cap'n              acadia_but_real [2]              15 Aug 22
+s Pilgore            drpilgore@gmail.com              15 Aug 22
 
 
 [1] Previously emurphy42 at zoho.com.
