@@ -789,7 +789,7 @@ s Gaelan             gbs at canishe.com               15 May 17
 s G.                 kerim at uw.edu                  25 Aug 17
 s Madrid             cuddlebeam at gmail.com          25 Aug 17
 s Trigon             reuben.staley at gmail.com       24 Sep 17
-s Murphy             murphy.agora at gmail.com [3]    17 Dec 17
+s Murphy             murphy.agora at gmail.com [1]    17 Dec 17
 s Jason              jason.e.cobb at gmail.com        02 Jun 19
 s nix                nixagora at protonmail.com       18 Oct 19
 s cuddlybanana       rose.strong42 at gmail.com       16 Mar 21
@@ -801,7 +801,8 @@ s dahuman            hdrussell at outlook.com         01 Apr 22
 s CreateSource       createsource.nomic at gmail.com  14 May 22
 s 4st                notorious4st at gmail.com        25 Jun 22
 s Vitor Gonçalves    vitorg at tilde.team             23 Jul 22
-Cap'n                acadia_but_real at protonmail.com15 Aug 22
+s Cap'n              acadia_but_real [2]              15 Aug 22
 
 
-[3] Previously emurphy42 at zoho.com.
+[1] Previously emurphy42 at zoho.com.
+[2] acadia_but_real at protonmail.com

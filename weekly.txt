@@ -12,7 +12,6 @@ Events since last report
 15 Aug 2022: Cap'n registers.
 24 Aug 2022: CreateSource made inactive by Registrar.
              Duck made inactive by Registrar.
-             R. Lee made inactive by Registrar.
              Trigon made inactive by Registrar.
              Dahuman deregistered by Registrar.
              Telna deregistered by Registrar.
@@ -28,7 +27,7 @@ The following information from this section is self-ratifying:
 There are 19 Players.
 
 ===================
-Active Players (13)
+Active Players (14)
 ===================
 
 Player               Registered  Made Active
@@ -44,6 +43,7 @@ juan                 14 Mar 22   <--
 Madrid               25 Aug 17   03 Feb 21
 Murphy               17 Dec 17   03 Feb 21
 nix                  18 Oct 19   03 Feb 21
+R. Lee               22 Oct 21   <--
 secretsnail          29 Jan 22   <--
 Vitor Gonçalves      23 Jul 22   <--
 
