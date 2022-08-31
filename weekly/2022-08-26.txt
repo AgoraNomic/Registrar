@@ -1,0 +1,179 @@
+------------------------------------------------------------------------
+                         The Agoran Directory
+------------------------------------------------------------------------
+
+Date of last report: 14 Aug 2022
+Date of this report: 26 Aug 2022
+
+Archive of reports on the web: https://agoranomic.org/Registrar/
+
+Events since last report
+========================
+15 Aug 2022: Cap'n registers.
+             Pilgore registers.
+24 Aug 2022: CreateSource made inactive by Registrar.
+             Duck made inactive by Registrar.
+             Trigon made inactive by Registrar.
+             Dahuman deregistered by Registrar.
+             Telna deregistered by Registrar.
+
+Players, activity, and registration dates
+=========================================
+
+The following information from this section is self-ratifying:
+- The value of each instance of the Citizenship switch (implied by the
+  list of players).
+- The value of each instance of the Activity switch.
+
+There are 19 Players.
+
+===================
+Active Players (14)
+===================
+
+Player               Registered  Made Active
+------               ----------  -----------
+4st                  07 Jun 22   <--
+ais523               08 Jun 21   <--
+Cap'n                15 Aug 22   <--
+cuddlybanana         16 Mar 21   <--
+G.                   25 Aug 17   03 Feb 21
+Gaelan               15 May 17   03 Feb 21
+Jason                02 Jun 19   03 Feb 21
+juan                 14 Mar 22   <--
+Madrid               25 Aug 17   03 Feb 21
+Murphy               17 Dec 17   03 Feb 21
+nix                  18 Oct 19   03 Feb 21
+R. Lee               22 Oct 21   <--
+secretsnail          29 Jan 22   <--
+Vitor Gonçalves      23 Jul 22   <--
+
+====================
+Inactive Players (4)
+====================
+
+Nickname             Registered  Made Inactive
+--------             ----------  -------------
+omd                  03 Feb 11   23 Mar 22
+CreateSource         14 May 22   24 Aug 22
+duck                 12 Mar 22   24 Aug 22
+Trigon               24 Sep 17   24 Aug 22
+
+
+Contact information
+===================
+
+(Required by rule 2139.)
+
+Player               Contact
+------               -------
+4st                  notorious4st at gmail.com
+ais523               callforjudgement at yahoo.co.uk
+Cap'n                acadia_but_real at protonmail.com
+CreateSource         createsource.nomic at gmail.com
+cuddlybanana         rose.strong42 at gmail.com
+duck                 skullcat.test at gmail.com
+G.                   kerim at uw.edu
+Gaelan               gbs at canishe.com
+Jason                jason.e.cobb at gmail.com
+juan                 juan at juanmeleiro.mat.br
+Madrid               madridnomic at gmail.com [1]
+Murphy               murphy.agora at gmail.com [2]
+nix                  nixagora at proton.me [3]
+omd                  comexk at gmail.com [0]
+Pilgore              drpilgore@gmail.com
+R. Lee               sarahestrange0 at gmail.com
+secretsnail          secretsnail9 at gmail.com
+Trigon               reuben.staley at gmail.com
+Vitor Gonçalves      vitorg at tilde.team
+
+
+[0] officially, but technically equivalent c.ome.xk at gmail.com
+[1] Formerly cuddlebeam at gmail.com.
+[2] Previously emurphy42 at zoho.com.
+[3] Also nchagora at protonmail.com, nichevans at mailbox.org,
+    and nixnull+agora at protonmail.com
+
+Fora
+====
+
+The publicity switch values (Rule 478) are self-ratifying.
+
+Publicity    Location or description                 Typical use
+---------    -----------------------                 -----------
+Public       agora-official at agoranomic.org        official reports
+Public       agora-business at agoranomic.org        other business
+Discussion   agora-discussion at agoranomic.org      discussion
+Discussion   https://discord.gg/JCC6YGc              discussion
+Foreign*     irc://irc.libera.chat:6667/##nomic      discussion
+Public       agora at listserver.tue.nl              backup
+Public       agoranomic at groups.io **              backup
+
+*This is the current IRC forum. We may replace it with another, but in
+the long run one IRC channel or another will be made a discussion forum.
+
+**The forum is specifically just that email list. From the message that
+made it public: "Note that although groups.io provides many features
+besides email, the forum I am referring to is specifically the email
+list: if something doesn't get to Gio's subscribers by email, it wasn't
+sent via Gio.
+
+Subscribe or unsubscribe from main
+lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup
+list:http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.libera.chat, port 6667, channel ##nomic, and whatever
+nickname you like.
+
+You can subscribe to GIO by messaging the following email
+main+subscribe at agoranomic.groups.io
+
+Birthdays
+=========
+
+Registrar's estimates of Players' first dates of registration, sorted by
+month and day.
+
+This section is not self-ratifying and may be inaccurate.
+
+Murphy             ? ("< 23 Jan 96" in Registrar's monthly report)
+secretsnail        29 Jan 22
+G.                 04 Feb 01
+juan               14 Mar 22
+cuddlybanana       16 Mar 21
+dahuman            01 Apr 22
+ais523             28 Apr 08
+omd                01 May 07
+CreateSource       13 May 22
+Madrid             20 May 17
+Gaelan             27 May 15
+Jason              02 Jun 19
+R. Lee             07 Jun 17
+4st                07 Jun 22
+nix                14 Aug 13
+Cap'n              15 Aug 22
+Pilgore            15 Aug 22
+Trigon             24 Sep 17
+Vitor Gonçalves    23 Jul 22
+
+Watchers
+========
+
+There are 4 watchers.
+
+The list of Watchers is not governed by the rules, but is
+traditionally maintained in the Registrar's Report.  If you'd like to
+be listed as a Watcher or removed from the list, feel free to email
+the fora or the Registrar directly.
+
+Nickname          Contact                                 Last confirmed
+--------          -------                                 --------------
+Dave              davidnicol at gmail.com                 2021 February
+Ørjan             oerjan at nvg.ntnu.no                   2021 June
+Steve             zardoz37 at gmail.com                   2021 June
+ATMunn            iamingodsarmy at gmail.com              2022 March
+
+------------------------------------------------------------------------

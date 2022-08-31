@@ -1,0 +1,810 @@
+Below is the Registrar's Monthly Report.
+
+------------------------------------------------------------------------
+Arrivals and Departures
+------------------------------------------------------------------------
+Date of last report: 31 Jul 22
+Date of this report: 26 Aug 22
+
+
+Archive of reports on the web*: https://agoranomic.org/Registrar/
+*not up to date
+
+Changes this quarter
+====================
+23 Jul 2022: Vitor Gonçalves registers.
+15 Aug 2022: Cap'n registers.
+15 Aug 2022: Pilgore registers.
+
+New in this report
+==================
+
+No information in this report is subject to self-ratification.
+
+
+Writs of FAGE (Rule 1789)
+Player            Date
+------            ----
+Kelly             17 Sep 95
+Andre             13 Feb 99
+BobTHJ            16 Jan 08
+P1                 5 Nov 08
+P2                 5 Nov 08
+P3 to P100 [1]     6 Nov 08
+Wooble            01 Sep 11
+G.                29 Jun 17
+Telnaior          29 Jan 19
+Warrigal          23 Apr 20
+Aspen             08 May 22
+
+[1] P3 to P100 inclusive each deregistered in writs of FAGE on this
+    date.
+
+
+Registration history of persons who have registered and deregistered
+at least once (imperfect, corrections welcomed)
+
+(a)bandoned       (l)awless
+(v)oluntary       (d)eported
+(w)rit of FAGE    deregistered emself by mista(k)e
+(p)roposal        d(e)stroyed
+(r)atification    (u)known
+e(x)iled          (s)till registered
+
+
+abbreviation & player         contact             registered   deregistered
+---------------------     ---------------         ----------   ------------
+
+Left in 1994:
+
+(There's some discussion of this section's dates in a February-March 2021
+thread in agora-discussion with subject "[Registrar] Monthly Report".)
+
+u Alexx               alexx at world.std.com                    <= 5 Apr 94
+u Andy Latto          andyl at harlequin.com                    <= 5 Apr 94
+u Douglas Jahnke      chaotic at ksuvm.ksu.edu                  <= 5 Apr 94
+u Jim                 jcs at zycor.lgc.com                      <= 5 Apr 94
+u Karl Anderson       karl at reed.edu                          <= 5 Apr 94
+u Kirt                dankmyer at ac.grin.edu                   <= 5 Apr 94
+u Matt                pardo at gibbs.oit.unc.edu                <= 5 Apr 94
+v Waggie              dgwagner at math.uwaterloo.ca             <= 5 Apr 94
+u Wes                 wesc at ichips.intel.com                  <= 5 Apr 94
+u Timothy             timothy.ferguson at jcu.edu.au            <=12 Sep 94
+
+Left in 1995:
+u Dave Bowen          david.bowen at cray.com        <= 5 Apr 94    unknown
+u Nicol               dnicol at primus.cstp.umkc.edu <= 5 Apr 94    unknown
+u Lance               lab at biostat.mc.duke.edu     <= 5 Apr 94    unknown
+u Stella?             kunne at cernvm.cern.ch        <= 5 Apr 94    unknown
+u Alice               cat at orion.mrc.unm.edu       <= 5 Apr 94    unknown
+u Duane               duanew at atlas.com            <= 5 Apr 94    unknown
+u Eric Scheirer       escheire at cim470.mitre.org   <= 5 Apr 94    unknown
+u Gustalff Zibrowski  clarkc at cpsc.ucalgary.ca     <= 5 Apr 94    unknown
+u Larry Smithmier     smithmierjr at uamont.edu      <= 5 Apr 94    unknown
+u Jason2                                                                 95
+u Susan                                                                  95
+u Brian Greer                                                        Aug 95
+u TAL                kunne at ipno.in2p3.fr                          Aug 95
+u Pascal             jreed at waun.tdsnet.com                95      Aug 95
+u JonRock                                                            Oct 95
+u Garth                                                  Sep 95      Oct 95
+u wutold                                                 Oct 95      Oct 95
+u Einstein                                                           Oct 95
+u Jeffrey S.                                                      25 Oct 95
+u Xanadu             A.Bishop at student.anu.edu.au               26 Oct 95
+u CoCo                                                   Oct 95      Nov 95
+w Kelly                                                            7 Nov 95
+u elJefe             eljefe at eastpac.com                        22 Nov 95
+u Oerjan                                                 Sep 95      Dec 95
+u Zefram             zefram at tao.co.uk            <=16 Jun 95      Dec 95
+u Marc Slager                                         22 Nov 95      Dec 95
+u CoCo                                                             3 Dec 95
+u SaltWater          gorgonne at becker.u.was...[1]               11 Dec 95
+
+[1] gorgonne at becker.u.washington.edu
+
+Left in 1996:
+
+u KoJen              cogen at ll.mit.edu                           1 Jan 96
+a?Vlad               c647100 at showme.missouri.edu   14 Nov 95    1 Jan 96
+a Ian Cabell         ian at yak.net                                2 Jan 96
+u Oerjan                                                           3 Jan 96
+u Pascal             jreed at waun.tdsnet.com         15 Nov 95   21 Jan 96
+v Wes                wesc at antitribu.com          <= 8 Nov 95   21 Feb 96
+u Dave Bowen         david.bowen at cray.com        <=10 Jan 95   21 Feb 96
+u Vlad               c647100 at showme.missouri.edu      Jan 96   21 Feb 96
+u Swann              saswann at gwis.com              14 Nov 95   23 Feb 96
+u Coren              coren at teleport.com          <=21 Feb 96      Mar 96
+u Wes                gecko at magika.com                           6 Mar 96
+u Greycell           dshannon at ga.com.au               Mar 96   21 Mar 96
+u Ghost              labrown at dg-rtp.dg.com       <=21 Feb 96   25 Mar 96
+u Blob               malcolmr at cse.unsw.edu.au       6 Jan 96   31 Mar 96
+u Doug               dchatham at utk.edu            <= 2 Feb 96   13 Apr 96
+u dcuman             shodan at indirect.com         <=31 Jan 96   23 Apr 96
+u Narcisse           hap at iglou.com                    Apr 96   21 May 96
+u Jtael              mhough at leland.stanford.edu  <=21 Feb 96   24 Jul 96
+u Kelly                                               17 Nov 95   29 Jul 96
+u else...if          htowsner at stanford.edu [1]     30 Jul 96   21 Aug 96
+u Kelly                                                  Oct 96    7 Nov 96
+a Coren              coren at teleport.com               Sep 96   20 Dec 96
+
+[1] (aka Henry)
+
+Left in 1997:
+
+v KoJen              cogen at ll.mit.edu               2 Jan 96   12 Jun 97
+v favor              chess at watson.ibm.com        <= 7 Nov 95   12 Jun 97
+u Elde               elde at hurricane.net          <=16 Apr 97    4 Oct 97
+v Zefram             zefram at tao.co.uk               4 Jan 96   29 Oct 97
+u Morendil           laurent at netdive.com         <=11 Oct 95 <= 3 Nov 97
+v ChrisM             cmonsour at Princeton.EDU      <=23 Oct 95   11 Nov 97
+u Blob               malcolmr at cse.unsw.edu.au         Nov 96 <=20 Nov 97
+a Calabresi          mcdaniel at law.harvard.edu                   5 Dec 97
+a Vanyel             dpb at cs.brown.edu            <=21 Feb 96    5 Dec 97
+
+Left in 1998:
+
+a Vir                eer at nwu.edu                    4 Sep 97   13 Jan 98
+v Andre              engels at win.tue.nl                Nov 94   22 Jan 98
+a Time Agent         dAndreasen at pctb.com           16 Jan 98   16 Apr 98
+v Jester             KJarvis at interworx.com.au       2 Jan 98    1 May 98
+v Sherlock           jfry77 at yahoo.com              16 Jan 98   14 May 98
+a Swann              saswann at gwis.com              29 Oct 97   15 Sep 98
+v Antimatter         rmorganl at fred.fhcrc.org        5 Mar 98   31 Oct 98
+u Harlequin          charlequin at yahoo.com             Jan 97   27 Nov 98
+
+Left in 1999:
+
+a Proglet            proglet at usa.net                9 Nov 98   15 Jan 99
+v lee                lee at pyrzqxgl.org              18 Jul 98    8 Feb 99
+w Andre              engels at win.tue.nl             28 Nov 98   13 Feb 99
+v Macross            macross at bellatlantic.net      21 May 98   22 Mar 99
+u Kelly                                                  Mar 97   12 Apr 99
+v Vlad               c647100 at showme.missouri.edu   28 Jan 99   20 Jun 99
+l Morendil           laurent at netdive.com            3 Nov 97   28 Jun 99
+v The Colonel        blafard at uclink4.berkeley.edu   7 Aug 99    8 Aug 99
+l Beefurabi          david at kasey.umkc.edu          19 Apr 99    7 Sep 99
+v Annabel            lenore at sdf.lonestar.org       29 Jul 99    1 Oct 99
+v Kolja A.           herrmanns at rhein-neckar...[1]   2 Jul 97   16 Dec 99
+
+[1] herrmanns at rhein-neckar.netsurf.de
+
+Left in 2000:
+
+u Oerjan                                                 Apr 96   22 Mar 00
+v elJefe             eljefe at eastpac.com               Jan 96   16 Apr 00
+v else...if          htowsner at stanford.edu [1]     15 Apr 00   21 May 00
+v Sherlock           jfry77 at yahoo.com              31 Jan 00   25 Jul 00
+u lee                lee at pyrzqxgl.org               4 Jun 99    2 Sep 00
+v Andre              engels at win.tue.nl             18 Aug 00    6 Dec 00
+
+[1] aka Henry
+
+Left in 2001:
+
+v Palnatoke          palnatoke at get2net.dk          27 Jul 99   27 Mar 01
+v Stuart             stuart.presnell at bristo...[1]  24 Feb 01   26 Apr 01
+v loh                loh at lohnet.org                19 Jan 01   23 May 01
+v Annabel            lenore at sdf.lonestar.org       16 May 01   31 May 01
+a Chuck              games_na at chuckcarroll.org      1 Sep 93    8 Jun 01
+u lee                lee at pyrzqxgl.org              13 Dec 00    8 Jul 01
+v Ziggy              me at davidglasser.net           14 Jan 01    9 Jul 01
+u Kelly              kmartin at pyrzqxgl.org           1 May 00   10 Jul 01
+v Yoz420             tlifschitz at empirix.com         8 Mar 01   26 Jun 01
+u Harlequin          charlequin at yahoo.com          10 Jan 00   20 Aug 01
+u Wes                wesc at antitribu.com            18 May 99    7 Sep 01
+u Anthony            abriggs at iinet.net.au          11 Feb 00   10 Sep 01
+u David              David.Dickens at pepperdine.edu  18 Dec 00   10 Sep 01
+u Grech              xe5j0y4halv3ev001 at snea...[2]   5 Feb 01   10 Sep 01
+u Novalis            turnerd at reed.edu              14 Feb 00   10 Sep 01
+u Schneidster        Et3schneid at aol.com            12 Jun 99   10 Sep 01
+u Blob               malcolmr at cse.unsw.edu.au      20 Nov 97   10 Sep 01
+u Peekee             pkpeekee at hotmail.com          25 Dec 98    7 Oct 01
+u Ian                oneiros at ferret.lmh.ox.ac.uk    2 Apr 01    8 Oct 01
+u Hooloovoo          mhui421 at hotmail.com           22 Feb 01    8 Oct 01
+u Elysion            elysion at mindspring.com        23 Feb 99    1 Nov 01
+u Evantine           gordonhogenson at hotmail.com     9 Feb 01    1 Nov 01
+u Lindrum            lindrum at panix.com              9 Feb 01    1 Nov 01
+u solublefish        WGarner at Empirix.com           31 Mar 01   12 Nov 01
+u S.                 bookfool2001 at hotmail.com      30 May 01   17 Nov 01
+
+[1] stuart.presnell at bristol.ac.uk
+[2] xe5j0y4halv3ev001 at sneakemail.com
+
+Left in 2002:
+
+  Blaise             bmbuck at 14850.com              10 Sep 01   11 Mar 02
+  Razl               agora at peng.dyndns.org          8 Feb 01   25 Mar 02
+a pTang              nau at treyarch.com              21 Sep 00   12 May 02
+v Crito              dalbertz at mrb.state.ma.us      19 Feb 97   29 May 02
+a Syllepsis          agora at syllepsis.org            5 Feb 01   30 Sep 02
+
+Left in 2003:
+
+a neil               neil at s-z.org                  24 Jun 01    2 Mar 03
+a Craig              raganok at intrex.net            25 Apr 02    9 Mar 03
+v Goethe             kerim at u.washington.edu         4 Feb 01   24 Mar 03
+v Cecilius           cecilius at vivace.homeli...[1]   4 Dec 02   10 Aug 03
+a Manu               pacu at sympatico.ca             14 Mar 03   20 Aug 03
+
+[1] cecilius at vivace.homelinux.net
+
+Left in 2004:
+
+a Blob               malcolmr at cse.unsw.edu.au      21 Jan 03   22 Feb 04
+a Magu               mschmahl at acsalaska.net        24 Dec 03   11 Apr 04
+a Peekee             peekee at blueyonder.co.uk        6 Sep 02   11 Apr 04
+a Cainech            cainech at hotmail.com            9 Feb 04   19 Jun 04
+a Steve              gardner at sng.its.monash...[1]   1 Jul 94   19 Jun 04
+v Elysion            boehmejo at msu.edu              10 Feb 04    9 Sep 04
+a Oerjan             oerjan at nvg.ntnu.no            15 Jul 00   14 Nov 04
+a Wes                netgecko99 at yahoo.com          12 Apr 04   14 Nov 04
+
+[1] gardner at sng.its.monash.edu.au
+
+Left in 2005:
+
+a t                  scurra at iki.fi                 14 Oct 99    5 Jan 05
+l Pakaran            windrunner at gmail.com           4 Oct 02    7 Apr 05
+v gazebo_dude        no.spoon.neo at gmail.com        12 Mar 05   11 Apr 05
+a Sir Toby           jjweston at kenny.sir-toby.com    3 Feb 02   20 May 05
+v Sherlock           jfry77 at yahoo.com              29 Jan 03   21 Jun 05
+v Riail              cpatti at gmail.com              19 May 04   29 Jul 05
+
+Left in 2006:
+
+a Kolja              kolja_nomic at yahoo.de           3 Feb 04   19 Jan 06
+a RedKnight          redwallknight at hotmail.com     21 Jul 02   19 Jan 06
+v Goddess Eris       taral at taral.net                3 Apr 00   13 Dec 06
+v Maud               m.slone at gmail.com             20 Apr 99   13 Dec 06
+v root               kellyia at udel.edu              13 May 01   18 Dec 06
+
+Left in 2007:
+
+v Goethe             kerim at u.washington.edu        14 Jul 03   22 Jan 07
+                (Writ of FAGE published 18 Dec 2006, resolved by Prop 4882)
+v Michael            michael.norrish at nicta.com.au  29 Jun 93   13 Mar 07
+v Cecilius           organist at gmail.com            22 Dec 06   23 Mar 07
+v Goethe             kerim at u.washington.edu        23 Feb 07   14 May 07
+v Sherlock           jfry77 at yahoo.com               4 Feb 06   14 May 07
+v Maud               m.slone at gmail.com              7 Mar 07   14 May 07
+v Second System Effect c/o Murphy                     13 May 07   20 May 07
+p Human Point Three    c/o Murphy                     14 May 07   23 May 07
+p Human Point Four     c/o Murphy                     14 May 07   23 May 07
+p Human Point Five     c/o Murphy                     14 May 07   23 May 07
+p Human Point Six      c/o Murphy                     14 May 07   23 May 07
+p Human Point Seven    c/o Murphy                     14 May 07   23 May 07
+p Human Point Eight    c/o Murphy                     14 May 07   23 May 07
+p Human Point Nine     c/o Murphy                     14 May 07   23 May 07
+p Human Point Ten      c/o Murphy                     14 May 07   23 May 07
+p Human Point Eleven   c/o Murphy                     14 May 07   23 May 07
+p Human Point Twelve   c/o Murphy                     14 May 07   23 May 07
+p Human Point Thirteen c/o Murphy                     14 May 07   23 May 07
+p Human Point Fourteen c/o Murphy                     14 May 07   23 May 07
+p arkestra           arkestra at gmail.com             2 Mar 06   31 May 07
+p GreyKnight         greyknight3 at yahoo.com          6 Sep 06   31 May 07
+p Peter              civilianjones at gmail.com       24 Dec 06   31 May 07
+p sproingie          cja987 at gmail.com              20 Dec 06   31 May 07
+p Yang Corp          <none>                           21 May 07   31 May 07
+p Yin Corp           <none>                           21 May 07   31 May 07
+The Hanging Judge c/o Zefram and comex                22 May 07    9 Jun 07
+v Peekee             agora at peekee.co.uk             3 Aug 07   12 Aug 07
+The Host c/o Levi and Murphy                          21 Aug 07   30 Aug 07
+v Murphy             emurphy42 at socal.rr.com      < 23 Jan 96   24 Sep 07
+v Wooble             geoffspear at gmail.com           3 Jul 07   30 Sep 07
+v BobTHJ             pidgepot at gmail.com            30 Apr 07    1 Oct 07
+p Manu               sensoz at gmail.com              16 Dec 04   18 Oct 07
+p Quazie             quazienomic at gmail.com         15 Feb 05   18 Oct 07
+d Primo Corporation  c/o BobTHJ                       11 May 07   23 Oct 07
+a bd_                bdonlan at fushizen.net          20 Jun 07   20 Dec 07
+a Pavitra            celestialcognition at gmail.com  10 Aug 07   20 Dec 07
+
+Left in 2008:
+
+d Agora's Child      agoras-child at googlegro...[1]   3 Dec 07    2 Jan 08
+d Big Brother        c/o comex                        17 Sep 07    2 Jan 08
+    (Big Brother's registration status was UNDETERMINED per CFJ 1744)
+d Human Point Two    c/o OscarMeyr                    29 Apr 07    2 Jan 08
+d P2P Partnership    c/o root                         22 Dec 07    2 Jan 08
+d WALRUS             c/o pikhq                        20 Dec 07    2 Jan 08
+w BobTHJ             pidgepot at gmail.com             5 Nov 07   16 Jan 08
+a hedgehogcull       jon at peekee.co.uk              16 Aug 07    1 Feb 08
+v Levi               levi.stephen at optusnet.com.au   7 Mar 07   17 Feb 08
+a Peekee             agora at peekee.co.uk            11 Sep 07   31 Mar 08
+v Goethe             kerim at u.washington.edu        27 Oct 07   16 May 08
+a Jeremy             koojeremy at gmail.com           28 Jan 08   20 Jun 08
+k ehird              penguinofthegods at gmail.com     8 May 08   24 Jun 08
+v Teh Cltohed Mna*   penguinofthegods at gmail.com     8 May 08   24 Jun 08
+d ehrid              c/o ehird                         9 Jun 08   27 Jun 08
+d Bank of Agora      c/o Ivan Hope CXXVII             14 Apr 08   29 Jun 08
+k Ivan Hope CXXVII   ihope127 at gmail.com            30 Jan 08   14 Jul 08
+a Offhanded          clarion.rain at gmail.com        29 Apr 08    2 Oct 08
+a Iammars            iammars21 at gmail.com            9 Dec 07    2 Oct 08
+k Ivan Hope CXXVII   ihope127 at gmail.com            16 Aug 08    7 Oct 08
+a S's Cat**          schrodingers.katana at gm...[2]  12 Jun 08   24 Oct 08
+a avpx               nickv111 at gmail.com            24 Nov 07   24 Oct 08
+w P1                 c/o comex                         5 Nov 08    5 Nov 08
+w P2                 c/o comex                         5 Nov 08    5 Nov 08
+w P3 - P100          c/o comex                         6 Nov 08    6 Nov 08
+a cctoide            cctoide at gmail.com             30 Jun 08   16 Nov 08
+a doopy              groberts80906 at gmail.com       15 Jun 08   16 Nov 08
+d P1 - P100          c/o comex                        16 Nov 08   25 Nov 08
+v Sheeple            c/o ehird                        16 Nov 08    1 Dec 08
+a Olipro             olipro+agora at gmail.com         7 Jul 08    7 Dec 08
+d Left Hand          c/o Murphy                       12 Jan 08    8 Dec 08
+v 0x44               bnomic at indistinct.org         10 Oct 08   30 Dec 08
+
+[1] agoras-child at googlegroups.com
+[2] schrodingers.katana at gmail.com
+
+*  Teh Cltohed Mna Ni Teh Drak Woh Wtaches Adn Nevre Sasy A Wrod Execpt
+          Wehn Psoessed Yb Dmeons Mcuhly Precocupied
+** Schrodinger's Cat
+
+Left in 2009:
+
+a arkestra           arkestra at gmail.com            31 Jul 08   12 Jan 09
+a cdm014             cdm014 at gmail.com              17 Jun 08   12 Jan 09
+a Quazie             quazienomic at gmail.com          5 Jun 08   12 Jan 09
+v ehird              penguinofthegods at googl...[3]   9 Aug 08   26 Jan 09
+v root               ian.g.kelly at gmail.com         22 May 07   26 Jan 09
+v Warrigal           ihope127+w at gmail.com           6 Nov 08   13 Feb 09
+a gavin              hawkblack13 at gmail.com         17 Oct 08   16 Feb 09
+a oklopol            oklopol at gmail.com              7 Oct 08   16 Feb 09
+a pikhq              josiahw at gmail.com             16 Sep 07   16 Feb 09
+a Zefram             zefram at fysh.org               10 Jan 07   16 Feb 09
+a Pineapple P        pineapple at fysh.org            26 Feb 07   16 Feb 09
+p Protection Racket  c/o BobTHJ                       23 Jun 08   22 Feb 09
+p Reformed Ban...[4] c/o BobTHJ                       23 Jun 08   22 Feb 09
+u AFO                c/o Murphy                       17 Sep 07   11 Feb 09
+v Goethe             kerim at u.washington.edu        19 Jun 08    1 Apr 09
+a Elysion            boehmejo at msu.edu              20 Oct 08    7 Apr 09
+a Craig              teucer at pobox.com               3 Jan 09   19 Apr 09
+a harblcat           cblair1986 at gmail.com          28 Nov 08   19 Apr 09
+a Sir Toby           jjweston at gmail.com            10 Sep 08   19 Apr 09
+v Nameless           pr76952a at hotmail.com          22 Apr 09   13 May 09
+a w1n5t0n            chuckles11489 at gmail.com       30 Nov 08   17 May 09
+d Human Point Two    quazienomic at gmail.com         20 Jun 08   26 May 09
+v root               ian.g.kelly at gmail.com         27 Mar 09   26 May 09
+d Bayes              none                              1 Oct 08   26 May 09
+a Billy Pilgrim      bad.leprechaun at gmail.com      22 Oct 08    5 Jun 09
+a cmealerjr          cdm014 at gmail.com              26 Jan 09    5 Jun 09
+a j                  agora at jaycampbell.com         13 Dec 09    5 Jun 09
+d Caste8a[1]         c/o C-walker                     18 Jun 09   18 Jun 09
+d Caste8b[1]         c/o C-walker                     18 Jun 09   18 Jun 09
+d Caste8c[1]         c/o C-walker                     18 Jun 09   18 Jun 09
+d Caste8d[1]         c/o C-walker                     18 Jun 09   18 Jun 09
+d Caste8e[1]         c/o C-walker                     18 Jun 09   18 Jun 09
+d Caste8f[1]         c/o C-walker                     18 Jun 09   18 Jun 09
+d Tiger Jr.[1]       c/o Tiger                        18 Jun 09   18 Jun 09
+d PNP                perlnomic at nomictools.com      21 Jan 08   28 Jun 09
+v Warrigal           ihope127+w at gmail.com          16 Mar 09    6 Jul 09
+d Tiger Jr.[1]       c/o Tiger?                       18 Jun 09   10 Jul 09
+d Caste8a[1]         c/o C-walker?                    18 Jun 09   10 Jul 09
+d Caste8b[1]         c/o C-walker?                    18 Jun 09   10 Jul 09
+d Caste8c[1]         c/o C-walker?                    18 Jun 09   10 Jul 09
+d Caste8d[1]         c/o C-walker?                    18 Jun 09   10 Jul 09
+d Caste8e[1]         c/o C-walker?                    18 Jun 09   10 Jul 09
+d Caste8f[1]         c/o C-walker?                    18 Jun 09   10 Jul 09
+v Darth Cliche       kennercat at gmail.com           24 Jul 09   31 Jul 09
+v Warrigal           ihope127+ at gmail.com            6 Aug 09    6 Aug 09
+v G.                 kerim at u.washington.edu         4 May 09   10 Aug 09
+a Randy Olsha        moronservices at gmail.com        6 Apr 09   17 Aug 09
+a modulus            david at miradoiro.com           22 Apr 09   24 Aug 09
+a Ben Daniel         ben at bendaniel.us              28 Apr 09   24 Aug 09
+a Dvorak Herring     dvorak.herring at gmail.com      10 Sep 08   27 Sep 09
+a gwen               quazienomic at gmail.com          6 May 09   27 Sep 09
+a Luke Lockhart      luke.lockhart at gmail.com        4 Jun 09   27 Sep 09
+a Manu               sensoz at gmail.com               1 May 09   27 Sep 09
+a OscarMeyr          ke3om at verizon.net              4 Mar 02   27 Sep 09
+a Spitemaster        bennerguy at gmail.com            7 Mar 09   27 Sep 09
+a thespyguy          thespyguy at gmail.com           19 May 09   27 Sep 09
+d Livenomic Partn... livenomic at nomictools.com      17 Sep 09   10 Oct 09
+l Wooble             geoffspear at gmail.com          16 Nov 07   17 Oct 09
+v Walker             charles.w.walker at googl...[5]  25 Apr 09   24 Oct 09
+a allispaul          allispaul at gmail.com            3 Jun 09   14 Nov 09
+a pikhq              josiahw at gmail.com             10 Mar 09   14 Nov 09
+a Rodlen             rodlenjack at gmail.com          24 Mar 09   14 Nov 09
+a Siege              thesiege at gmail.com            26 Nov 08   14 Nov 09
+a teucer             teucer at pobox.com               4 Jun 09   14 Nov 09
+a zeckalpha          zeckalpha at gmail.com           30 May 09   14 Nov 09
+a People's Bank...[7] c/o PNP?                        14 Oct 08   14 Nov 09
+d SCHWA              c/o Warrigal?                    28 Jun 09   14 Nov 09
+a Edmond Dantes      dmarketdantes at gmail.com        2 Aug 09   17 Nov 09
+a JonnyRotten        jon.gilmour at gmail.com         30 Jul 09   17 Nov 09
+a S's Cat [2]        schrodingers.katana at gm...[6]  17 Nov 08   17 Nov 09
+
+[1] The effectiveness of all of these are in question; before the 10
+July deregistrations it may have been impossible to deregister
+these entities, or they may have automatically re-registered.
+[2] Schrodinger's Cat
+[3] penguinofthegods at googlemail.com
+[4] Reformed Bank of Agora
+[5] charles.w.walker at googlemail.com
+[6] schrodingers.katana at gmail.com
+[7] People's Bank of Agora
+
+Left in 2010:
+
+d Normish Part...[2] root at normish.org              12 Aug 08   17 Jan 10
+a Darth Cliche       kennercat at gmail.com           22 Sep 09   26 Jan 10
+a Quazie             quazienomic at gmail.com         27 Apr 09   26 Jan 10
+a woggle             woggling at gmail.com            23 Dec 07   26 Jan 10
+v Wooble             geoffspear at gmail.com          17 Nov 09   30 Jan 10
+v Walker             charles.w.walker at googl...[3]   5 Dec 09   30 Jan 10
+d IBA                c/o comex?                       21 Aug 09    2 Mar 10
+v Wooble             geoffspear at gmail.com          21 Mar 10    1 Apr 10
+v Pavitra            celestialcognition at gmail.com  25 Jan 08   14 Apr 10
+a Ienpw III          james.m.beirne at gmail.com       4 Aug 09   15 Jun 10
+a Phoenix            benuphoenix2 at gmail.com        17 Dec 09   15 Jun 10
+a BobTHJ             pidgepot at gmail.com            17 Jan 08    1 Aug 10
+a allispaul          allispaul at gmail.com           26 Feb 10    7 Sep 10
+a Andon              aozeba at gmail.com               1 Mar 10    7 Sep 10
+a Epaeris            hermitchipmunk at gmail.com      18 Apr 10    7 Sep 10
+a Spitemaster        bennerguy at gmail.com            8 Mar 10    7 Sep 10
+a woggle             woggling at gmail.com            23 Dec 07   11 Oct 10
+k Wooble             geoffspear at gmail.com           2 May 10   22 Nov 10
+v omd[1]             comexk at gmail.com               1 May 07   27 Dec 10
+
+[1] (Cantus Cygneus submitted 25 Dec, published 28 Dec, but omd
+deregistered voluntarily 27 Dec)
+[2] Normish Partnership 2
+[3] charles.w.walker at googlemail.com
+
+Left in 2011:
+
+v scshunt            scshunt at csclub.uwaterloo.ca    7 Mar 09   26 Jan 11
+v Wooble             geoffspear at gmail.com          22 Dec 10   31 Jan 11
+v ais523             ais523 at bham.ac.uk             28 Apr 08    4 Feb 11
+v Taral              taralx at gmail.com              28 Apr 07    4 Feb 11
+a Ienpw III          james.m.beirne at gmail.com       2 Oct 10    8 Mar 11
+a Keba               agora at kebay.org               12 Aug 10    8 Mar 11
+a Tiger              jonatan.kilhamn at gmail.com [1]  2 Feb 09    8 Mar 11
+a Darth Cliche       kennercat at gmail.com           16 Dec 10    6 Apr 11
+a Flameshadowx...[3] [2]                              10 Nov 10    6 Apr 11
+v Wooble             geoffspear at gmail.com           3 Mar 11   15 Apr 11
+a BobTHJ             pidgepot at gmail.com            28 Dec 10   26 Jun 11
+a Wofi               wofi253 at yahoo.com             30 Mar 11   26 Jun 11
+v Wooble             geoffspear at gmail.com          17 May 11   28 Jun 11
+v root               ian.g.kelly at gmail.com         29 Jun 11   29 Jun 11
+a Sgeo               sgeoster at gmail.com            27 Jun 08   31 Jul 11
+a Florw              florwx at gmail.com              13 Apr 11   31 Jul 11
+a Quazie             quazienomic at gmail.com         12 Apr 11   31 Jul 11
+v G.                 kerim at u.washington.edu        29 Oct 09    9 Aug 11
+w Wooble             wooble at nomictools.com         29 Jul 11    1 Sep 11
+v ehird              penguinofthegods at googl...[4]  26 Feb 09   14 Oct 11
+a Gondolier          gondola43 at gmail.com           24 Jun 11   11 Nov 11
+a BobTHJ             pidgepot at gmail.com            13 Jul 11    8 Dec 11
+a Droowl             droowl at gmail.com               4 Jun 11    8 Dec 11
+a Flameshadowx...[3] [2]                               5 Jul 11    8 Dec 11
+a Math321            math321 at ymail.com             28 Jun 11    8 Dec 11
+a Turiski            turiski.nomic at gmail.com       20 Apr 11    8 Dec 11
+
+[1] Later switched to natalie.kilhamn at gmail.com
+[2] Flameshadowxeroshin at gmail.com
+[3] Flameshadowxeroshin
+[4] penguinofthegods at googlemail.com
+
+Left in 2012:
+
+v Tiger              jonatan.kilhamn at gmail.com [1] 12 Jul 11   26 Jan 12
+v Mr. Incredible     c/o omd                          16 Feb 12   17 Feb 12
+e Tweedledee         c/o G.                           16 Feb 12   22 Feb 12
+e Tweedledum         c/o G.                           16 Feb 12   22 Feb 12
+v Flameshadowx...[5] flameshadowxeroshin at gm...[6]   9 Jan 12   28 Feb 12
+v ehird              penguinofthegods at gmail.com     5 Dec 11   28 Feb 12
+v Machiavelli        swettt at mail.gvsu.edu           1 Sep 09   29 Feb 12
+v Golem-1-50         c/o FKA441344                    04 Mar 12   05 Mar 12
+v Ghost              c/o Bucky [4]                    31 Mar 12   31 Mar 12
+v The President      c/o the Speaker [2]         13 May 12
+e Number Two         c/o Murphy                       17 Feb 12   05 Jun 12
+e The Diplomat       c/o Blognomic (blognomic.com)    31 Mar 12   05 Jun 12
+v I create [3]       c/o omd                          08 Jun 12   13 Jul 12
+v Scapegoat          c/o the number 441,344           08 Jun 12   06 Aug 12
+v ehird              penguinofthegods at googl...[5]  09 Apr 12   28 Sep 12
+a davidcjackman      davidcjackman at gmail.com        2 Jan 12   19 Oct 12
+a Florw              florwx at gmail.com              17 Mar 12   19 Oct 12
+a kcnomic            kcnomic at gmail.com             25 Mar 12   19 Oct 12
+a pikhq              josiahw at gmail.com             21 Oct 11   19 Oct 12
+a Sonny Jim          sonny_jim at studiofrobel.com    23 Jan 12   19 Oct 12
+a woggle             woggling at gmail.com            30 May 11   19 Oct 12
+
+[1] Later switched to natalie.kilhamn at gmail.com
+[2] 03 Mar 11 or 31 Jul 11
+[3] {I create a Slave Golem whose name is the full body of this message.
+
+
+             (Preemptive arguments: It's not confusing, merely long.)
+
+On Fri, Jun 8, 2012 at 7:16 PM, Pavitra <celestialcognition at gmail.co
+             m> wrote:
+             > On 06/08/2012 07:03 PM, John Smith wrote:
+             >> For good measure, I transfer Scapegoat to Pavitra.
+             >
+I transfer Scapegoat to the number four hundred forty-one thousand
+               three
+             > hundred forty-four.
+            }
+[4] (spambait3 at yahoo.com)
+[5] penguinofthegods at googlemail.com
+[6] flameshadowxeroshin at gmail.com
+
+Left in 2013:
+
+v scshunt            scshunt at csclub.uwaterloo.ca    3 Mar 11   12 Jan 13
+e Solider-*-* [1]    c/o Pavitra                      16 Jan 13   16 Jan 13
+e Ted                c/o Italy                        16 Jan 13   16 Jan 13
+e a person ...[2]    c/o G.                           28 Sep 12   22 Jan 13
+e Eileen             c/o Pavitra                       5 Jun 12   22 Jan 13
+e the Cayman Islands c/o G.                            4 May 12   22 Jan 13
+e Our Lady of [3]    ?                                30 Jun 12   22 Jan 13
+e Ur                 ?                                31 Mar 12   22 Jan 13
+a BobTHJ             pidgepot at gmail.com             3 Jun 12    7 Apr 13
+a FKA441344          441344 at gmail.com              13 Jan 12    7 Apr 13
+a justine sells      dudebabe3 at gmail.com           18 Jun 12    7 Apr 13
+a Ozymandias         ozymandias.haynes at gmail.com   28 Jun 12    7 Apr 13
+a scat               agora at lesidhetree.com [4]     18 May 12    7 Apr 13
+e ais523's [5]       ?                                29 Jun 12   20 Apr 13
+e BuckyBot           c/o Bucky spambait3 at ya...[6]  31 Mar 12   20 Apr 13
+e Tweedledee         ?                                28 Jan 13   20 Apr 13
+e Tweedledum         ?                                28 Jan 13   20 Apr 13
+d Agora Nomic        ?                                23 Jun 11   22 Apr 13
+a Arkady             arkadyenglish+agora at gm...[7]  18 Jul 11   21 May 13
+a moonroof           roycewoodspam at gmail.com       13 Jul 12   21 May 13
+a Phlogistique       rnoe.rubinstein at gmail.com     25 Jun 12   21 May 13
+r scshunt            scshunt at csclub.uwaterloo.ca    1 Apr 13   30 Apr 13
+r scshunt            scshunt at csclub.uwaterloo.ca   30 Apr 13    6 May 13
+r scshunt            scshunt at csclub.uwaterloo.ca    9 May 13   12 May 13
+r scshunt            scshunt at csclub.uwaterloo.ca   13 May 13   20 May 13
+r scshunt            scshunt at csclub.uwaterloo.ca   26 May 13   28 May 13
+v Turiski            turiski.nomic at gmail.com       26 Jul 13   30 Jul 13
+v Wooble             wooble at nomictools.com          3 Oct 11   12 Aug 13
+v Machiavelli        swettt at mail.gvsu.edu          25 Apr 12   25 Aug 13
+v Arufonsu           swettt at mail.gvsu.edu          15 Dec 13   29 Dec 13
+
+[1] Many entities; effectiveness disputed.
+[2] a person announcing support or intent to do so
+[3] Our Lady of Perpetual Responsibility
+[4] Also schrodingers.katana at gmail.com
+[5] ais523's imaginary friend
+[6] c/o Bucky spambait3 at yahoo.com
+[7] arkadyenglish+agora at gmail.com
+
+Left in 2014:
+
+v OscarMeyr          ben.dov.schultz at gmail.com      9 Jul 13   28 Jan 14
+a arkestra           arkestra at gmail.com            28 Jun 13   12 Feb 14
+a ehird              penguinofthegods at gmail.com    29 Jan 13   12 Feb 14
+a FKA441344          441344 at gmail.com               2 Jul 13   12 Feb 14
+a FSX                flameshadowxeroshin at gm...[1]   3 Apr 12   12 Feb 14
+a Ienpw III          james.m.beirne at gmail.com      14 May 13   12 Feb 14
+a Lindar             lindarthebard at gmail.com        8 Jul 13   12 Feb 14
+a Max Schutz         maxschutz777 at gmail.com         5 Nov 12   12 Feb 14
+a Sgeo               sgeoster at gmail.com            21 Oct 11   12 Feb 14
+a teucer             teucer at pobox.com               5 Aug 13   12 Feb 14
+a Walker             charles.w.walker at gmail.com    19 Mar 11   12 Feb 14
+a Wes                wesc at antitribu.com            29 Jan 13   12 Feb 14
+v Phlogistique       noe.rubinstein at gmail.com      30 Jan 14   28 Feb 14
+v Wooble             wooble at nomictools.com         24 Oct 13   28 Feb 14
+v Sam (disputed)     c/o Walker                       14 Aug 13   26 Mar 14
+a aperfectring       jstefek at gmail.com             15 Aug 13    6 May 14
+a Cole Jackson       colejackson at gmail.com         26 Jan 14    6 May 14
+a Ludwig             tysger.nomic at gmail.com         8 Apr 13    6 May 14
+a nichdel            nichdel at gmail.com             14 Aug 13    6 May 14
+a Philomory          philomory at gmail.com           18 Oct 13    6 May 14
+a Schrodinger's Cat  agora at lesidhetree.com         15 Sep 13    6 May 14
+a Shredder           geoff at geoffschmidt.com        30 Jan 14    6 May 14
+a Telnaior           JDGA at iinet.net.au             18 Oct 13    6 May 14
+a Thimblefox         brianblomlie at icloud.com       14 Feb 14    6 May 14
+a William Eisenburg  william.eisenberg at gmail.com   14 Aug 13    6 May 14
+a Fool               fool1901 at gmail.com            24 Jun 13   22 Jul 14
+a Walker             charles.w.walker at gmail.com    26 Mar 14   22 Jul 14
+a Liberonscien [2]   x1122334455 at Writing.Com       23 Apr 14   22 Jul 14
+a Yally               aarongoldfein at gmail.com       7 Feb 09   22 Jul 14
+v G.                 kerim at u.washington.edu        18 Oct 11   11 Aug 14
+v scshunt            scshunt at csclub.uwaterloo.ca    2 Jan 14   22 Aug 14
+r Eritivus           eritivus at gmail.com            11 Oct 14   11 Oct 14
+v Chester Mealer     cdm014 at gmail.com               3 Jul 14   24 Oct 14
+v the Warrigal       tannerswett at gmail.com          5 Aug 14   24 Nov 14
+v Eritivus           eritivus at gmail.com            19 Oct 14   16 Dec 14
+
+[1] flameshadowxeroshin at gmail.com
+[2] also x1122334455
+
+Left in 2015:
+
+v scshunt            scshunt at csclub.uwaterloo.ca   15 Oct 14    6 Apr 15
+v nichdel            nichdel at gmail.com             15 Oct 14    6 Apr 15
+a Bayushi            thelas.staloras at gmail.com     19 Oct 13   16 Jul 15
+a Khoyo              khoyobegenn at gmail.com         13 Nov 13   16 Jul 15
+v ironiridis         ironiridis at gmail.com           1 May 15   29 Jul 15
+d Gaelan Steele      gbs at canishe.com               27 May 15   10 Aug 15
+d Ienpw III          james.m.beirne at gmail.com       8 Oct 14   10 Aug 15
+d Joe Piercey        joerpiercey at gmail.com         15 Oct 14   10 Aug 15
+d scshunt            scshunt at csclub.uwaterloo.ca   23 Apr 15   10 Aug 15
+d stadjer            stadjernomic at gmail.com        23 Mar 15   10 Aug 15
+d Tiger              jonatan.kilhamn at gmail.com [1] 17 Dec 13   10 Aug 15
+d Tristan Bredeweg   trstnbrdwg0 at gmail.com         28 Jul 15   10 Aug 15
+d woggle             woggling at gmail.com            19 Jan 13   10 Aug 15
+
+[1] Later switched to natalie.kilhamn at gmail.com
+
+Left in 2017:
+
+v Alexis             alercah at gmail.com             14 Sep 16    8 Jan 17
+v Roujo              jonathan.rouillard at gmail.com  16 Dec 10   27 May 17
+v grok               grokagora at gmail.com           18 May 17   29 May 17
+v nichdel            nichdel at gmail.com             01 Dec 15   29 May 17
+d aranea             aranea at aixea.de               31 Aug 14   31 May 17
+d Charles            charles.w.walker at gmail.com    11 Jul 16   31 May 17
+d Henri              henrib736 at gmail.com           07 May 13   31 May 17
+d Sci_Guy12          jwc.science at gmail.com         14 Jul 16   31 May 17
+d Tekneek            tekgora at theglycerintekneek.com12 Jun 15   31 May 17
+d Warrigal, the [1]  tannerswett at gmail.com         25 Apr 15   31 May 17
+d Yally              aarongoldfein at gmail.com       11 Jul 16   31 May 17
+w G.                 kerim at u.washington.edu        29 Jun 17   29 Jun 17
+v Cuddlebeam         cuddlebeam at googlemail.com     20 May 17   21 Jul 17
+v V.J. Rada [2]      vijarada at gmail.com            07 Jun 17   11 Aug 17
+d Zachary Watterson[3]tannerswett at gmail.com        26 Mar 17   27 Aug 17
+d tmanthe2nd         trstnbrdwg0 at gmail.com         13 May 17   27 Aug 17
+v Kyle Anderson      kyescott513c at gmail.com        23 Aug 17   24 Aug 17
+d Sprocklem          sprocklem at gmail.com           19 Oct 13   10 Sep 17
+d Veggiekeks         martinjroensch at gmail.com      25 May 17   15 Sep 17
+d babelian           kumarraja.ajay at gmail.com      29 Jul 17   15 Sep 17
+v ais523             ais523 at alumni.bham.ac.uk [4]  20 Mar 11   23 Sep 17
+v grok               grokagora at gmail.com           24 Jul 17   27 Sep 17
+d Ienpw III          james.m.beirne at gmail.com      21 May 17   16 Nov 17
+d Bayushi            thelas.staloras at gmail.com     29 Jun 17   16 Nov 17
+d ProofTechnique     jhenahan at me.com               23 Sep 17   16 Nov 17
+d Murphy             emurphy42 at zoho.com            27 Oct 07   17 Nov 17
+v V.J. Rada          vijarada at gmail.com            05 Sep 17   28 Nov 17
+
+[1] previously Alfonso Machiavelli, the Warrigal
+[2] later known as R. Lee
+[3] also known as Gumball
+[4] also callforjudgement at yahoo.co.uk
+
+Left in 2018:
+
+v ATMunn             iamingodsarmy at gmail.com       21 Sep 17   09 Feb 18
+v Alexis             alercah at gmail.com             27 Sep 17   28 Feb 18
+a o                  owen at grimoire.ca              12 Jul 16   16 Oct 18
+a Kenyon             kprater3.14 at gmail.com         27 Feb 18   16 Oct 18
+a Quazie             quazienomic at gmail.com         15 Apr 17   16 Oct 18
+a Ouri               ouri.poupko at gmail.com         03 Apr 18   16 Oct 18
+
+Left in 2019:
+
+a Telnaior           jdga at iinet.net.au                         15 Jan 19
+w Telnaior           jdga at iinet.net.au             29 Jan 19   29 Jan 19
+a 天火狐 [1]         draconicdarkness at gmail.com     06 Nov 16  03 Feb 19
+a pokes              pokes at botnoise.org            11 Dec 17   03 Feb 19
+a nichdel [2]        nichdel at gmail.com             29 Jun 17   24 May 19
+a Tarhalindur        ahzin23 at icstudents.org        31 Oct 18   13 Jul 19
+v nch [2]            nichdel at gmail.com             14 Jul 19   25 Jul 19
+v R. Lee [3]         edwardostrange at gmail.com [4]  29 Dec 17   29 Jul 19
+a L                  prmcd16 at yahoo.com             20 Sep 18   24 Aug 19
+a Corona             liliumalbum.agora at gmail.com   17 Nov 17   24 Aug 19
+p Hālian             halian at safiria.net            20 Oct 18   18 Sep 19
+a Telnaior           jdga at iinet.net.au             29 Jan 19   22 Sep 19
+a P.S.S. [5]  pscriboniusscholasticus at gmail.com[6] 16 Apr 17   22 Sep 19
+a Jacob Arduino      jacobarduino at gmail.com        12 Nov 18   19 Nov 19
+
+[1] Alternative/transliteration: Tenhigitsune
+[2] known as nichdel, nch, then later (in 2020) nix
+[3] also known as V.J. Rada
+[4] Later changed to SarahEstrange0 at gmail.com.
+[5] also known as Publius Scribonius Scholasticus
+[6] officially, but technically equivalent:
+    p.scribonius.scholasticusatgooglemail.com
+
+
+Left in 2020:
+
+v R. Lee             edwardostrange at gmail.com [1]  29 Dec 19   25 Jan 20
+r R. Lee             edwardostrange at gmail.com [1]  28 Feb 20   01 Mar 20
+a o                  owen at grimoire.ca              23 May 19   09 Apr 20
+a Walker             charles.w.walker at gmail.com    02 Jun 19   17 Apr 20
+w Warrigal           tannerswett at gmail.com         24 Jan 20   23 Apr 20
+a Bernie             hidreigon at gmail.com           06 Apr 19   23 Apr 20
+a Rance              rance_28 at yahoo.com            09 Apr 19   23 Apr 20
+v Alexis             alercah at gmail.com             06 Jan 20   03 May 20
+a pikhq              agora at ada.pikhq.com           20 Oct 19   30 May 20
+v Bögtil             stefan.fjellander at gmail.com   22 May 20   20 Jun 20
+x R. Lee             edwardostrange at gmail.com [1]  16 Mar 20   30 Jun 20
+x R. Lee (55 times)  edwardostrange at gmail.com [1]  30 Jun 20   30 Jun 20
+(The previous two lines represent 56 total deregistrations of R. Lee.)
+a Tcbapo             tcbapoagora at gmail.com         28 Jan 20   12 Jul 20
+a Tyler              tylermeady at gmail.com          06 Jun 20   20 Nov 20
+a Zyborg             zyborgmao at gmail.com           21 Jun 20   20 Nov 20
+a Fred               zarathustraincandenza... [2]     03-Jul-20   20 Nov 20
+a Shelvacu [3]       agora at shelvacu.com            08-Aug-20   20 Nov 20
+a D. Margaux [4]     dmargaux000 at gmail.com         25 Aug 18   29 Nov 20
+a Baron von Vaderham davidseeber at outlook.com       04 Feb 19   29 Nov 20
+a Telnaior           JDGA at iinet.net.au             21 Mar 20   29 Nov 20
+a sukil              sukiletxe+agora at gmail.com     12 Feb 20   29 Nov 20
+a twg                me at timon.red                  24 May 18   27 Dec 20
+v P.S.S. [5]         p.scribonius.scholasticus... [6] 01 Mar 20   31 Dec 20
+
+[1] Later changed to SarahEstrange0 at gmail.com.
+[2] zarathustraincandenza at gmail.com
+[3] Also known as Shel.
+[4] Also known as D Margaux.
+[5] also known as Publius Scribonius Scholasticus
+[6] p.scribonius.scholasticus at gmail.com
+
+
+Left in 2021:
+
+a grok               grokagora at gmail.com           20 May 20   01 May 21
+a Shy Owl            shy.owlman at gmail.com          11 Nov 20   01 May 21
+a Lucidiot           Lucidot at brainshit.fr          08 Nov 20   30 Jun 21
+a JTAC               hmcl.supv at gmail.com           03 Jan 21   30 Jun 21
+a Noah               blackbeangirl919 at gmail.com    14 Jan 21   30 Jun 21
+a Ubercrow           unicationsmith2009 at gmail.com  11 Jan 21   24 Aug 21
+a Joe [1]            arran.soule at gmail.com         19 Jan 21   24 Aug 21
+a Aenet              aidananthony14 at gmail.com      16 Mar 21   24 Aug 21
+a Mask               OatmealSurprise... [2]           03 Jul 21   05 Sep 21
+v R. Lee             Sarahestrange0 at gmail.com      30 Jun 20   19 Sep 21
+v D. Wet             d.wet at nomica.nl               27 Jul 21   26 Sep 21
+a Jumble             notajumbleofnumbers... [3]       21 Mar 21   22 Oct 21
+v Telna [4]          agoratelna at iprimus.com.au     14 Jun 21   26 Oct 21
+v Shy Owl            shy.owlman at gmail.com          03 Oct 21    3 Nov 21
+
+
+
+[1] Slam_Joe_Jr_Supreme
+[2] OatmealSurprise at protonmail.com
+[3] notajumbleofnumbers at gmail.com
+[4] Formerly Telnaior
+
+
+Left in 2022:
+
+v Falsifian          agora at falsifian.org           13 Feb 19   22 Feb 22
+a Nathan             nathans.agora.email... [1]       19 Aug 20   22 Feb 22
+a SeventeenMachine   17sagoranomicinbox at gmail.com  17 Apr 21   22 Feb 22
+a Surprise           surprisenomic at gmail.com       20 Jun 21   22 Feb 22
+a Pat                zettels_traum at tutanota.com    23 Jul 21   22 Feb 22
+v ATMunn             iamingodsarmy at gmail.com       11 Mar 18   14 Mar 22
+w Aspen [2]          thoughtsoflifeandlight17... [3]  13 Sep 16   08 Apr 22
+a tris               trstnbrdwg0 at gmail.com         12 Nov 21   08 Apr 22
+a redtara [4]        redxtara at gmail.com            07 Oct 21   08 Apr 22
+a Benbot²            benjaminfrancis...[5]            03 Oct 21   08 Apr 22
+a Trapdoorspyder     tdsagora at gmail.com            25 Sep 21   08 Apr 22
+a BigBobBingo !      arran.soule at gmail.com         22 Sep 21   08 Apr 22
+a Sgeo               sgeoster at gmail.com            28 Jan 22   04 Jun 22
+a TABBAT             tabchesnut at gmail.com          07 Feb 22   04 Jun 22
+
+
+[1] nathans.agora.email at gmail.com
+[2] Formerly Aris
+[3] thoughtsoflifeandlight17 at gmail.com
+[4] Formerly Ienpw III
+[5] benjaminfrancisrodriguez at gmail.com
+
+
+Currently registered players:
+s omd                comexk at gmail.com              03 Feb 11
+s Gaelan             gbs at canishe.com               15 May 17
+s G.                 kerim at uw.edu                  25 Aug 17
+s Madrid             cuddlebeam at gmail.com          25 Aug 17
+s Trigon             reuben.staley at gmail.com       24 Sep 17
+s Murphy             murphy.agora at gmail.com [1]    17 Dec 17
+s Jason              jason.e.cobb at gmail.com        02 Jun 19
+s nix                nixagora at protonmail.com       18 Oct 19
+s cuddlybanana       rose.strong42 at gmail.com       16 Mar 21
+s ais523             callforjudgement at yahoo.co.uk  08 Jun 21
+s R. Lee             Sarahestrange0 at gmail.com      22 Oct 21
+s secretsnail        secretsnail9 at gmail.com        29 Jan 22
+s juan               juan at juanmeleiro.mat.br       14 Mar 22
+s dahuman            hdrussell at outlook.com         01 Apr 22
+s CreateSource       createsource.nomic at gmail.com  14 May 22
+s 4st                notorious4st at gmail.com        25 Jun 22
+s Vitor Gonçalves    vitorg at tilde.team             23 Jul 22
+s Cap'n              acadia_but_real [2]              15 Aug 22
+s Pilgore            drpilgore@gmail.com              15 Aug 22
+
+
+[1] Previously emurphy42 at zoho.com.
+[2] acadia_but_real at protonmail.com

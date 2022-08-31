@@ -1,0 +1,1 @@
+I didn't finish automating the weekly and monthly, sorry. The deport script requires a csv of all players that is not included in the repo for privacy. Email me (nix) for a copy. Once you have it, 'python3 deport.py' will update the mboxes and generate a list of deregistration and deactivation candidates. 
