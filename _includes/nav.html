@@ -1,0 +1,36 @@
+<div class="container">
+  <nav class="main-nav">
+    <ul class="main-menu">
+      {%- assign last_url_char = site.baseurl | slice: -1,1 -%}
+      {%- if last_url_char == "/" -%}
+      {%- assign page_url = site.baseurl | remove_last: "/" | append: page.url -%}
+      {%- else -%}
+      {%- assign page_url = site.baseurl | append: page.url -%}
+      {%- endif -%}
+      {%- for item in site.data.nav %}
+      <li class="main-menu-entry-container">
+        {%- if item.url -%}
+        <a class="main-menu-entry {%- if item.url == page_url %} active{% endif %}" href="{{ item.url }}">{{ item.label
+          }}</a>
+        {%- else -%}
+        <div class="main-menu-entry">{{ item.label }}</div>
+        {%- endif -%}
+
+        {%- if item.pages -%}
+        <ul class="submenu">
+          {%- for subitem in item.pages if subitem.url %}
+          <li>
+            <a class="{% if subitem.url == page_url %}active{% endif %}" href="{{ subitem.url }}">{{ subitem.label
+              }}</a>
+          </li>
+          {%- endfor %}
+        </ul>
+        {% endif %}
+      </li>
+      {%- endfor %}
+    </ul>
+  </nav>
+  <div class="coat-of-arms-container">
+    <img class="coat-of-arms" src="https://agoranomic.org/coat_of_arms.png">
+  </div>
+</div>
